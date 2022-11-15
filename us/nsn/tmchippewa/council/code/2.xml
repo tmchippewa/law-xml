@@ -20,7 +20,7 @@
         <text>The Tribal Court shall have general jurisdiction in all civil actions to the extent permitted by the Tribal constitution and by the laws of the United States. Such jurisdiction shall include, but not be limited to, jurisdiction over the following:</text>
         <para>
           <num>a.</num>
-          <text>Business transaction conducted within the territorial jurisdiction of the Tribal Court as defined in Section 2.0102(3) of this Code; and</text>
+          <text>Business transaction conducted within the territorial jurisdiction of the Tribal Court as defined in <cite path="2|2.01|2.0102">Section 2.0102</cite>(3) of this Code; and</text>
         </para>
         <para>
           <num>b.</num>
@@ -65,7 +65,7 @@
       </para>
       <para>
         <num>3.</num>
-        <text>The territorial jurisdiction of the Court extends to all territory within the exterior boundaries of the Turtle Mountain Jurisdiction as defined by Section 1.0502 of this Code unless otherwise provided.</text>
+        <text>The territorial jurisdiction of the Court extends to all territory within the exterior boundaries of the Turtle Mountain Jurisdiction as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code unless otherwise provided.</text>
       </para>
       <para>
         <num>4.</num>
@@ -105,12 +105,12 @@
     <section>
       <num>2.0301</num>
       <heading>General Limitations</heading>
-      <text>An action can only be commenced within the time stated in this Title unless a different time is specified by law. The time within which the action may be commenced starts at the time the act complained of was discovered, unless by law otherwise provided.</text>
+      <text>An action can only be commenced within the time stated in <cite path="2">this Title</cite> unless a different time is specified by law. The time within which the action may be commenced starts at the time the act complained of was discovered, unless by law otherwise provided.</text>
     </section>
     <section>
       <num>2.0302</num>
       <heading>Statute of Limitations</heading>
-      <text>All civil actions shall be commenced within six (6) years from the time the cause of action accrued in the case of contracts and within three (3) years  in the case of torts, unless a different time is prescribed by law. An action shall be deemed to have been commenced for the purposes of this section when the defendant or defendants have been served with summons or when a written complaint has been filed. The statute of limitations does not run against a minor, incompetent, or person serving in the Armed Forces of the United States, nor does the period run against persons absent from the jurisdiction for the purpose of avoiding process.</text>
+      <text>All civil actions shall be commenced within six (6) years from the time the cause of action accrued in the case of contracts and within three (3) years  in the case of torts, unless a different time is prescribed by law. An action shall be deemed to have been commenced for the purposes of <cite path="2|2.03|2.0302">this section</cite> when the defendant or defendants have been served with summons or when a written complaint has been filed. The statute of limitations does not run against a minor, incompetent, or person serving in the Armed Forces of the United States, nor does the period run against persons absent from the jurisdiction for the purpose of avoiding process.</text>
     </section>
     <section>
       <num>2.0303</num>
@@ -211,7 +211,7 @@
       <heading>Service of Summons and Complaint</heading>
       <para>
         <num>1.</num>
-        <text>A copy of the summons, together with a copy of the complaint as required under Section 2.0402 may be served by certified mail, return receipt requested, or may be served personally upon an individual defendant. Service may be made by leaving a copy of the summons and complaint at the defendant's usual abode with a resident of the household above the age of fourteen (14) years, if the defendant cannot be conveniently found.</text>
+        <text>A copy of the summons, together with a copy of the complaint as required under <cite path="2|2.04|2.0402">Section 2.0402</cite> may be served by certified mail, return receipt requested, or may be served personally upon an individual defendant. Service may be made by leaving a copy of the summons and complaint at the defendant's usual abode with a resident of the household above the age of fourteen (14) years, if the defendant cannot be conveniently found.</text>
       </para>
       <para>
         <num>2.</num>
@@ -891,7 +891,7 @@
       </para>
       <para>
         <num>3.</num>
-        <text>The failure of a party to demand a jury, as required by Subsection (2) of this section, constitutes a waiver by him of a trial by jury.</text>
+        <text>The failure of a party to demand a jury, as required by Subsection (2) of <cite path="2|2.09|2.0901">this section</cite>, constitutes a waiver by him of a trial by jury.</text>
       </para>
     </section>
     <section>
@@ -922,12 +922,12 @@
     <section>
       <num>2.0907</num>
       <heading>Jury Panel</heading>
-      <text>Within two (2) days after the receipt of the order of the Tribal Court Judge directing a jury to be summoned, the Clerk shall notify the parties or their attorneys that a drawing of a jury panel for the trial will take place at the Clerk's office. The tickets with the names corresponding to those on the list as provided in Section 2.0906 shall be placed in the jury wheel or drawing box, be thoroughly mixed, and shall be drawn one (1) at a time by the jury selectors in rotation, until twenty-four (24) names have been drawn. From this list of names, the defendant or his attorney shall strike one (1) name and then the plaintiff or his attorney shall strike one (1) name and so on alternately until twelve (12) names remain. If either party neglects or refuses to aid in the striking of the jury, the clerk shall strike on his behalf.</text>
+      <text>Within two (2) days after the receipt of the order of the Tribal Court Judge directing a jury to be summoned, the Clerk shall notify the parties or their attorneys that a drawing of a jury panel for the trial will take place at the Clerk's office. The tickets with the names corresponding to those on the list as provided in <cite path="2|2.09|2.0906">Section 2.0906</cite> shall be placed in the jury wheel or drawing box, be thoroughly mixed, and shall be drawn one (1) at a time by the jury selectors in rotation, until twenty-four (24) names have been drawn. From this list of names, the defendant or his attorney shall strike one (1) name and then the plaintiff or his attorney shall strike one (1) name and so on alternately until twelve (12) names remain. If either party neglects or refuses to aid in the striking of the jury, the clerk shall strike on his behalf.</text>
     </section>
     <section>
       <num>2.0908</num>
       <heading>Summons</heading>
-      <text>The clerk shall issue a summons, at least eight (8) days before trial, to the jurors not struck. The summons shall be served in the same manner as other summons in Section 2.0405 of this Code. If the summons be returned not served, then the clerk shall issue a new summons for any person on the roll of eligible jurors except those stricken by the parties. Such summons must be served at least five (5) days before the time set for trial.</text>
+      <text>The clerk shall issue a summons, at least eight (8) days before trial, to the jurors not struck. The summons shall be served in the same manner as other summons in <cite path="2|2.04|2.0405">Section 2.0405</cite> of this Code. If the summons be returned not served, then the clerk shall issue a new summons for any person on the roll of eligible jurors except those stricken by the parties. Such summons must be served at least five (5) days before the time set for trial.</text>
     </section>
     <section>
       <num>2.0909</num>
@@ -983,7 +983,7 @@
         </para>
         <para>
           <num>b.</num>
-          <text>A lack of the qualifications set out in Section 2.0903 of this Code;</text>
+          <text>A lack of the qualifications set out in <cite path="2|2.09|2.0903">Section 2.0903</cite> of this Code;</text>
         </para>
         <para>
           <num>c.</num>
@@ -1056,7 +1056,7 @@
     <section>
       <num>2.0917</num>
       <heading>Jury's Failure to Agree</heading>
-      <text>Whenever the judge shall be satisfied that the jury cannot agree on a verdict after due deliberation, he may discharge them and continue the case and if either party so demands, another jury must be selected as provided in this chapter.</text>
+      <text>Whenever the judge shall be satisfied that the jury cannot agree on a verdict after due deliberation, he may discharge them and continue the case and if either party so demands, another jury must be selected as provided in <cite path="2.09">this chapter</cite>.</text>
       <text>The case shall be continued to such time as the Court thinks reasonable unless the parties or their attorneys agree on a longer or shorter time or unless they agree that the judge may render a decision on the evidence already before him.</text>
     </section>
     <section>
@@ -1207,7 +1207,7 @@
     <section>
       <num>2.1201</num>
       <heading>Plea of Incompetency</heading>
-      <text>When incompetency, as defined in Section 2.1501(4) is an issue, such com- petency or incompetency shall be determined by a Competency Board. Actions shall be commenced as in other civil suits.</text>
+      <text>When incompetency, as defined in <cite path="2|2.15|2.1501">Section 2.1501</cite>(4) is an issue, such com- petency or incompetency shall be determined by a Competency Board. Actions shall be commenced as in other civil suits.</text>
       <text>Upon the filing of a complaint, the Chief Tribal Judge shall order a hearing by the Board.</text>
     </section>
     <section>
@@ -1245,7 +1245,7 @@
     <section>
       <num>2.1301</num>
       <heading>Tribal Court of Appeals</heading>
-      <text>The Tribal Court of Appeals is created by the adoption of this chapter in the Tribal Code.</text>
+      <text>The Tribal Court of Appeals is created by the adoption of <cite path="2.13">this chapter</cite> in the Tribal Code.</text>
     </section>
     <section>
       <num>2.1302</num>

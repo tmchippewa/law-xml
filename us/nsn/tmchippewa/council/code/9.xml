@@ -191,10 +191,10 @@
       <num>9.0217</num>
       <heading>Domestic Relations</heading>
       <text>The Turtle Mountain Tribal Code does not currently address the issue of the subordinate right of grandparents to visit their grandchild(ren) and the Tribe takes into consideration that if too many third parties are allowed to dilute the superior right of the parent(s) to care, custody, and control of their children, then such tribal interference would be contrary to the federal constitution; and therefore, third parties (i.e. grandparents) cannot be allowed to rely solely on the best interests of the child(ren) analysis to dilute and compete with fundamental, paramount, and superior parental rights.</text>
-      <text>Should a parent or other custodian of a child wish to disallow a child's grandparents from exercising the subordinate right recognized in Section 9.0216 above, the grandparents must first argue their subordinate right to visitation through mediation and show, by clear and convincing evidence, that the grandparents are not a threat to the physical and/or moral health and welfare of the child and that such grandparent visitation would not adversely interfere with the parent-child relationship.</text>
-      <text>The Tribal Court shall require mediation of the matter under this chapter before such a matter is brought to Tribal Court.  If mediation fails and if the mediator agrees, the court may order the dispute arbitrated by the person who attempted mediation.  Joinder of grandparents or of great grandparents awarded visitation rights under this section must occur in any proceeding to terminate parental rights.  (Resolution No. TMBC572-10-11_</text>
-      <text>This section does not apply to agency adoptions or when the child has been adopted by a person other than a stepparent or grandparent.  Any visitation rights granted under this section before the adoption of the child may be terminated upon the adoption if termination of the rights is in the best interest of the child.</text>
-      <text>An application for visitation rights under this section may be considered by the tribal court in conjunction with a divorce proceeding involving the parent of the minor child.  If any tribal court retains jurisdiction over the residential placement of the minor child or children by virtue of any prior proceeding, the rights conferred by this section maybe enforced by the grandparents or the great-grandparents through motion under the prior proceeding.  If no tribal court otherwise has jurisdiction, a proceeding to enforce grandparental visitation rights may be brought against the parent having primary residential responsibility as a civil action and venued in the county of residence of the minor child.</text>
+      <text>Should a parent or other custodian of a child wish to disallow a child's grandparents from exercising the subordinate right recognized in <cite path="9|9.02|9.0216">Section 9.0216</cite> above, the grandparents must first argue their subordinate right to visitation through mediation and show, by clear and convincing evidence, that the grandparents are not a threat to the physical and/or moral health and welfare of the child and that such grandparent visitation would not adversely interfere with the parent-child relationship.</text>
+      <text>The Tribal Court shall require mediation of the matter under <cite path="9.02">this chapter</cite> before such a matter is brought to Tribal Court.  If mediation fails and if the mediator agrees, the court may order the dispute arbitrated by the person who attempted mediation.  Joinder of grandparents or of great grandparents awarded visitation rights under <cite path="9|9.02|9.0217">this section</cite> must occur in any proceeding to terminate parental rights.  (Resolution No. TMBC572-10-11_</text>
+      <text><cite path="9|9.02|9.0217">This section</cite> does not apply to agency adoptions or when the child has been adopted by a person other than a stepparent or grandparent.  Any visitation rights granted under <cite path="9|9.02|9.0217">this section</cite> before the adoption of the child may be terminated upon the adoption if termination of the rights is in the best interest of the child.</text>
+      <text>An application for visitation rights under <cite path="9|9.02|9.0217">this section</cite> may be considered by the tribal court in conjunction with a divorce proceeding involving the parent of the minor child.  If any tribal court retains jurisdiction over the residential placement of the minor child or children by virtue of any prior proceeding, the rights conferred by <cite path="9|9.02|9.0217">this section</cite> maybe enforced by the grandparents or the great-grandparents through motion under the prior proceeding.  If no tribal court otherwise has jurisdiction, a proceeding to enforce grandparental visitation rights may be brought against the parent having primary residential responsibility as a civil action and venued in the county of residence of the minor child.</text>
     </section>
   </container>
   <container>
@@ -278,7 +278,7 @@
         </para>
         <para>
           <num>c.</num>
-          <text>The child has been adjudicated to have been abused or neglected or dependent in a prior proceeding. In determining whether termination   of parental rights would be in the best interest of the child in such case, the Court shall consider and make written findings regarding the factors contained in Subsection 2 of this Section 9.0304 and the following conditions or acts of the parent:</text>
+          <text>The child has been adjudicated to have been abused or neglected or dependent in a prior proceeding. In determining whether termination   of parental rights would be in the best interest of the child in such case, the Court shall consider and make written findings regarding the factors contained in Subsection 2 of this <cite path="9|9.03|9.0304">Section 9.0304</cite> and the following conditions or acts of the parent:</text>
           <para>
             <num>(1)</num>
             <text>Emotional illness, mental illness, mental deficiency, or use of alcohol or controlled substances rendering the parent unable to care for the immediate and on-going physical or psychological needs of the child; or</text>
@@ -306,7 +306,7 @@
               <num>(c)</num>
               <text>The continuation of the legal parent-child relationship greatly diminishes the child's prospects for early integration into a stable and permanent family.</text>
             </para>
-            <text>In determining whether termination of parental rights would be in the best interest of the child under this Subsection (d) the Court shall consider and make written findings regarding the factors contained in Subsection (2) of this Section 9.0304.</text>
+            <text>In determining whether termination of parental rights would be in the best interest of the child under this Subsection (d) the Court shall consider and make written findings regarding the factors contained in Subsection (2) of this <cite path="9|9.03|9.0304">Section 9.0304</cite>.</text>
           </para>
         </para>
         <para>
@@ -328,7 +328,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>Factors to be considered in certain instances. In determining whether to terminate parental rights under subsections (1)(c) or (1)(d) of this section, the Court shall consider and make written findings regarding:</text>
+        <text>Factors to be considered in certain instances. In determining whether to terminate parental rights under subsections (1)(c) or (1)(d) of <cite path="9|9.03|9.0304">this section</cite>, the Court shall consider and make written findings regarding:</text>
         <para>
           <num>a.</num>
           <text>The timeliness, nature, and extent of services offered or provided to the parent and the child to facilitate reunion of the child with the parent.</text>
@@ -364,10 +364,10 @@
       </para>
       <para>
         <num>3.</num>
-        <text>Factors to be considered in all instances. Where any of the circumstances in subsections (1) (a) through (1)(e) of this Section 9.0304 exist, the Court shall consider:</text>
+        <text>Factors to be considered in all instances. Where any of the circumstances in subsections (1) (a) through (1)(e) of this <cite path="9|9.03|9.0304">Section 9.0304</cite> exist, the Court shall consider:</text>
         <para>
           <num>a.</num>
-          <text>The contents of the assessment and report, if any, submitted pursuant to Section 9.0303 of this Code.</text>
+          <text>The contents of the assessment and report, if any, submitted pursuant to <cite path="9|9.03|9.0303">Section 9.0303</cite> of this Code.</text>
         </para>
         <para>
           <num>b.</num>
@@ -384,7 +384,7 @@
       </para>
       <para>
         <num>5.</num>
-        <text>Deprivation of custody through divorce, separation, act of other parent. Not withstanding any other provisions of this Section 9.0304, no legal parent-child relationship may be terminated solely because a parent has been deprived of the legal custody of a child by reason of a divorce or a legal separation, or of the physical custody of a child by the act of conduct of the other parent of the child.</text>
+        <text>Deprivation of custody through divorce, separation, act of other parent. Not withstanding any other provisions of this <cite path="9|9.03|9.0304">Section 9.0304</cite>, no legal parent-child relationship may be terminated solely because a parent has been deprived of the legal custody of a child by reason of a divorce or a legal separation, or of the physical custody of a child by the act of conduct of the other parent of the child.</text>
       </para>
     </section>
     <section>
@@ -416,16 +416,16 @@
         </para>
         <para>
           <num>b.</num>
-          <text>If the Court finds that the services or social service contract as described in Section 9.0304 (2a) and (2b) of this Act were insufficient or inadequate, the Court may order an agency to develop a plan of service for the child and his parents.</text>
+          <text>If the Court finds that the services or social service contract as described in <cite path="9|9.03|9.0304">Section 9.0304</cite> (2a) and (2b) of this Act were insufficient or inadequate, the Court may order an agency to develop a plan of service for the child and his parents.</text>
         </para>
         <para>
           <num>c.</num>
-          <text>Any order the Court makes under Subsection 2(a) of this Section 9.0306 shall specify what residual rights and responsibilities remain with each living parent, and shall designate the period of time the order shall remain in effect, with mandatory review by the Court no later than six months thereafter and at subsequent intervals of not more than one year.</text>
+          <text>Any order the Court makes under Subsection 2(a) of this <cite path="9|9.03|9.0306">Section 9.0306</cite> shall specify what residual rights and responsibilities remain with each living parent, and shall designate the period of time the order shall remain in effect, with mandatory review by the Court no later than six months thereafter and at subsequent intervals of not more than one year.</text>
         </para>
       </para>
       <para>
         <num>3.</num>
-        <text>Court Review of Permanent Placement Plan. In conducting reviews pursuant to Subsections 1(b) and 2(c) of the Section 9.0306, the Court or a hearing officer designated by the Court shall hold a hearing and require that the presence of the guardian of the child's person or any other person the Court or the hearing officer deems necessary to conduct the review.</text>
+        <text>Court Review of Permanent Placement Plan. In conducting reviews pursuant to Subsections 1(b) and 2(c) of the <cite path="9|9.03|9.0306">Section 9.0306</cite>, the Court or a hearing officer designated by the Court shall hold a hearing and require that the presence of the guardian of the child's person or any other person the Court or the hearing officer deems necessary to conduct the review.</text>
       </para>
     </section>
     <section>
@@ -433,7 +433,7 @@
       <heading>Court Order Granting Termination of Parental Rights of a Child</heading>
       <para>
         <num>1.</num>
-        <text>Form and content of orders. Every order the Court makes pursuant to Section 9.0306 of this Act shall be in writing and shall recite the findings upon which the order is based, including findings pertaining to the jurisdiction of the Court. Every order must fix responsibility for the support of the child.</text>
+        <text>Form and content of orders. Every order the Court makes pursuant to <cite path="9|9.03|9.0306">Section 9.0306</cite> of this Act shall be in writing and shall recite the findings upon which the order is based, including findings pertaining to the jurisdiction of the Court. Every order must fix responsibility for the support of the child.</text>
       </para>
       <para>
         <num>2.</num>
@@ -463,7 +463,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Hold a hearing to determine if any notice shall be provided the child and if so, the nature and the notice. At such hearing, the Court may appoint an Attorney Ad Litem to represent the child. An agency which is notified under Section (3-1) of this Section shall notify the adoptive parents of a child who has been adopted or, if the child has not been adopted, the prospective adoptive parents, if any. Such notice shall inform the parties of the pendency of the challenge and of their right to be heard regarding such challenge. The agency issuing such notice shall certify to the Court in which the attached was filed that the requirements of this subsection have been met.</text>
+            <text>Hold a hearing to determine if any notice shall be provided the child and if so, the nature and the notice. At such hearing, the Court may appoint an Attorney Ad Litem to represent the child. An agency which is notified under Section (3-1) of <cite path="9|9.03|9.0308">this Section</cite> shall notify the adoptive parents of a child who has been adopted or, if the child has not been adopted, the prospective adoptive parents, if any. Such notice shall inform the parties of the pendency of the challenge and of their right to be heard regarding such challenge. The agency issuing such notice shall certify to the Court in which the attached was filed that the requirements of this subsection have been met.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -637,7 +637,7 @@
       <heading>Persons Required to Consent to Adoption</heading>
       <para>
         <num>1.</num>
-        <text>Unless consent is not required under Section 9.0406, a petition to adopt a minor may be granted only if written consent to a particular adoption has been executed by:</text>
+        <text>Unless consent is not required under <cite path="9|9.04|9.0406">Section 9.0406</cite>, a petition to adopt a minor may be granted only if written consent to a particular adoption has been executed by:</text>
         <para>
           <num>a.</num>
           <text>The mother of the minor whether by birth or adoption.</text>
@@ -652,7 +652,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>He is presumed to be the natural father of the minor, under Section 9.0426, provided he nonexistence of the father and child relationship between them has not been judicially determined.</text>
+          <text>He is presumed to be the natural father of the minor, under <cite path="9|9.04|9.0426">Section 9.0426</cite>, provided he nonexistence of the father and child relationship between them has not been judicially determined.</text>
         </para>
         <para>
           <num>c.</num>
@@ -704,15 +704,15 @@
         </para>
         <para>
           <num>c.</num>
-          <text>The father of a minor if the father's consent is not required by Subdivision (b) of Subsection (1) of Section 9.0405.</text>
+          <text>The father of a minor if the father's consent is not required by Subdivision (b) of Subsection (1) of <cite path="9|9.04|9.0405">Section 9.0405</cite>.</text>
         </para>
         <para>
           <num>d.</num>
-          <text>A parent who has relinquished his right to consent under Section 9.0301.</text>
+          <text>A parent who has relinquished his right to consent under <cite path="9|9.03|9.0301">Section 9.0301</cite>.</text>
         </para>
         <para>
           <num>e.</num>
-          <text>A parent whose parental rights have been terminated by order of Court under Section 9.0301.</text>
+          <text>A parent whose parental rights have been terminated by order of Court under <cite path="9|9.03|9.0301">Section 9.0301</cite>.</text>
         </para>
         <para>
           <num>f.</num>
@@ -737,7 +737,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>Except as provided in Section 9.0411, notice of a hearing on a petition for adoption need not be given to a person whose consent is not required or to a person whose consent or relinquishment has been filed with the petition.</text>
+        <text>Except as provided in <cite path="9|9.04|9.0411">Section 9.0411</cite>, notice of a hearing on a petition for adoption need not be given to a person whose consent is not required or to a person whose consent or relinquishment has been filed with the petition.</text>
       </para>
     </section>
     <section>
@@ -857,11 +857,11 @@
       </para>
       <para>
         <num>2.</num>
-        <text>This section does not apply to an adoption by a stepparent whose spouse is a natural or adoptive parent of the child.</text>
+        <text><cite path="9|9.04|9.0410">This section</cite> does not apply to an adoption by a stepparent whose spouse is a natural or adoptive parent of the child.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>Any report made under this section must be signed and verified by the petitioner.</text>
+        <text>Any report made under <cite path="9|9.04|9.0410">this section</cite> must be signed and verified by the petitioner.</text>
       </para>
     </section>
     <section>
@@ -876,11 +876,11 @@
         </para>
         <para>
           <num>b.</num>
-          <text>Any agency or person whose consent to the adoption is required by this chapter but who has not consented.</text>
+          <text>Any agency or person whose consent to the adoption is required by <cite path="9.04">this chapter</cite> but who has not consented.</text>
         </para>
         <para>
           <num>c.</num>
-          <text>A person whose consent is dispensed with upon any ground mentioned in Subdivisions: (a), (b), (f), (h), (i), and (j) of Subsection (1) of Section 9.0406 but who has not consented; and</text>
+          <text>A person whose consent is dispensed with upon any ground mentioned in Subdivisions: (a), (b), (f), (h), (i), and (j) of Subsection (1) of <cite path="9|9.04|9.0406">Section 9.0406</cite> but who has not consented; and</text>
         </para>
         <para>
           <num>d.</num>
@@ -983,7 +983,7 @@
       <heading>Appeal and Validation of Adoption Decree</heading>
       <para>
         <num>1.</num>
-        <text>An appeal from any final order or decree rendered under this chapter may be taken in the manner and time provided for appeal from a judgment in civil action, which is thirty (30) days.</text>
+        <text>An appeal from any final order or decree rendered under <cite path="9.04">this chapter</cite> may be taken in the manner and time provided for appeal from a judgment in civil action, which is thirty (30) days.</text>
       </para>
       <para>
         <num>2.</num>
@@ -993,14 +993,14 @@
     <section>
       <num>9.0416</num>
       <heading>Hearings and Records in Adoption Proceedings; Confidential Nature; Disclosure of Identifying and Non-Identifying Information; When Applicable</heading>
-      <text>The Tribal Court, at any stage of any proceeding under this Chapter may order that this section shall apply in the case, but in no event shall the Court order this section to apply in any placement of a child with an extended family member. Notwithstanding any other law concerning public hearings and records:</text>
+      <text>The Tribal Court, at any stage of any proceeding under <cite path="9.04">this Chapter</cite> may order that <cite path="9|9.04|9.0416">this section</cite> shall apply in the case, but in no event shall the Court order <cite path="9|9.04|9.0416">this section</cite> to apply in any placement of a child with an extended family member. Notwithstanding any other law concerning public hearings and records:</text>
       <para>
         <num>1.</num>
-        <text>All hearings held in proceedings under this Chapter shall be held in closed court without admittance of any person other than essential officers of the Court, the parties, their witnesses, counsel, persons who have not previously consented to the adoption but are required to consent, and representatives of the agencies present to perform their official duties.</text>
+        <text>All hearings held in proceedings under <cite path="9.04">this Chapter</cite> shall be held in closed court without admittance of any person other than essential officers of the Court, the parties, their witnesses, counsel, persons who have not previously consented to the adoption but are required to consent, and representatives of the agencies present to perform their official duties.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>All papers, records, and information pertaining to the adoption whether part of the permanent record of the Court or a file in the BIA Social Service Office or in an agency are confidential and may be disclosed only in accordance with this Section.</text>
+        <text>All papers, records, and information pertaining to the adoption whether part of the permanent record of the Court or a file in the BIA Social Service Office or in an agency are confidential and may be disclosed only in accordance with <cite path="9|9.04|9.0416">this Section</cite>.</text>
       </para>
       <para>
         <num>3.</num>
@@ -1071,7 +1071,7 @@
         <text>No person may be required to disclose the name or identification of either, an adoptive parent or an adopted child except:</text>
         <para>
           <num>a.</num>
-          <text>In accordance with this section.</text>
+          <text>In accordance with <cite path="9|9.04|9.0416">this section</cite>.</text>
         </para>
         <para>
           <num>b.</num>
@@ -1084,11 +1084,11 @@
       </para>
       <para>
         <num>11.</num>
-        <text>The provisions of this section governing the release of identifying and non-identifying adoptive information apply to adoptions completed before and after the adoption of this act as ordered by the Tribal Court.</text>
+        <text>The provisions of <cite path="9|9.04|9.0416">this section</cite> governing the release of identifying and non-identifying adoptive information apply to adoptions completed before and after the adoption of this act as ordered by the Tribal Court.</text>
       </para>
       <para>
         <num>12.</num>
-        <text>Any child-placing agency discharging in good faith its responsibilities under this section is immune from any liability, civil, or criminal that otherwise might result.</text>
+        <text>Any child-placing agency discharging in good faith its responsibilities under <cite path="9|9.04|9.0416">this section</cite> is immune from any liability, civil, or criminal that otherwise might result.</text>
       </para>
       <para>
         <num>13.</num>
@@ -1116,7 +1116,7 @@
         </para>
         <para>
           <num>(1)</num>
-          <text>In accordance with this section;</text>
+          <text>In accordance with <cite path="9|9.04|9.0416">this section</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1129,7 +1129,7 @@
       </para>
       <para>
         <num>14.</num>
-        <text>The BIA Social Service office shall make such reasonable rules and regulations as are necessary to carry out the purposes of this section.</text>
+        <text>The BIA Social Service office shall make such reasonable rules and regulations as are necessary to carry out the purposes of <cite path="9|9.04|9.0416">this section</cite>.</text>
       </para>
     </section>
     <section>
@@ -1140,7 +1140,7 @@
     <section>
       <num>9.0418</num>
       <heading>Adoption and Legitimation by Conduct</heading>
-      <text>Notwithstanding the other provisions of this Chapter, the father of an illegitimate minor adopts and legitimates a minor by publicly acknowledging the minor as his child, receiving the minor into his home, with the consent of his wife, if he is married, and otherwise treating the minor as if the minor were legitimate. Thereafter, the minor is deemed the legitimate child of the father for all purposes from the time of birth of the minor, the same as if the adoption has been finally decreed pursuant to this chapter.</text>
+      <text>Notwithstanding the other provisions of <cite path="9.04">this Chapter</cite>, the father of an illegitimate minor adopts and legitimates a minor by publicly acknowledging the minor as his child, receiving the minor into his home, with the consent of his wife, if he is married, and otherwise treating the minor as if the minor were legitimate. Thereafter, the minor is deemed the legitimate child of the father for all purposes from the time of birth of the minor, the same as if the adoption has been finally decreed pursuant to <cite path="9.04">this chapter</cite>.</text>
     </section>
     <section>
       <num>9.0419</num>
@@ -1170,7 +1170,7 @@
         <text>Relinquishment and Termination of Parent and Child Relationship.</text>
         <para>
           <num>a.</num>
-          <text>The rights of a parent with reference to a child, including parental right to control the child or to withhold consent to an adoption, may be relinquished and the relationship of parent and child terminated in or prior to an adoption proceeding as provided in this Section.</text>
+          <text>The rights of a parent with reference to a child, including parental right to control the child or to withhold consent to an adoption, may be relinquished and the relationship of parent and child terminated in or prior to an adoption proceeding as provided in <cite path="9|9.04|9.0419">this Section</cite>.</text>
         </para>
         <para>
           <num>b.</num>
@@ -1186,7 +1186,7 @@
         </para>
         <para>
           <num>c.</num>
-          <text>In addition to any other proceeding provided by law, the relationship of parent and child may be terminated by a court order issued in connection with an adoption proceeding under this Section on any ground provided by law and in any event on the ground:</text>
+          <text>In addition to any other proceeding provided by law, the relationship of parent and child may be terminated by a court order issued in connection with an adoption proceeding under <cite path="9|9.04|9.0419">this Section</cite> on any ground provided by law and in any event on the ground:</text>
         </para>
         <para>
           <num>(1)</num>
@@ -1226,7 +1226,7 @@
         </para>
         <para>
           <num>f.</num>
-          <text>Notwithstanding the provisions of Subsection 2, a relinquishment of parental rights of a child executed under this section may be withdrawn by the natural parent, and a decree of a court terminating the parent-child relationship may be vacated by the court upon motion of the parent, if the child is not on placement for adoption and the person having custody of the child consents in writing to the withdrawal or vacation of the decree.</text>
+          <text>Notwithstanding the provisions of Subsection 2, a relinquishment of parental rights of a child executed under <cite path="9|9.04|9.0419">this section</cite> may be withdrawn by the natural parent, and a decree of a court terminating the parent-child relationship may be vacated by the court upon motion of the parent, if the child is not on placement for adoption and the person having custody of the child consents in writing to the withdrawal or vacation of the decree.</text>
         </para>
       </para>
       <para>
@@ -1237,7 +1237,7 @@
     <section>
       <num>9.0420</num>
       <heading>Jurisdiction of Courts</heading>
-      <text>Exclusive and continuing jurisdiction. The Tribal Court shall have exclusive original jurisdiction over all proceedings arising under this section. The Court may make other necessary or appropriate decisions relating to the placement and care of children, and shall review at least annually the case of every child over whom it has retained jurisdiction, until the child is adopted or attains majority.</text>
+      <text>Exclusive and continuing jurisdiction. The Tribal Court shall have exclusive original jurisdiction over all proceedings arising under <cite path="9|9.04|9.0420">this section</cite>. The Court may make other necessary or appropriate decisions relating to the placement and care of children, and shall review at least annually the case of every child over whom it has retained jurisdiction, until the child is adopted or attains majority.</text>
     </section>
     <section>
       <num>9.0421</num>
@@ -1272,7 +1272,7 @@
       </para>
       <para>
         <num>3.</num>
-        <text>Penalty for illegal fees. Any person, agency, association or corporation who gives, requests, receives, or accepts payment of cash or other consideration in violation of this Section 9.0422 shall be guilty of an offense, punishable by a fine of up to $365.00.</text>
+        <text>Penalty for illegal fees. Any person, agency, association or corporation who gives, requests, receives, or accepts payment of cash or other consideration in violation of this <cite path="9|9.04|9.0422">Section 9.0422</cite> shall be guilty of an offense, punishable by a fine of up to $365.00.</text>
       </para>
     </section>
     <section>
@@ -1319,7 +1319,7 @@
     <section>
       <num>9.0426</num>
       <heading>Parent and Child</heading>
-      <text>"Parent and child relationship" defined. As used in this Section "parent and child relationship" means the legal relationship existing between a child and his natural or adopted parents, which confers or imposes rights, privileges, duties, and obligations. It includes the mother and child relationship and the father and child relationship.</text>
+      <text>"Parent and child relationship" defined. As used in <cite path="9|9.04|9.0426">this Section</cite> "parent and child relationship" means the legal relationship existing between a child and his natural or adopted parents, which confers or imposes rights, privileges, duties, and obligations. It includes the mother and child relationship and the father and child relationship.</text>
     </section>
     <section>
       <num>9.0427</num>
@@ -1336,7 +1336,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>The natural father may be established under this Section.</text>
+        <text>The natural father may be established under <cite path="9|9.04|9.0428">this Section</cite>.</text>
       </para>
       <para>
         <num>3.</num>
@@ -1379,12 +1379,12 @@
         </para>
         <para>
           <num>e.</num>
-          <text>He acknowledges his paternity of the child in a writing filed with the Division of Vital Statistics with the State Department of Health which shall properly inform the mother of the filing of the acknowledgment within a reasonable time after being informed thereof, in a writing filed with the Division of Vital Statistics of the State Department of Health. If another man is presumed under this section to be the child's father, acknowledgment may be affected only with the written consent of the presumed father or after the presumed father has been rebutted.</text>
+          <text>He acknowledges his paternity of the child in a writing filed with the Division of Vital Statistics with the State Department of Health which shall properly inform the mother of the filing of the acknowledgment within a reasonable time after being informed thereof, in a writing filed with the Division of Vital Statistics of the State Department of Health. If another man is presumed under <cite path="9|9.04|9.0429">this section</cite> to be the child's father, acknowledgment may be affected only with the written consent of the presumed father or after the presumed father has been rebutted.</text>
         </para>
       </para>
       <para>
         <num>2.</num>
-        <text>A presumption under this section may be rebutted in an appropriate action only by clear and convincing evidence. If two or more presumptions arise which conflict with each other, the presumption on which the facts are founded on the weightier considerations of policy and logic controls. The presumption is rebutted by a court decree establishing paternity of the child by another man.</text>
+        <text>A presumption under <cite path="9|9.04|9.0429">this section</cite> may be rebutted in an appropriate action only by clear and convincing evidence. If two or more presumptions arise which conflict with each other, the presumption on which the facts are founded on the weightier considerations of policy and logic controls. The presumption is rebutted by a court decree establishing paternity of the child by another man.</text>
       </para>
       <para>
         <num>3.</num>
@@ -1395,7 +1395,7 @@
         <text>Voiding determination. (Amended Resolution No. TMBC1043-12-14)</text>
         <para>
           <num>(a)</num>
-          <text>A determination of paternity that arises under this section may be voided at any time upon a motion or petition stating facts that show fraud, duress or a mistake of fact. The burden of proof shall be upon the movant. Such burden shall be clear and convincing evidence.</text>
+          <text>A determination of paternity that arises under <cite path="9|9.04|9.0429">this section</cite> may be voided at any time upon a motion or petition stating facts that show fraud, duress or a mistake of fact. The burden of proof shall be upon the movant. Such burden shall be clear and convincing evidence.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1403,7 +1403,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>paragraphs (a) and (b) of this Section shall apply to Court Orders for paternity, child support, delinquent child support, including Orders in effects at the time of the enactment of this paragraph (c) and all subsequent Orders issued by the Court. (Resolution No. TMBC186-04-15)</text>
+          <text>paragraphs (a) and (b) of <cite path="9|9.04|9.0429">this Section</cite> shall apply to Court Orders for paternity, child support, delinquent child support, including Orders in effects at the time of the enactment of this paragraph (c) and all subsequent Orders issued by the Court. (Resolution No. TMBC186-04-15)</text>
         </para>
       </para>
     </section>
@@ -1412,7 +1412,7 @@
       <heading>Determination of Father and Child Relationship; Who May Bring an Action and When Action May Be Brought</heading>
       <para>
         <num>1.</num>
-        <text>A child, his natural mother, or a man presumed to be his father under subsection (a), (b), or (c) of Subsection (1) of Section 9.0426.3, may bring an action:</text>
+        <text>A child, his natural mother, or a man presumed to be his father under subsection (a), (b), or (c) of Subsection (1) of <cite path="9|9.04|9.0426">Section 9.0426</cite>.3, may bring an action:</text>
         <para>
           <num>a.</num>
           <text>At any time for the purpose of declaring the existence of the father and child relationship or;</text>
@@ -1424,11 +1424,11 @@
       </para>
       <para>
         <num>2.</num>
-        <text>An action may be brought to determine the existence of the father and child relationship with respect to a child who has no presumed father under Section 9.0426.3. The action may be brought by the child, the mother or personal representative of the child, the authorities charged with the support of the child, the personal representative or a parent of the mother if the mother has died, a man alleged or alleging himself to be the father, or the personal representative or a parent of the alleged father if the alleged father has died or is a minor.</text>
+        <text>An action may be brought to determine the existence of the father and child relationship with respect to a child who has no presumed father under <cite path="9|9.04|9.0426">Section 9.0426</cite>.3. The action may be brought by the child, the mother or personal representative of the child, the authorities charged with the support of the child, the personal representative or a parent of the mother if the mother has died, a man alleged or alleging himself to be the father, or the personal representative or a parent of the alleged father if the alleged father has died or is a minor.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>Regardless of its terms, an agreement, other than an agreement approved by the court between an alleged or presumed father and the mother or child, does not bar an action under this Section.</text>
+        <text>Regardless of its terms, an agreement, other than an agreement approved by the court between an alleged or presumed father and the mother or child, does not bar an action under <cite path="9|9.04|9.0430">this Section</cite>.</text>
       </para>
     </section>
     <section>
@@ -1439,10 +1439,10 @@
     <section>
       <num>9.0432</num>
       <heading>Jurisdiction</heading>
-      <text>The Tribal Court has jurisdiction of an action brought under this Section. The action may be joined with an action for divorce, annulment, separate maintenance, or support.</text>
+      <text>The Tribal Court has jurisdiction of an action brought under <cite path="9|9.04|9.0432">this Section</cite>. The action may be joined with an action for divorce, annulment, separate maintenance, or support.</text>
       <para>
         <num>1.</num>
-        <text>A person who has sexual intercourse within the jurisdiction of the Turtle Mountain Reservation or within this state, thereby submits to the jurisdiction of the Tribal Court or the courts of this state as to an action brought under this section or the laws of this state with respect to a child who may have been conceived by that act of intercourse. In addition to any other method provided by resolution or Codal Section, personal jurisdiction may be acquired by personal service of summons within the boundaries of the Turtle Mountain reservation or within or without this state or by registered mail with proof of actual receipt.</text>
+        <text>A person who has sexual intercourse within the jurisdiction of the Turtle Mountain Reservation or within this state, thereby submits to the jurisdiction of the Tribal Court or the courts of this state as to an action brought under <cite path="9|9.04|9.0432">this section</cite> or the laws of this state with respect to a child who may have been conceived by that act of intercourse. In addition to any other method provided by resolution or Codal Section, personal jurisdiction may be acquired by personal service of summons within the boundaries of the Turtle Mountain reservation or within or without this state or by registered mail with proof of actual receipt.</text>
       </para>
       <para>
         <num>2.</num>
@@ -1452,7 +1452,7 @@
     <section>
       <num>9.0433</num>
       <heading>Parties</heading>
-      <text>The child shall be made a party to the action. If he is a minor, he shall be represented by his general guardian or a Guardian Ad Litem appointed by the court. The natural mother, each man presumed to be the father under Section 9.0426.3 and each man alleged to be the natural father, shall be made parties or, if not subject to the jurisdiction of the court, shall be given notice of the action in a manner prescribed by the court and an opportunity to be heard.</text>
+      <text>The child shall be made a party to the action. If he is a minor, he shall be represented by his general guardian or a Guardian Ad Litem appointed by the court. The natural mother, each man presumed to be the father under <cite path="9|9.04|9.0426">Section 9.0426</cite>.3 and each man alleged to be the natural father, shall be made parties or, if not subject to the jurisdiction of the court, shall be given notice of the action in a manner prescribed by the court and an opportunity to be heard.</text>
     </section>
     <section>
       <num>9.0434</num>
@@ -1492,7 +1492,7 @@
       <heading>Civil Action; Trial</heading>
       <para>
         <num>1.</num>
-        <text>An action under this section is a civil action governed by the rules of civil procedure. The mother of the child and the alleged father are deemed to be competent to testify and may be compelled to testify.</text>
+        <text>An action under <cite path="9|9.04|9.0436">this section</cite> is a civil action governed by the rules of civil procedure. The mother of the child and the alleged father are deemed to be competent to testify and may be compelled to testify.</text>
       </para>
       <para>
         <num>2.</num>
@@ -1516,7 +1516,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>If the judgment or order of the court is at variance with the child's birth certificate, the court shall order that an amended registration be made under Section 9.0426.18.</text>
+        <text>If the judgment or order of the court is at variance with the child's birth certificate, the court shall order that an amended registration be made under <cite path="9|9.04|9.0426">Section 9.0426</cite>.18.</text>
       </para>
       <para>
         <num>3.</num>
@@ -1577,7 +1577,7 @@
       <heading>Enforcement of Judgment or Order</heading>
       <para>
         <num>1.</num>
-        <text>If existence of the father and child relationship is declared or paternity or a duty of support has been acknowledged or adjudicated under this section or under prior law, the obligation of the father may be enforced in the same or other proceedings by the mother, the child, the public authority that has furnished or may furnish the reasonable expenses for pregnancy, confinement, education, support, or funeral, or by any other person, including a private agency, to the extent he has furnished or is furnishing these expenses.</text>
+        <text>If existence of the father and child relationship is declared or paternity or a duty of support has been acknowledged or adjudicated under <cite path="9|9.04|9.0439">this section</cite> or under prior law, the obligation of the father may be enforced in the same or other proceedings by the mother, the child, the public authority that has furnished or may furnish the reasonable expenses for pregnancy, confinement, education, support, or funeral, or by any other person, including a private agency, to the extent he has furnished or is furnishing these expenses.</text>
       </para>
       <para>
         <num>2.</num>
@@ -1598,18 +1598,18 @@
       </para>
       <para>
         <num>2.</num>
-        <text>With respect to matters listed in Subsections (3) and (4) of Section 9.0426.11, except that a court entering a judgment or order for the payment of a lump sum or the establishment of a trust fund under Subsection 4 of Section 9.0426.11 may specify that the judgment or order may not be modified or revoked.</text>
+        <text>With respect to matters listed in Subsections (3) and (4) of <cite path="9|9.04|9.0426">Section 9.0426</cite>.11, except that a court entering a judgment or order for the payment of a lump sum or the establishment of a trust fund under Subsection 4 of <cite path="9|9.04|9.0426">Section 9.0426</cite>.11 may specify that the judgment or order may not be modified or revoked.</text>
       </para>
     </section>
     <section>
       <num>9.0441</num>
       <heading>Bearings and Records; Confidentiality</heading>
-      <text>Notwithstanding any other law concerning public hearings and records, any hearing or trial held under this section shall be held in closed court without admittance of any person other than those necessary to the action or proceeding. All papers and records, other than the final judgment, pertaining to the action or proceeding, whether part of the permanent record of the court or a file in any state agency or elsewhere, are subject to inspection only upon consent of the court and all interested persons, or in exceptional cases, only upon an order of court for good cause shown.</text>
+      <text>Notwithstanding any other law concerning public hearings and records, any hearing or trial held under <cite path="9|9.04|9.0441">this section</cite> shall be held in closed court without admittance of any person other than those necessary to the action or proceeding. All papers and records, other than the final judgment, pertaining to the action or proceeding, whether part of the permanent record of the court or a file in any state agency or elsewhere, are subject to inspection only upon consent of the court and all interested persons, or in exceptional cases, only upon an order of court for good cause shown.</text>
     </section>
     <section>
       <num>9.0442</num>
       <heading>Action to Declare Mother and Child Relationship</heading>
-      <text>Any interested party may bring an action to determine the existence or nonexistence of a mother and child relationship. Insofar as practicable, the provisions of this section apply to the father and child relationship also.</text>
+      <text>Any interested party may bring an action to determine the existence or nonexistence of a mother and child relationship. Insofar as practicable, the provisions of <cite path="9|9.04|9.0442">this section</cite> apply to the father and child relationship also.</text>
     </section>
     <section>
       <num>9.0443</num>
@@ -1645,7 +1645,7 @@
       <text>If a mother relinquishes or proposes to relinquish for adoption a child who has;</text>
       <para>
         <num>1.</num>
-        <text>A presumed father under Subsection (1) of Section 9.0426.3;</text>
+        <text>A presumed father under Subsection (1) of <cite path="9|9.04|9.0426">Section 9.0426</cite>.3;</text>
       </para>
       <para>
         <num>2.</num>
@@ -1768,13 +1768,13 @@
     <section>
       <num>9.0518</num>
       <heading>Death of Defendant</heading>
-      <text>In case of death of the defendant after the preliminary hearing, the action may be prosecuted against the personal representatives of the deceased with like effect as if he were living, subject to the measure of support as provided in Section 9.0505 of this Code, except that no arrest of such personal representatives shall take place or bond be required of him.</text>
+      <text>In case of death of the defendant after the preliminary hearing, the action may be prosecuted against the personal representatives of the deceased with like effect as if he were living, subject to the measure of support as provided in <cite path="9|9.05|9.0505">Section 9.0505</cite> of this Code, except that no arrest of such personal representatives shall take place or bond be required of him.</text>
     </section>
     <section>
       <num>9.0519</num>
       <heading>Finding Against Defendant</heading>
       <text>If the finding or verdict be against the defendant, the Court shall give judgment against him declaring paternity and for support of the child.</text>
-      <text>The judgment shall be for annual amounts, equal or varying, having regard to the obligation of the father under Section 9.0501 of this Code, as the Court directs, until the child reaches eighteen (18) years of age.</text>
+      <text>The judgment shall be for annual amounts, equal or varying, having regard to the obligation of the father under <cite path="9|9.05|9.0501">Section 9.0501</cite> of this Code, as the Court directs, until the child reaches eighteen (18) years of age.</text>
       <text>The payments may be required to made at such periods or intervals as the Court directs. In addition to providing for support, the judgment may also provide for the payment of the necessary expenses incurred by or for the mother in connection with the birth of the child.</text>
     </section>
     <section>
@@ -2040,7 +2040,7 @@
     <section>
       <num>9.0614</num>
       <heading>Restoration of Incompetent Person; Procedure</heading>
-      <text>Any person who has been declared mentally incompetent under Chapter 2.12 of this Code, or the guardian, or any relative of such mentally incompetent person, or a friend, may apply by petition to the Tribal Court to have the fact of his restoration to capacity judicially determined. The petition shall be verified and shall state that such person is mentally competent. Upon receiving such a petition, the Court shall order a hearing of the Competency Board. Notice of the hearing shall be given to the guardian of the petitioner, if there be a guardian, and to his or her father or mother, if living on the reservation.</text>
+      <text>Any person who has been declared mentally incompetent under <cite path="2.12">Chapter 2.12</cite> of this Code, or the guardian, or any relative of such mentally incompetent person, or a friend, may apply by petition to the Tribal Court to have the fact of his restoration to capacity judicially determined. The petition shall be verified and shall state that such person is mentally competent. Upon receiving such a petition, the Court shall order a hearing of the Competency Board. Notice of the hearing shall be given to the guardian of the petitioner, if there be a guardian, and to his or her father or mother, if living on the reservation.</text>
       <text>If it be found that the petitioner be of sound mind and capable of the taking care of himself and his property, his restoration to capacity shall be adjudged, and the guardianship of such person, if such person is not a child, shall cease.</text>
     </section>
   </container>
@@ -2051,7 +2051,7 @@
     <section>
       <num>9.0701</num>
       <heading>Validity of Marriage</heading>
-      <text>A marriage between a man and woman licensed, solemnized, and registered as proved in this Act is valid within the Turtle Mountain jurisdiction as defined by Section 1.0502 of this Code.</text>
+      <text>A marriage between a man and woman licensed, solemnized, and registered as proved in this Act is valid within the Turtle Mountain jurisdiction as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
     </section>
     <section>
       <num>9.0702</num>
@@ -2114,7 +2114,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>A marriage license and a marriage certificate form may be issued under this section only if the Court finds that the underaged party is capable of assuming the responsibilities of marriage and the marriage will serve his best interests. Pregnancy alone does not establish that the best interest of the party will be served.</text>
+        <text>A marriage license and a marriage certificate form may be issued under <cite path="9|9.07|9.0705">this section</cite> only if the Court finds that the underaged party is capable of assuming the responsibilities of marriage and the marriage will serve his best interests. Pregnancy alone does not establish that the best interest of the party will be served.</text>
       </para>
       <para>
         <num>3.</num>
@@ -2158,7 +2158,7 @@
         <text>A marriage between an uncle and a niece or between an aunt and a nephew, whether the relationship is by the half or the whole blood, except as to marriages permitted by the established customs of aboriginal cultures.</text>
         <para>
           <num>a.</num>
-          <text>Parties to a marriage prohibited under this section who cohabit after removal of the impediment are lawfully married as of the date of the removal of the impediment.</text>
+          <text>Parties to a marriage prohibited under <cite path="9|9.07|9.0707">this section</cite> who cohabit after removal of the impediment are lawfully married as of the date of the removal of the impediment.</text>
         </para>
         <para>
           <num>b.</num>
@@ -2221,7 +2221,7 @@
     <section>
       <num>9.0709</num>
       <heading>Putative Spouse</heading>
-      <text>Any person who has cohabited with another to whom he is not legally married in the good faith belief that he was married to that person is a putative spouse until knowledge of the fact that he is not legally married terminates his status and prevents acquisition of further rights. A putative spouse acquires the rights conferred upon a legal spouse, include the right to maintenance following termination of his status, whether or not the marriage is prohibited (Section 9.0707 of this Code) or declared invalid (Section 9.0708 of this Code). If there is a legal spouse or other putative spouses, rights acquired by a putative spouse do not supersede the rights of the legal spouse or those acquired by other putative spouses, but the Court shall apportion property, maintenance, and support rights among the claimants as appropriate in the circumstances and in the interests of justice.</text>
+      <text>Any person who has cohabited with another to whom he is not legally married in the good faith belief that he was married to that person is a putative spouse until knowledge of the fact that he is not legally married terminates his status and prevents acquisition of further rights. A putative spouse acquires the rights conferred upon a legal spouse, include the right to maintenance following termination of his status, whether or not the marriage is prohibited (<cite path="9|9.07|9.0707">Section 9.0707</cite> of this Code) or declared invalid (<cite path="9|9.07|9.0708">Section 9.0708</cite> of this Code). If there is a legal spouse or other putative spouses, rights acquired by a putative spouse do not supersede the rights of the legal spouse or those acquired by other putative spouses, but the Court shall apportion property, maintenance, and support rights among the claimants as appropriate in the circumstances and in the interests of justice.</text>
     </section>
     <section>
       <num>9.0710</num>
@@ -2274,7 +2274,7 @@
         </para>
         <para>
           <num>b.</num>
-          <text>The Court finds that the conciliation provisions of Section 9.0805 of this Code, either do not apply or have been met;</text>
+          <text>The Court finds that the conciliation provisions of <cite path="9|9.08|9.0805">Section 9.0805</cite> of this Code, either do not apply or have been met;</text>
         </para>
         <para>
           <num>c.</num>
@@ -2394,7 +2394,7 @@
         </para>
         <para>
           <num>b.</num>
-          <text>May be revoked or modified before final decree on a showing by affidavit of the facts necessary to revocation or modification of a final decree under Section 9.0816 of this Code; and</text>
+          <text>May be revoked or modified before final decree on a showing by affidavit of the facts necessary to revocation or modification of a final decree under <cite path="9|9.08|9.0816">Section 9.0816</cite> of this Code; and</text>
         </para>
         <para>
           <num>c.</num>
@@ -2571,7 +2571,7 @@
         <text>Definitions.</text>
         <para>
           <num>a.</num>
-          <text>Income: Income includes all sources available to the parent including but not limited to employment wages and salaries, commissions, fees, social security benefits, pension benefits, veterans benefits, cash value of benefits received such as free housing, free meals, unemployment benefits, insurance benefits, disability payments, life insurance benefits, income from trust funds, endowments and investments, self employment income (minus the cost of making the income), income from property such as rent (minus costs of generating the income), income tax refunds. Income of a remarried parents spouse is not income for the purpose of this section. Furthermore, the income of the custodial spouse will not be considered in any manner to reduce the obligation of support of the non-custodial parent.</text>
+          <text>Income: Income includes all sources available to the parent including but not limited to employment wages and salaries, commissions, fees, social security benefits, pension benefits, veterans benefits, cash value of benefits received such as free housing, free meals, unemployment benefits, insurance benefits, disability payments, life insurance benefits, income from trust funds, endowments and investments, self employment income (minus the cost of making the income), income from property such as rent (minus costs of generating the income), income tax refunds. Income of a remarried parents spouse is not income for the purpose of <cite path="9|9.08|9.0809">this section</cite>. Furthermore, the income of the custodial spouse will not be considered in any manner to reduce the obligation of support of the non-custodial parent.</text>
         </para>
         <para>
           <num>b.</num>
@@ -2588,7 +2588,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>The child support obligation shall be derived from first determining the income of the parent minus any adjustments and Extraordinary adjustments allowable under this section. After this computation, the NET INCOME of the parent will be determined.</text>
+        <text>The child support obligation shall be derived from first determining the income of the parent minus any adjustments and Extraordinary adjustments allowable under <cite path="9|9.08|9.0809">this section</cite>. After this computation, the NET INCOME of the parent will be determined.</text>
       </para>
       <para>
         <num>3.</num>
@@ -2644,7 +2644,7 @@
       <heading>Paternity; Establishment of</heading>
       <para>
         <num>1.</num>
-        <text>Statute of Limitations. Paternity may be established in an action brought in the Turtle Mountain Tribal Court by the natural mother, putative father, or custodian or guardian until the child reaches the age of 18 years. Any action previously barred by tribal statute of limitations less than 18 years may also be maintained under this section provided the cause of action accrued less than 18 years from the time of filing. A child may bring an action to establish paternity at any time within the child's life for the limited purpose of establishing enrollment with the Tribe. This action may be brought against the putative father or the estate of the putative father if deceased, but any finding of the Court with regard to paternity shall only impact the child's eligibility for enrollment and will not support the reopening of any concluded probate proceedings or any action for back child support. Plaintiff shall establish by clear and convincing evidence that the person is the father.</text>
+        <text>Statute of Limitations. Paternity may be established in an action brought in the Turtle Mountain Tribal Court by the natural mother, putative father, or custodian or guardian until the child reaches the age of 18 years. Any action previously barred by tribal statute of limitations less than 18 years may also be maintained under <cite path="9|9.08|9.0811">this section</cite> provided the cause of action accrued less than 18 years from the time of filing. A child may bring an action to establish paternity at any time within the child's life for the limited purpose of establishing enrollment with the Tribe. This action may be brought against the putative father or the estate of the putative father if deceased, but any finding of the Court with regard to paternity shall only impact the child's eligibility for enrollment and will not support the reopening of any concluded probate proceedings or any action for back child support. Plaintiff shall establish by clear and convincing evidence that the person is the father.</text>
       </para>
       <para>
         <num>2.</num>
@@ -2675,7 +2675,7 @@
         </para>
         <para>
           <num>b.</num>
-          <text>The Tribal child support enforcement agency created herein must pay for all court ordered tests in those cases where the custodial parent is receiving TANF and allow for additional testing only upon request by a party and advance payment for the costs. The Tribe is entitled to recover the costs of these tests from the father if paternity is established. The Tribe is entitled to recover the costs of these tests from the mother if the court determines that the claim of paternity was not based on good faith in cases where paternity was not established. This section does not apply to those cases brought to establish paternity for purposes of enrollment only.</text>
+          <text>The Tribal child support enforcement agency created herein must pay for all court ordered tests in those cases where the custodial parent is receiving TANF and allow for additional testing only upon request by a party and advance payment for the costs. The Tribe is entitled to recover the costs of these tests from the father if paternity is established. The Tribe is entitled to recover the costs of these tests from the mother if the court determines that the claim of paternity was not based on good faith in cases where paternity was not established. <cite path="9|9.08|9.0811">This section</cite> does not apply to those cases brought to establish paternity for purposes of enrollment only.</text>
         </para>
         <para>
           <num>c.</num>
@@ -2812,7 +2812,7 @@
       </para>
       <para>
         <num>(a)</num>
-        <text>A determination of paternity that arises under this section may be voided at any time upon a motion or petition stating facts that show fraud, duress or a mistake of fact. The burden of proof shall be upon the movant. Such burden shall be clear and convincing evidence.</text>
+        <text>A determination of paternity that arises under <cite path="9|9.08|9.0811">this section</cite> may be voided at any time upon a motion or petition stating facts that show fraud, duress or a mistake of fact. The burden of proof shall be upon the movant. Such burden shall be clear and convincing evidence.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2824,11 +2824,11 @@
       <heading>Setting of Support Obligations</heading>
       <para>
         <num>1.</num>
-        <text>Purpose. The Tribe, in order to assure uniformity for child support orders entered by the Tribal Court, and to provide certain guidelines to tribal court judges when setting child support orders, does hereby enact this section laying out the considerations for the tribal court when establishing support obligations and authorizing the Tribe's Judicial Board, with consultation of the judges of the Tribal Court, to establish judicial guidelines for child support.</text>
+        <text>Purpose. The Tribe, in order to assure uniformity for child support orders entered by the Tribal Court, and to provide certain guidelines to tribal court judges when setting child support orders, does hereby enact <cite path="9|9.08|9.0812">this section</cite> laying out the considerations for the tribal court when establishing support obligations and authorizing the Tribe's Judicial Board, with consultation of the judges of the Tribal Court, to establish judicial guidelines for child support.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>Definitions. For purposes of this Title,</text>
+        <text>Definitions. For purposes of <cite path="9">this Title</cite>,</text>
         <para>
           <num>a.</num>
           <text>"Absent Parent" means a parent of a child or children either during the course of marriage or outside marriage who is not providing the custodial parent with child support for the benefit of the child or children, or whom is not residing with the child or children and thus not providing parental control and supervision, and who is bound by an administrative or court order to pay child support;</text>
@@ -2960,18 +2960,18 @@
       <heading>Collection of Child Support</heading>
       <para>
         <num>1.</num>
-        <text>Purpose. It is the intent of this Title of the Child Support Code to allow for the prompt collection and enforcement of child support from absent parents in a manner that is consistent with due process of law under the Tribe's constitution and the Indian Civil Rights Act, while permitting the tribal court and tribal child support agency to use all lawful methods to collect support for children.</text>
+        <text>Purpose. It is the intent of <cite path="9">this Title</cite> of the Child Support Code to allow for the prompt collection and enforcement of child support from absent parents in a manner that is consistent with due process of law under the Tribe's constitution and the Indian Civil Rights Act, while permitting the tribal court and tribal child support agency to use all lawful methods to collect support for children.</text>
       </para>
       <para>
         <num>2.</num>
         <text>Wage Withholding.</text>
         <para>
           <num>a.</num>
-          <text>In any case where the Tribal Court has set a child support order, or has honored an order of support from a foreign jurisdiction under 28 U.S.C.1738B, the Court shall enter an order directed to the employer of the absent parent, requiring that employer to withhold and pay the amount of present support, plus any amount to be paid on arrearages, to the tribal court as payee for the custodial parent, Tribe (if the child is receiving TANF benefits or foster care benefits from the Tribe), or State (if the child is receiving TANF or foster care benefits from the State). The Tribal Judicial Board, in consultation with the Tribal Court, shall establish procedures for the disbursement of amounts collected under this section, either to the Tribal or state agency due the amounts collected. Income withholding under this section is mandatory even if the absent parent is not delinquent in paying his support.</text>
+          <text>In any case where the Tribal Court has set a child support order, or has honored an order of support from a foreign jurisdiction under 28 U.S.C.1738B, the Court shall enter an order directed to the employer of the absent parent, requiring that employer to withhold and pay the amount of present support, plus any amount to be paid on arrearages, to the tribal court as payee for the custodial parent, Tribe (if the child is receiving TANF benefits or foster care benefits from the Tribe), or State (if the child is receiving TANF or foster care benefits from the State). The Tribal Judicial Board, in consultation with the Tribal Court, shall establish procedures for the disbursement of amounts collected under <cite path="9|9.08|9.0813">this section</cite>, either to the Tribal or state agency due the amounts collected. Income withholding under <cite path="9|9.08|9.0813">this section</cite> is mandatory even if the absent parent is not delinquent in paying his support.</text>
         </para>
         <para>
           <num>b.</num>
-          <text>If the employer of the absent parent is the Tribe or a tribal entity, the Tribe or that entity shall be required to withhold the amount of support and pay to the Tribal Court just as any other employer is required to do, provided the income withholding order comes from the Turtle Mountain Tribal Court. The Tribe and its entities are not required to honor any wage withholding order from a foreign jurisdiction unless said order has been filed with the Tribal Court and the Tribal Court has honored that order. In no way shall this section be construed as a waiver of the Tribe's sovereign immunity from suit.</text>
+          <text>If the employer of the absent parent is the Tribe or a tribal entity, the Tribe or that entity shall be required to withhold the amount of support and pay to the Tribal Court just as any other employer is required to do, provided the income withholding order comes from the Turtle Mountain Tribal Court. The Tribe and its entities are not required to honor any wage withholding order from a foreign jurisdiction unless said order has been filed with the Tribal Court and the Tribal Court has honored that order. In no way shall <cite path="9|9.08|9.0813">this section</cite> be construed as a waiver of the Tribe's sovereign immunity from suit.</text>
         </para>
         <para>
           <num>c.</num>
@@ -3123,7 +3123,7 @@
     <section>
       <num>9.0817</num>
       <heading>Assignments</heading>
-      <text>The Court may order the person obligated to pay support or maintenance to make an assignment of a part of his periodic earnings or trust income to the person entitled to receive the payments. The assignment is binding on the employer, trustee, or other payer of the funds two (2) weeks after service upon him of notice that it has been made; however, this order for payment from Individual Indian Money (IIM) accounts under the control of the Agency Superintendent, is not binding on said Superintendent. The payer shall withhold from the earnings or trust income payable to the person obligated to support the amount specified in the assignment and shall transmit the specified in the assignment and shall transmit the payments to the person specified in the order. The payer may deduct from each payment a sum not exceeding five dollars ($5) as reimbursement for costs. An employer shall not discharge or otherwise discipline an employee as a result of a wage or salary assignment authorized by this Section.</text>
+      <text>The Court may order the person obligated to pay support or maintenance to make an assignment of a part of his periodic earnings or trust income to the person entitled to receive the payments. The assignment is binding on the employer, trustee, or other payer of the funds two (2) weeks after service upon him of notice that it has been made; however, this order for payment from Individual Indian Money (IIM) accounts under the control of the Agency Superintendent, is not binding on said Superintendent. The payer shall withhold from the earnings or trust income payable to the person obligated to support the amount specified in the assignment and shall transmit the specified in the assignment and shall transmit the payments to the person specified in the order. The payer may deduct from each payment a sum not exceeding five dollars ($5) as reimbursement for costs. An employer shall not discharge or otherwise discipline an employee as a result of a wage or salary assignment authorized by <cite path="9|9.08|9.0817">this Section</cite>.</text>
     </section>
     <section>
       <num>9.0818</num>
@@ -3160,7 +3160,7 @@
       <heading>Modification and Termination of Provisions for Maintenance, Support and Property Disposition</heading>
       <para>
         <num>1.</num>
-        <text>Except as otherwise provided in Subsection (f) of Section 9.0806 of this Code, the provisions of any decree respecting maintenance or support may be modified only as to installments accruing subsequent to the motion for modification and only upon showing of changed circumstances so substantial and continuing as to make the terms unconscionable. The provisions as to personal property disposition may be revoked or modified, unless the Court finds the existence of conditions that justify the reopening of a judgment under the laws of this tribe.</text>
+        <text>Except as otherwise provided in Subsection (f) of <cite path="9|9.08|9.0806">Section 9.0806</cite> of this Code, the provisions of any decree respecting maintenance or support may be modified only as to installments accruing subsequent to the motion for modification and only upon showing of changed circumstances so substantial and continuing as to make the terms unconscionable. The provisions as to personal property disposition may be revoked or modified, unless the Court finds the existence of conditions that justify the reopening of a judgment under the laws of this tribe.</text>
       </para>
       <para>
         <num>2.</num>
@@ -3273,7 +3273,7 @@
       <heading>Temporary Orders</heading>
       <para>
         <num>1.</num>
-        <text>The party to a custody proceeding may move for a temporary custody order. The motion must be support by an affidavit as provided in Section 9.0910 of this Code. The Court may award temporary custody under the standards of Section 9.0902 of this Code, after a hearing, or, if there is no objection, solely on the basis of the affidavits.</text>
+        <text>The party to a custody proceeding may move for a temporary custody order. The motion must be support by an affidavit as provided in <cite path="9|9.09|9.0910">Section 9.0910</cite> of this Code. The Court may award temporary custody under the standards of <cite path="9|9.09|9.0902">Section 9.0902</cite> of this Code, after a hearing, or, if there is no objection, solely on the basis of the affidavits.</text>
       </para>
       <para>
         <num>2.</num>
@@ -3281,7 +3281,7 @@
       </para>
       <para>
         <num>3.</num>
-        <text>If a custody proceeding commenced in the absence of a petition for dissolution of marriage or legal separation under Subsection (1) (ii) or (2) of Section 9.0901 of this Code, is dismissed, any temporary custody order is vacated.</text>
+        <text>If a custody proceeding commenced in the absence of a petition for dissolution of marriage or legal separation under Subsection (1) (ii) or (2) of <cite path="9|9.09|9.0901">Section 9.0901</cite> of this Code, is dismissed, any temporary custody order is vacated.</text>
       </para>
     </section>
     <section>
@@ -3392,7 +3392,7 @@
     <section>
       <num>9.0911</num>
       <heading>Severability</heading>
-      <text>If any provision of this Title or application thereof to any person or circumstances is held invalid, the invalidity does not affect other provisions or application of this Title which can be given effect without the invalid provision or application, and to this end the provisions of this Title are severable.</text>
+      <text>If any provision of <cite path="9">this Title</cite> or application thereof to any person or circumstances is held invalid, the invalidity does not affect other provisions or application of <cite path="9">this Title</cite> which can be given effect without the invalid provision or application, and to this end the provisions of <cite path="9">this Title</cite> are severable.</text>
     </section>
   </container>
 </container>

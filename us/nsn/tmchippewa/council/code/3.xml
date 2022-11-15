@@ -96,7 +96,7 @@
       <text>No person offered or called as a witness in any action or special proceeding in any court or before any officer or person having authority to examine witnesses or hear evidence shall be excluded or excused from testifying unless the court or official receiving such testimony finds that:</text>
       <para>
         <num>1.</num>
-        <text>The proposed witness has a right to refuse to disclose the information being inquired about because such information was confidentially made to the witness and is a privileged communication within the meaning of this Title; or</text>
+        <text>The proposed witness has a right to refuse to disclose the information being inquired about because such information was confidentially made to the witness and is a privileged communication within the meaning of <cite path="3">this Title</cite>; or</text>
       </para>
       <para>
         <num>2.</num>
@@ -273,7 +273,7 @@
     <section>
       <num>3.0302</num>
       <heading>Admissibility of Hearsay Evidence</heading>
-      <text>Hearsay evidence is inadmissible except as stated in Section 3.0303 through Section 3.0316.</text>
+      <text>Hearsay evidence is inadmissible except as stated in <cite path="3|3.03|3.0303">Section 3.0303</cite> through <cite path="3|3.03|3.0316">Section 3.0316</cite>.</text>
     </section>
     <section>
       <num>3.0303</num>

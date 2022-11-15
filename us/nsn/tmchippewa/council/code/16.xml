@@ -15,7 +15,7 @@
     <section>
       <num>16.0103</num>
       <heading>"Refuse Disposal System" Shall Mean a Sanitary Landfill Refuse Disposal System Which Receives All Forms of Refuse from One (1) Premises, or from the Public or Community</heading>
-      <text><strong>16.0104	"Refuse"</strong> as used in this Title is defined to be all manner of kitchen and household garbage and rubbish, all offal including both animal and vegetable matter, metal, plastic, paper and glass food containers from which food has been removed, waste paper, and all other waste matter from homes, stores or places of business of any nature and including rubbish, lumber, concrete, leaves, branches of trees, appliances, machinery, car bodies, ashes which may constitute a menace to public health or create an accident hazard or unsightly conditions.</text>
+      <text><strong>16.0104	"Refuse"</strong> as used in <cite path="16">this Title</cite> is defined to be all manner of kitchen and household garbage and rubbish, all offal including both animal and vegetable matter, metal, plastic, paper and glass food containers from which food has been removed, waste paper, and all other waste matter from homes, stores or places of business of any nature and including rubbish, lumber, concrete, leaves, branches of trees, appliances, machinery, car bodies, ashes which may constitute a menace to public health or create an accident hazard or unsightly conditions.</text>
     </section>
     <section>
       <num>16.0105</num>
@@ -25,10 +25,12 @@
     <section>
       <num>16.0107</num>
       <heading>"Person" Shall Mean Any Indian as Defined by Section 1.0301(6) of the Turtle Mountain Tribal Code</heading>
-      <text class="center">
-        <strong>CHAPTER 16.02</strong>
+      <text>
+        <strong>
+          <cite path="16.02">CHAPTER 16.02</cite>
+        </strong>
       </text>
-      <text class="center">
+      <text>
         <strong>Requirements for Sewage Disposal Systems</strong>
       </text>
     </section>
@@ -114,33 +116,32 @@
       <para>
         <num>3.</num>
         <text>Plans for the proposed sewage disposal facility to be constructed, altered or extended.</text>
-        <text class="center">
-          <strong>CHAPTER 16.04</strong>
-        </text>
-        <text class="center">
-          <strong>Requirements for Waste Disposal Systems</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.04</num>
+    <heading>Requirements for Waste Disposal Systems</heading>
     <section>
       <num>16.0401</num>
       <heading>Health Board to Promulgate Regulations for Refuse Systems</heading>
-      <text>The Health Board of the Turtle Mountain Band of Chippewa Indian Tribe or its authorized representative, in order to protect the health and safety of the residents of the Turtle Mountain Jurisdiction as defined by Section 1.0502 of the Turtle Mountain Tribal Code of 1968, and general public, is authorized and directed to promulgate the following regulations establishing minimum standards governing design construction and installation of individual, public or community sanitary landfill refuse, systems to protect the public health, control water pollution and abate nuisance and odor conditions.</text>
+      <text>The Health Board of the Turtle Mountain Band of Chippewa Indian Tribe or its authorized representative, in order to protect the health and safety of the residents of the Turtle Mountain Jurisdiction as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of the Turtle Mountain Tribal Code of 1968, and general public, is authorized and directed to promulgate the following regulations establishing minimum standards governing design construction and installation of individual, public or community sanitary landfill refuse, systems to protect the public health, control water pollution and abate nuisance and odor conditions.</text>
     </section>
     <section>
       <num>16.0402</num>
       <heading>Utility Established</heading>
-      <text>There is herewith created a Public Utility of the Turtle Mountain Jurisdiction to be known as Waste Collection and Disposal Utility. Such utility shall be responsible to carry out the provisions of this Title and shall supervise and arrange for a refuse collection system, disposal ground, and landfill disposal system within the Turtle Mountain Jurisdiction. Such utility shall require that all existing waste collection and disposal systems which are in operation on the Turtle Mountain Jurisdiction are in compliance with this Title.</text>
+      <text>There is herewith created a Public Utility of the Turtle Mountain Jurisdiction to be known as Waste Collection and Disposal Utility. Such utility shall be responsible to carry out the provisions of <cite path="16">this Title</cite> and shall supervise and arrange for a refuse collection system, disposal ground, and landfill disposal system within the Turtle Mountain Jurisdiction. Such utility shall require that all existing waste collection and disposal systems which are in operation on the Turtle Mountain Jurisdiction are in compliance with <cite path="16">this Title</cite>.</text>
     </section>
     <section>
       <num>16.0403</num>
       <heading>Collection of Refuse</heading>
-      <text>No person, firm or corporation shall collect, transport or dispose of refuse within the Turtle Mountain Jurisdiction who does not possess a permit issued by the Turtle Mountain Tribal Health Board. Said permit shall be issued only after Tribal Health Board delegated official(s) have satisfied themselves that the applicant for permit has the necessary equipment and is capable of complying with the requirements of this Chapter; and that the collection vehicles and equipment proposed for use by the applicant are of such construction as to be readily cleanable and to prevent the spillage or scattering of refuse. The permit may be revoked or suspended by the Turtle Mountain Tribal Health Board for such a period of time deemed appropriate when the permittee has been convicted by the Turtle Mountain Tribal Court of violating any of the provisions of this Chapter.</text>
+      <text>No person, firm or corporation shall collect, transport or dispose of refuse within the Turtle Mountain Jurisdiction who does not possess a permit issued by the Turtle Mountain Tribal Health Board. Said permit shall be issued only after Tribal Health Board delegated official(s) have satisfied themselves that the applicant for permit has the necessary equipment and is capable of complying with the requirements of <cite path="16.04">this Chapter</cite>; and that the collection vehicles and equipment proposed for use by the applicant are of such construction as to be readily cleanable and to prevent the spillage or scattering of refuse. The permit may be revoked or suspended by the Turtle Mountain Tribal Health Board for such a period of time deemed appropriate when the permittee has been convicted by the Turtle Mountain Tribal Court of violating any of the provisions of <cite path="16.04">this Chapter</cite>.</text>
     </section>
     <section>
       <num>16.0404</num>
       <heading>Storage of Refuse</heading>
-      <text>Each property owner or occupant of any building or premises located within a community of the Turtle Mountain Jurisdiction used for business purposes, shall store all refuse in covered metal containers, refuse as defined by Section 16.0105 of this Code, on a concrete platform or elevated rack at least eighteen (18) inches above ground level. In the case of residential property, refuse cans shall be placed on racks or stands not less than twelve (12) inches or more than sixteen (16) inches, which are so designed to prevent access thereto by dogs, rats, flies, and vermin. In either event, such cans shall be conveniently located and readily accessible to refuse collectors at all times.</text>
+      <text>Each property owner or occupant of any building or premises located within a community of the Turtle Mountain Jurisdiction used for business purposes, shall store all refuse in covered metal containers, refuse as defined by <cite path="16|16.01|16.0105">Section 16.0105</cite> of this Code, on a concrete platform or elevated rack at least eighteen (18) inches above ground level. In the case of residential property, refuse cans shall be placed on racks or stands not less than twelve (12) inches or more than sixteen (16) inches, which are so designed to prevent access thereto by dogs, rats, flies, and vermin. In either event, such cans shall be conveniently located and readily accessible to refuse collectors at all times.</text>
     </section>
     <section>
       <num>16.0405</num>
@@ -150,7 +151,7 @@
     <section>
       <num>16.0406</num>
       <heading>Require Services of Waste Collection and Disposal Utility</heading>
-      <text>Al permanent Indian residents living in the Turtle Mountain Jurisdiction shall dispose of all refuse, barnyard waste or other waste material as defined in Section 16.0104 of this Code, by methods approved by the health board or its authorized representative.</text>
+      <text>Al permanent Indian residents living in the Turtle Mountain Jurisdiction shall dispose of all refuse, barnyard waste or other waste material as defined in <cite path="16|16.01|16.0104">Section 16.0104</cite> of this Code, by methods approved by the health board or its authorized representative.</text>
     </section>
     <section>
       <num>16.0407</num>
@@ -160,7 +161,7 @@
     <section>
       <num>16.0408</num>
       <heading>Throwing of Refuse in Streets, Roads and Highways, Etc. Prohibited</heading>
-      <text>It shall be unlawful for any Indian person, firm, corporation or corporations to throw, place, or deposit or permit to be thrown, placed, or deposited, any refuse defined in Section 16.0104 of this Code, hereof upon the ground within any community of the Turtle Mountain Jurisdiction or on the Turtle Mountain Jurisdiction area, except in places hereinafter provided.</text>
+      <text>It shall be unlawful for any Indian person, firm, corporation or corporations to throw, place, or deposit or permit to be thrown, placed, or deposited, any refuse defined in <cite path="16|16.01|16.0104">Section 16.0104</cite> of this Code, hereof upon the ground within any community of the Turtle Mountain Jurisdiction or on the Turtle Mountain Jurisdiction area, except in places hereinafter provided.</text>
     </section>
   </container>
   <container>
@@ -330,14 +331,13 @@
       <para>
         <num>25.</num>
         <text>"Wholesome" shall mean in sound condition, clean, free from adulteration, and otherwise suitable for use as human food.</text>
-        <text class="center">
-          <strong>CHAPTER 16.09</strong>
-        </text>
-        <text class="center">
-          <strong>Food</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.09</num>
+    <heading>Food</heading>
     <section>
       <num>16.0901</num>
       <heading>Food Supplies</heading>
@@ -418,7 +418,7 @@
         <text>Bakery, Products:</text>
         <para>
           <num>a.</num>
-          <text>All bakery products shall have been prepared in the food-service establishment or in a food-processing establishment: Provided, that the health authority may accept other sources which are in his opinion satisfactory and which are in compliance with applicable State and local laws and regulations. All cream-filled and custard filled pastries shall have been prepared and handled in accordance with the requirements of Section 16.0902 of this Code.</text>
+          <text>All bakery products shall have been prepared in the food-service establishment or in a food-processing establishment: Provided, that the health authority may accept other sources which are in his opinion satisfactory and which are in compliance with applicable State and local laws and regulations. All cream-filled and custard filled pastries shall have been prepared and handled in accordance with the requirements of <cite path="16|16.09|16.0902">Section 16.0902</cite> of this Code.</text>
         </para>
       </para>
       <para>
@@ -636,15 +636,14 @@
         <para>
           <num>g.</num>
           <text>Poisonous materials shall not be used in any way as to contaminate food, equipment, or utensils, or to constitute other hazards to employees or customers.</text>
-          <text class="center">
-            <strong>CHAPTER 16.10</strong>
-          </text>
-          <text class="center">
-            <strong>Personnel</strong>
-          </text>
         </para>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.10</num>
+    <heading>Personnel</heading>
     <section>
       <num>16.1001</num>
       <heading>Health and Disease Control</heading>
@@ -781,7 +780,7 @@
     <section>
       <num>16.1401</num>
       <heading>Compliance</heading>
-      <text>A temporary food-service establishment shall comply with all provisions of Chapters 16.06 through 16.14 of this Title, which are applicable to its operation; Provided, that the health authority may augment such requirements when needed to assure the service of safe food, may prohibit the sale of certain potentially hazardous food and may modify specific requirements for physical facilities when in his opinion no imminent health hazard will result.</text>
+      <text>A temporary food-service establishment shall comply with all provisions of Chapters 16.06 through 16.14 of <cite path="16">this Title</cite>, which are applicable to its operation; Provided, that the health authority may augment such requirements when needed to assure the service of safe food, may prohibit the sale of certain potentially hazardous food and may modify specific requirements for physical facilities when in his opinion no imminent health hazard will result.</text>
     </section>
   </container>
   <container>
@@ -791,46 +790,46 @@
     <section>
       <num>16.1501</num>
       <heading>Permit</heading>
-      <text>It shall be unlawful for any Indian person to operate a food-service establishment within the Turtle Mountain Jurisdiction who does not possess a valid permit issued to him by the health authority. Only a person who complies with the requirements of this Title shall be entitled to receive and retain such a permit. Permits shall not be transferable from one Indian person to another person or place. A valid permit shall be posted in every food-service establishment. Permits for temporary food-service establishments shall be issued for a period of time not to exceed fourteen (14) days.</text>
+      <text>It shall be unlawful for any Indian person to operate a food-service establishment within the Turtle Mountain Jurisdiction who does not possess a valid permit issued to him by the health authority. Only a person who complies with the requirements of <cite path="16">this Title</cite> shall be entitled to receive and retain such a permit. Permits shall not be transferable from one Indian person to another person or place. A valid permit shall be posted in every food-service establishment. Permits for temporary food-service establishments shall be issued for a period of time not to exceed fourteen (14) days.</text>
       <para>
         <num>1.</num>
         <text>Issuance of permits. Any person desiring to operate a food-service establishment shall make written application for a permit on forms provided by the health authority. Such application shall include: the applicant's full name and post office address and whether such applicant is an individual, firm, or corporation, and, if a partnership the names of the partners, together with their addresses, shall be included; the location and type of the proposed food-service establishment; and the signature of the applicant or applicants. If the application is for a temporary food-service establishment, it shall also include the inclusive dates of the proposed operation.</text>
-        <text>Upon receipt of such an application, the health authority shall make an inspection of the foodservice establishment to determine compliance with the provisions of this Title. When inspection reveals that the applicable requirements of this Title have been met, a permit shall be issued to the applicant by the health authority.</text>
+        <text>Upon receipt of such an application, the health authority shall make an inspection of the foodservice establishment to determine compliance with the provisions of <cite path="16">this Title</cite>. When inspection reveals that the applicable requirements of <cite path="16">this Title</cite> have been met, a permit shall be issued to the applicant by the health authority.</text>
       </para>
       <para>
         <num>2.</num>
         <text>Suspension of permits. Permits may be suspended temporarily by the health authority for failure of the holder to comply with the requirements of his Title.</text>
-        <text>Whenever a permit holder or operator has failed to comply with any notice issued under the provisions of Chapter 16.15 of this Title, the permit holder or operator shall be notified in writing that the permit is, upon service of the notice, immediately suspended (or the establishment downgraded), and that an opportunity for a hearing will be provided if a written request for a hearing is filed with the health authority by the permit holder.</text>
-        <text>Notwithstanding the other provisions of this Title, whenever the health authority finds unsanitary or other conditions in the operation of a food-service establishment which, in his judgment, constitute a substantial hazard to the public health, he may without warning, notice or hearing, issue a written notice to the permit holder or operator citing such condition, specifying the corrective action to be taken, and specifying the time period within which such action shall be taken; and if deemed necessary, such order shall state that the permit is immediately suspended, and al1 foodservice operations are to be immediately discontinued. Any person to whom such an order is issued shall comply immediately therewith, but upon written petition to the health authority, shall be afforded a hearing as soon as possible.</text>
+        <text>Whenever a permit holder or operator has failed to comply with any notice issued under the provisions of <cite path="16.15">Chapter 16.15</cite> of <cite path="16">this Title</cite>, the permit holder or operator shall be notified in writing that the permit is, upon service of the notice, immediately suspended (or the establishment downgraded), and that an opportunity for a hearing will be provided if a written request for a hearing is filed with the health authority by the permit holder.</text>
+        <text>Notwithstanding the other provisions of <cite path="16">this Title</cite>, whenever the health authority finds unsanitary or other conditions in the operation of a food-service establishment which, in his judgment, constitute a substantial hazard to the public health, he may without warning, notice or hearing, issue a written notice to the permit holder or operator citing such condition, specifying the corrective action to be taken, and specifying the time period within which such action shall be taken; and if deemed necessary, such order shall state that the permit is immediately suspended, and al1 foodservice operations are to be immediately discontinued. Any person to whom such an order is issued shall comply immediately therewith, but upon written petition to the health authority, shall be afforded a hearing as soon as possible.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>Reinstatement of suspended permits. Any person whose permit has been suspended may, at any time, make application for a re-inspection for the purpose of reinstatement of the permit. Within ten (10) days following receipt of a written request, including a statement signed by the applicant that in his opinion the conditions causing suspension of the permit have been corrected, the health authority shall make a re-inspection. If the applicant is complying with the requirements of this Title, the permit shall be reinstated.</text>
+        <text>Reinstatement of suspended permits. Any person whose permit has been suspended may, at any time, make application for a re-inspection for the purpose of reinstatement of the permit. Within ten (10) days following receipt of a written request, including a statement signed by the applicant that in his opinion the conditions causing suspension of the permit have been corrected, the health authority shall make a re-inspection. If the applicant is complying with the requirements of <cite path="16">this Title</cite>, the permit shall be reinstated.</text>
       </para>
       <para>
         <num>4.</num>
-        <text>Revocation of permits. For serious or repeated violations of any of the requirements of this Title, or for interference with the health authority in the performance of his duties, the permit may be permanently revoked after an opportunity for a hearing has been provided by the health authority. Prior to such action the health authority shall notify the permit holder in writing, stating the reasons for which the permit is subject to revocation and advising that the permit shall be permanently revoked at the end of five (5) days following service of such notice, unless a request for a hearing is filed with the health authority, by the permit holder, within such five (5) day period. A permit may be suspended for cause pending its revocation or a hearing relative thereto.</text>
+        <text>Revocation of permits. For serious or repeated violations of any of the requirements of <cite path="16">this Title</cite>, or for interference with the health authority in the performance of his duties, the permit may be permanently revoked after an opportunity for a hearing has been provided by the health authority. Prior to such action the health authority shall notify the permit holder in writing, stating the reasons for which the permit is subject to revocation and advising that the permit shall be permanently revoked at the end of five (5) days following service of such notice, unless a request for a hearing is filed with the health authority, by the permit holder, within such five (5) day period. A permit may be suspended for cause pending its revocation or a hearing relative thereto.</text>
       </para>
       <para>
         <num>5.</num>
-        <text>Hearings. The hearings provided for in this section shall be conducted by the health authority at a time and place designated by him. Based upon the record of such hearing, the health authority shall make a finding and shall sustain, modify, or rescind any official notice or order considered in the hearing. A written report of the hearing decision shall be furnished to the permit holder by the health authority.</text>
+        <text>Hearings. The hearings provided for in <cite path="16|16.15|16.1501">this section</cite> shall be conducted by the health authority at a time and place designated by him. Based upon the record of such hearing, the health authority shall make a finding and shall sustain, modify, or rescind any official notice or order considered in the hearing. A written report of the hearing decision shall be furnished to the permit holder by the health authority.</text>
       </para>
     </section>
     <section>
       <num>16.1502</num>
       <heading>Inspection of Food-Service Establishments</heading>
-      <text>At least once every six (6) months, the health authority shall inspect each food-service establishment located within the Turtle Mountain Jurisdiction and shall make as many additional inspections and re-inspections as are necessary for the enforcement of this Title.</text>
+      <text>At least once every six (6) months, the health authority shall inspect each food-service establishment located within the Turtle Mountain Jurisdiction and shall make as many additional inspections and re-inspections as are necessary for the enforcement of <cite path="16">this Title</cite>.</text>
       <para>
         <num>1.</num>
-        <text>Access to establishments. The health authority, after proper identification, shall be permitted to enter, at any reasonable time, any foodservice establishment within the Turtle Mountain Jurisdiction for the purpose of making inspections to determine compliance with this Title. He shall be permitted to examine the records of the establishment to obtain pertinent information pertaining to food and supplies purchased, received, or used, and persons employed.</text>
+        <text>Access to establishments. The health authority, after proper identification, shall be permitted to enter, at any reasonable time, any foodservice establishment within the Turtle Mountain Jurisdiction for the purpose of making inspections to determine compliance with <cite path="16">this Title</cite>. He shall be permitted to examine the records of the establishment to obtain pertinent information pertaining to food and supplies purchased, received, or used, and persons employed.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of Chapters 16.09 through 16.14 of this Title and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of this section. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
+        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of Chapters 16.09 through 16.14 of <cite path="16">this Title</cite> and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of <cite path="16|16.15|16.1502">this section</cite>. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>Issuance of notices. Whenever the health authority makes an inspection of a food-service establishment and discovers that any of the requirements of Chapters 16.09 through 16.14 of this Title have been violated, he shall notify the permit holder or operator of such violations by means of an inspection report form or other written notice. In such notification, the health authority shall:</text>
+        <text>Issuance of notices. Whenever the health authority makes an inspection of a food-service establishment and discovers that any of the requirements of Chapters 16.09 through 16.14 of <cite path="16">this Title</cite> have been violated, he shall notify the permit holder or operator of such violations by means of an inspection report form or other written notice. In such notification, the health authority shall:</text>
         <para>
           <num>a.</num>
           <text>Set forth the specific violation found, together with the demerit score of the establishment.</text>
@@ -861,7 +860,7 @@
         </para>
         <para>
           <num>c.</num>
-          <text>State that failure to comply with any' notice issued in accordance with the provisions of this Title may result in immediate suspension of the permit (or the establishment downgraded).</text>
+          <text>State that failure to comply with any' notice issued in accordance with the provisions of <cite path="16">this Title</cite> may result in immediate suspension of the permit (or the establishment downgraded).</text>
         </para>
         <para>
           <num>d.</num>
@@ -870,7 +869,7 @@
       </para>
       <para>
         <num>4.</num>
-        <text>Service of notices. Notices provided for under this section shall be deemed to have been properly served when the original of the inspection report form or other notice has been delivered personally to the permit holder or person in charge, or such notice has been sent by registered or certified mail, return receipt requested, to the last known address of the permit holder. A copy of such notice shall be filed with the records of the health authority.</text>
+        <text>Service of notices. Notices provided for under <cite path="16|16.15|16.1502">this section</cite> shall be deemed to have been properly served when the original of the inspection report form or other notice has been delivered personally to the permit holder or person in charge, or such notice has been sent by registered or certified mail, return receipt requested, to the last known address of the permit holder. A copy of such notice shall be filed with the records of the health authority.</text>
       </para>
       <para>
         <num>5.</num>
@@ -890,8 +889,8 @@
         <para>
           <num>(3)</num>
           <text>Grade C. An establishment having of more than 20 but not more than a demerit score 40.</text>
-          <text>Notwithstanding the grade criteria established above, whenever a second consecutive violation of any item of 2 or 4 demerit points is discovered, the permit may be suspended (Section 16.1501(2) or in lieu thereof, the establishment shall be downgraded to the next lower grade.</text>
-          <text>Immediately following each inspection, the health authority shall post the appropriate grade based upon the inspection findings and shall issue an appropriate notice in accordance with section 16.1502(3)(b)(3) of this Title.</text>
+          <text>Notwithstanding the grade criteria established above, whenever a second consecutive violation of any item of 2 or 4 demerit points is discovered, the permit may be suspended (<cite path="16|16.15|16.1501">Section 16.1501</cite>(2) or in lieu thereof, the establishment shall be downgraded to the next lower grade.</text>
+          <text>Immediately following each inspection, the health authority shall post the appropriate grade based upon the inspection findings and shall issue an appropriate notice in accordance with <cite path="16|16.15|16.1502">section 16.1502</cite>(3)(b)(3) of <cite path="16">this Title</cite>.</text>
           <text>The permit holder or operator of any establishment, the grade of which has been lowered, may at any time request an inspection for the purpose of re-grading the establishment. Within ten (10) days following receipt of a request including a signed statement that the conditions responsible for the lowering of the grade have, in the applicant's opinion, been corrected, the health authority shall make an inspection and thereafter as many additional inspections as he may deem necessary to assure himself that the applicant is complying with the higher grade requirements; and, if the findings indicate compliance, shall award the higher grade.</text>
         </para>
       </para>
@@ -899,7 +898,7 @@
     <section>
       <num>16.1503</num>
       <heading>Examination and Condemnation of Food</heading>
-      <text>Food may be examined or sampled by the health authority as often as may be necessary to determine freedom from adulteration or misbranding. The health authority may, upon written notice to the owner or person in charge, place a hold order on any food which he determines or has probable cause to believe to be unwholesome or otherwise adulterated, or misbranded. Under a hold order, food shall be permitted to be suitably stored. It shall be unlawful for any person to remove or alter a hold order, notice or tag placed on food by the health authority, and neither such food nor the containers thereof shall be relabeled, repacked, reprocessed, altered, disposed of, or destroyed without permission of the health authority, except on order by a court of competent jurisdiction. After the owner or person in charge has had a hearing as provided for in section 16.1502 (3)(d), and on the basis of evidence produced at such hearing, or on the basis of his examination in the event a written request for a hearing is not received within ten (10) days, the health authority may vacate the hold order, or may by written order direct the owner or person in charge of the food which was placed under the hold order to denature or destroy such food or to bring it into compliance with the provisions of this ordinance; Provided, that such order of the health authority to denature or destroy such food or bring it into compliance with the provisions of this Title shall be stayed if the order is appealed to a court of competent jurisdiction within three (3) days.</text>
+      <text>Food may be examined or sampled by the health authority as often as may be necessary to determine freedom from adulteration or misbranding. The health authority may, upon written notice to the owner or person in charge, place a hold order on any food which he determines or has probable cause to believe to be unwholesome or otherwise adulterated, or misbranded. Under a hold order, food shall be permitted to be suitably stored. It shall be unlawful for any person to remove or alter a hold order, notice or tag placed on food by the health authority, and neither such food nor the containers thereof shall be relabeled, repacked, reprocessed, altered, disposed of, or destroyed without permission of the health authority, except on order by a court of competent jurisdiction. After the owner or person in charge has had a hearing as provided for in <cite path="16|16.15|16.1502">section 16.1502</cite> (3)(d), and on the basis of evidence produced at such hearing, or on the basis of his examination in the event a written request for a hearing is not received within ten (10) days, the health authority may vacate the hold order, or may by written order direct the owner or person in charge of the food which was placed under the hold order to denature or destroy such food or to bring it into compliance with the provisions of this ordinance; Provided, that such order of the health authority to denature or destroy such food or bring it into compliance with the provisions of <cite path="16">this Title</cite> shall be stayed if the order is appealed to a court of competent jurisdiction within three (3) days.</text>
     </section>
     <section>
       <num>16.0504</num>
@@ -931,7 +930,7 @@
     <section>
       <num>16.1507</num>
       <heading>Enforcement Interpretation</heading>
-      <text>This Title shall be enforced by the health authority in accordance with the interpretations thereof contained in the compliance provisions of the 1962 Edition of the "United States Public Health Service Food Service Sanitation Ordinance and Code", three (3) certified copies of which shall be on file in the Indian Health Service Office, Belcourt, North Dakota.</text>
+      <text><cite path="16">This Title</cite> shall be enforced by the health authority in accordance with the interpretations thereof contained in the compliance provisions of the 1962 Edition of the "United States Public Health Service Food Service Sanitation Ordinance and Code", three (3) certified copies of which shall be on file in the Indian Health Service Office, Belcourt, North Dakota.</text>
     </section>
   </container>
   <container>
@@ -1014,14 +1013,13 @@
       <para>
         <num>12.</num>
         <text>To take all necessary and appropriate action to carry out its responsibilities towards the fulfillment of its overall purpose.</text>
-        <text class="center">
-          <strong>CHAPTER 16.18</strong>
-        </text>
-        <text class="center">
-          <strong>Definitions</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.18</num>
+    <heading>Definitions</heading>
     <section>
       <num>16.1801</num>
       <heading>Definitions</heading>
@@ -1047,15 +1045,14 @@
       </para>
       <para>
         <num>6.</num>
-        <text>The term "Turtle Mountain Jurisdiction" shall mean the same as specifically defined in section 1.0502 of The Turtle Mountain Tribal Code.</text>
-        <text class="center">
-          <strong>CHAPTER 16.19</strong>
-        </text>
-        <text class="center">
-          <strong>Composition of the Board</strong>
-        </text>
+        <text>The term "Turtle Mountain Jurisdiction" shall mean the same as specifically defined in <cite path="1|1.05|1.0502">section 1.0502</cite> of The Turtle Mountain Tribal Code.</text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.19</num>
+    <heading>Composition of the Board</heading>
     <section>
       <num>16.1901</num>
       <heading>Composition of the Board</heading>

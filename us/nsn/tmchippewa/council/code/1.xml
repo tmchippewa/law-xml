@@ -9,7 +9,7 @@
     <heading>Purpose Statement</heading>
     <section>
       <num>1.0101</num>
-      <text>The purpose of this Title is to regulate the formal steps in an action or other judicial proceeding, and includes the judicial process for enforcing rights and duties recognized by substantive law and for justly administering redress for infraction of them<strong><em>.</em></strong></text>
+      <text>The purpose of <cite path="1">this Title</cite> is to regulate the formal steps in an action or other judicial proceeding, and includes the judicial process for enforcing rights and duties recognized by substantive law and for justly administering redress for infraction of them<strong><em>.</em></strong></text>
     </section>
   </container>
   <container>
@@ -324,13 +324,13 @@
       </para>
       <para>
         <num>3.</num>
-        <text>An Indian, as defined in Section 1.0103.</text>
+        <text>An Indian, as defined in <cite path="1|1.01|1.0103">Section 1.0103</cite>.</text>
       </para>
     </section>
     <section>
       <num>1.0702</num>
       <heading>Arrest; Under a Warrant</heading>
-      <text>A warrant of arrest is an order in writing signed by a Tribal Court judge commanding the arrest of the defendant. The warrant must specify the name of the Indian defendant; or if the name of the defendant is unknown, the Indian defendant may be designated by any name if the warrant also contains a description by which the Indian defendant can be identified with reasonable certainty. It must also state the offense or offenses charged and the date of issuing it. A warrant for arrest shall be void outside the limits of the Turtle Mountain jurisdiction as defined in Section 1.0501 of this Code.</text>
+      <text>A warrant of arrest is an order in writing signed by a Tribal Court judge commanding the arrest of the defendant. The warrant must specify the name of the Indian defendant; or if the name of the defendant is unknown, the Indian defendant may be designated by any name if the warrant also contains a description by which the Indian defendant can be identified with reasonable certainty. It must also state the offense or offenses charged and the date of issuing it. A warrant for arrest shall be void outside the limits of the Turtle Mountain jurisdiction as defined in <cite path="1|1.05|1.0501">Section 1.0501</cite> of this Code.</text>
     </section>
     <section>
       <num>1.0703</num>
@@ -384,7 +384,7 @@
     <section>
       <num>1.0711</num>
       <heading>Fresh Pursuit; Defined</heading>
-      <text>As used in Section 1.0712 of this Code, the term "fresh pursuit" shall include fresh pursuit as defined by the common law, and also the pursuit of an Indian person, who is subject to the jurisdiction of the Turtle Mountain Tribal Court, who has committed a felony or misdemeanor or who is reasonably suspected of having committed a supposed felony, though no felony has been actually committed, if there is reasonable ground for believing that a felony has been committed. Fresh pursuit, as the term is used in this Chapter, shall not necessarily imply instant pursuit, but pursuit without unreasonable delay.</text>
+      <text>As used in <cite path="1|1.07|1.0712">Section 1.0712</cite> of this Code, the term "fresh pursuit" shall include fresh pursuit as defined by the common law, and also the pursuit of an Indian person, who is subject to the jurisdiction of the Turtle Mountain Tribal Court, who has committed a felony or misdemeanor or who is reasonably suspected of having committed a supposed felony, though no felony has been actually committed, if there is reasonable ground for believing that a felony has been committed. Fresh pursuit, as the term is used in <cite path="1.07">this Chapter</cite>, shall not necessarily imply instant pursuit, but pursuit without unreasonable delay.</text>
     </section>
     <section>
       <num>1.0712</num>
@@ -394,7 +394,7 @@
     <section>
       <num>1.0713</num>
       <heading>Removal Procedure</heading>
-      <text>If an arrest is made within the Turtle Mountain Indian jurisdiction by an officer of an off-reservation jurisdiction in accordance with the provisions of Section 1.0712 of this Code, he, without unnecessary delay, shall take the Indian person arrested to the Turtle Mountain Agency Branch of Law and Order in Belcourt, North Dakota, where the arrested Indian person will be permitted to either sign a waiver of removal hearing of alleged fugitive form, or taken before a Tribal Court Judge of the Turtle Mountain Tribal Court, for the purpose of determining only the lawfulness of the arrest.</text>
+      <text>If an arrest is made within the Turtle Mountain Indian jurisdiction by an officer of an off-reservation jurisdiction in accordance with the provisions of <cite path="1|1.07|1.0712">Section 1.0712</cite> of this Code, he, without unnecessary delay, shall take the Indian person arrested to the Turtle Mountain Agency Branch of Law and Order in Belcourt, North Dakota, where the arrested Indian person will be permitted to either sign a waiver of removal hearing of alleged fugitive form, or taken before a Tribal Court Judge of the Turtle Mountain Tribal Court, for the purpose of determining only the lawfulness of the arrest.</text>
       <text>If, in the event a hearing is held, the Judge determines that the arrest was lawful, he or she shall commit the Indian person arrested to await for a reasonable time the issuance of an arrest warrant by the off-reservation jurisdiction in which the offense was allegedly committed. If the Judge determines that the arrest was unlawful, he or she shall discharge the Indian person arrested.</text>
     </section>
   </container>
@@ -471,8 +471,8 @@
     <section>
       <num>1.0901</num>
       <heading>Definitions</heading>
-      <text>As used in this chapter, unless the context otherwise requires, "bail bond agent" means any person who has been licensed by the commissioner and appointed by an insurer, by power of attorney, to execute or countersign bail bonds for the insurer in connection with the judicial proceedings and charges and receives money for the services.</text>
-      <text>As used in this chapter, unless the context Otherwise requires, "Commissioner" means Tribal Employment Rights Director.</text>
+      <text>As used in <cite path="1.09">this chapter</cite>, unless the context otherwise requires, "bail bond agent" means any person who has been licensed by the commissioner and appointed by an insurer, by power of attorney, to execute or countersign bail bonds for the insurer in connection with the judicial proceedings and charges and receives money for the services.</text>
+      <text>As used in <cite path="1.09">this chapter</cite>, unless the context Otherwise requires, "Commissioner" means Tribal Employment Rights Director.</text>
       <para>
         <num>1.</num>
         <text>Bail is to obtain release of a person charged with an offense by insuring future attendance in Turtle Mountain Tribal Court through security being taken and compelling the accused to remain within the jurisdiction of the Turtle Mountain Tribal Court.</text>
@@ -490,12 +490,12 @@
     <section>
       <num>1.0903</num>
       <heading>Persons Disqualified as Bail Bond Agent; Penalty</heading>
-      <text>The following persons or classes may not be bail bond agents and may not directly or indirectly receive any benefits from the execution of any bail bond: jailers, police officers, committing magistrates, magistrate court judges, sheriffs, deputy sheriffs and constables, or any person having the power to arrest, or having anything to do with the control of federal, state, county, or municipal prisoners.  A violation of this section is a class B misdemeanor.</text>
+      <text>The following persons or classes may not be bail bond agents and may not directly or indirectly receive any benefits from the execution of any bail bond: jailers, police officers, committing magistrates, magistrate court judges, sheriffs, deputy sheriffs and constables, or any person having the power to arrest, or having anything to do with the control of federal, state, county, or municipal prisoners.  A violation of <cite path="1|1.09|1.0903">this section</cite> is a class B misdemeanor.</text>
     </section>
     <section>
       <num>1.0904</num>
       <heading>Bail; Eligibility for</heading>
-      <text>Any person charged with a criminal offense may be eligible for bail by the Turtle Mountain Tribal Court, at any time prior to final judgment or pending appeal to the Court of Appeals, in accordance with the provisions of this Chapter.  If bail is not met, the Defendant shall be confined pending the final outcome of the criminal proceedings.</text>
+      <text>Any person charged with a criminal offense may be eligible for bail by the Turtle Mountain Tribal Court, at any time prior to final judgment or pending appeal to the Court of Appeals, in accordance with the provisions of <cite path="1.09">this Chapter</cite>.  If bail is not met, the Defendant shall be confined pending the final outcome of the criminal proceedings.</text>
     </section>
     <section>
       <num>1.0905</num>
@@ -567,17 +567,17 @@
     <section>
       <num>1.0913</num>
       <heading>Qualification and License as Bail Bond Agent; Pledge of Property as Security; Penalty</heading>
-      <text>A person may not act in the capacity of a bail bond agent or perform any of the functions, duties, or powers prescribed for a bail bond agent under this chapter, unless that person is qualified and licensed as provided in this chapter. However, this section does not prohibit any individual from pledging real or other property as security for a bail bond in judicial proceedings if the individual does not receive, or is not promised, money or other things of value therefore. Violation of this section is a class B misdemeanor.</text>
+      <text>A person may not act in the capacity of a bail bond agent or perform any of the functions, duties, or powers prescribed for a bail bond agent under <cite path="1.09">this chapter</cite>, unless that person is qualified and licensed as provided in <cite path="1.09">this chapter</cite>. However, <cite path="1|1.09|1.0913">this section</cite> does not prohibit any individual from pledging real or other property as security for a bail bond in judicial proceedings if the individual does not receive, or is not promised, money or other things of value therefore. Violation of <cite path="1|1.09|1.0913">this section</cite> is a class B misdemeanor.</text>
     </section>
     <section>
       <num>1.0914</num>
       <heading>Violations; Penalties</heading>
       <para>
         <num>1.</num>
-        <text>The commissioner may suspend, revoke, or refuse to continue, issue, or renew any license issued under this chapter if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
+        <text>The commissioner may suspend, revoke, or refuse to continue, issue, or renew any license issued under <cite path="1.09">this chapter</cite> if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
         <para>
           <num>a.</num>
-          <text>Recommending any particular attorney at law to handle the case in which the bail bond agent has caused a bond to be issued under this chapter.</text>
+          <text>Recommending any particular attorney at law to handle the case in which the bail bond agent has caused a bond to be issued under <cite path="1.09">this chapter</cite>.</text>
         </para>
         <para>
           <num>b.</num>
@@ -613,7 +613,7 @@
         </para>
         <para>
           <num>j.</num>
-          <text>Failing to pay any forfeiture as directed by a court and as required by this chapter.</text>
+          <text>Failing to pay any forfeiture as directed by a court and as required by <cite path="1.09">this chapter</cite>.</text>
         </para>
       </para>
       <para>
@@ -630,13 +630,13 @@
       </para>
       <para>
         <num>5.</num>
-        <text>The provisions and penalties under this section are in addition to those provided under this chapter.</text>
+        <text>The provisions and penalties under <cite path="1|1.09|1.0914">this section</cite> are in addition to those provided under <cite path="1.09">this chapter</cite>.</text>
       </para>
     </section>
     <section>
       <num>1.0915</num>
       <heading>Access to Jails</heading>
-      <text>Every person who holds a valid bail bond agent license issued by the insurance commissioner is entitled to equal access to the jails of the judge for the purpose of making bond, subject to the provisions of this chapter and the rules adopted in the manner provided by law. Jail personnel, law enforcement officers, and court personnel may not suggest, recommend, advise, or promote a particular bail bond agent. Each jail shall furnish a space convenient to the telephones in the booking area to be used to hold business cards of bail bond agents.</text>
+      <text>Every person who holds a valid bail bond agent license issued by the insurance commissioner is entitled to equal access to the jails of the judge for the purpose of making bond, subject to the provisions of <cite path="1.09">this chapter</cite> and the rules adopted in the manner provided by law. Jail personnel, law enforcement officers, and court personnel may not suggest, recommend, advise, or promote a particular bail bond agent. Each jail shall furnish a space convenient to the telephones in the booking area to be used to hold business cards of bail bond agents.</text>
     </section>
     <section>
       <num>1.0916</num>
@@ -656,7 +656,7 @@
     <section>
       <num>1.0919</num>
       <heading>Rules</heading>
-      <text>The commissioner may adopt reasonable rules for implementation and administration of this chapter.</text>
+      <text>The commissioner may adopt reasonable rules for implementation and administration of <cite path="1.09">this chapter</cite>.</text>
     </section>
     <section>
       <num>1.0920</num>
@@ -680,24 +680,24 @@
       <heading>Orders and Modifications</heading>
       <para>
         <num>1.</num>
-        <text>If, after hearing, the commissioner determines that the person charged has engaged in an unfair method of competition, or an unfair or deceptive act or practice, the commissioner shall order the person to cease and desist from engaging in the method of competition, act, or practice. If the person charged is found to have willfully engaged in a method of competition, act, or practice in violation of this section, the commissioner may order any one or more of the following:</text>
+        <text>If, after hearing, the commissioner determines that the person charged has engaged in an unfair method of competition, or an unfair or deceptive act or practice, the commissioner shall order the person to cease and desist from engaging in the method of competition, act, or practice. If the person charged is found to have willfully engaged in a method of competition, act, or practice in violation of <cite path="1|1.09|1.0921">this section</cite>, the commissioner may order any one or more of the following:</text>
         <para>
           <num>a.</num>
-          <text>Payment of a monetary penalty of not more than one thousand ($1,000) dollars for each and every act or violation, but not to exceed an aggregate penalty of ten thousand ($10,000) dollars unless the person knew or reasonably should have known that person was in violation of this section, in which case the penalty must be not more than five thousand ($5,000) dollars for each and every act or violation, but not to exceed an aggregate penalty of fifty thousand ($50,000) dollars in any six (6) month period.</text>
+          <text>Payment of a monetary penalty of not more than one thousand ($1,000) dollars for each and every act or violation, but not to exceed an aggregate penalty of ten thousand ($10,000) dollars unless the person knew or reasonably should have known that person was in violation of <cite path="1|1.09|1.0921">this section</cite>, in which case the penalty must be not more than five thousand ($5,000) dollars for each and every act or violation, but not to exceed an aggregate penalty of fifty thousand ($50,000) dollars in any six (6) month period.</text>
         </para>
         <para>
           <num>b.</num>
-          <text>Suspension or revocation of the person's license if the person knew, or reasonably should have known that person was in violation of this section.</text>
+          <text>Suspension or revocation of the person's license if the person knew, or reasonably should have known that person was in violation of <cite path="1|1.09|1.0921">this section</cite>.</text>
         </para>
       </para>
       <para>
         <num>2.</num>
-        <text>Until the expiration of the time allowed for an appeal, if no appeal has been duly filed or, if an appeal has been filed, then until the transcript of the record in the proceeding has been filed in the district court, the commissioner may modify or set aside in whole or in part any order issued under this section.</text>
+        <text>Until the expiration of the time allowed for an appeal, if no appeal has been duly filed or, if an appeal has been filed, then until the transcript of the record in the proceeding has been filed in the district court, the commissioner may modify or set aside in whole or in part any order issued under <cite path="1|1.09|1.0921">this section</cite>.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>After the expiration of the time allowed for filing an appeal, if no appeal has been duly filed, the commissioner may, after notice and opportunity for hearing, reopen and alter, modify, or set aside, in whole or in part, any order issued under this section, whenever in the commissioner's opinion conditions of fact or of law have so changed as to require the action, or if the public interest shall so require.</text>
-        <text>The commissioner may suspend, revoke, place on probation, or refuse to continue or issue any license issued under this chapter if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
+        <text>After the expiration of the time allowed for filing an appeal, if no appeal has been duly filed, the commissioner may, after notice and opportunity for hearing, reopen and alter, modify, or set aside, in whole or in part, any order issued under <cite path="1|1.09|1.0921">this section</cite>, whenever in the commissioner's opinion conditions of fact or of law have so changed as to require the action, or if the public interest shall so require.</text>
+        <text>The commissioner may suspend, revoke, place on probation, or refuse to continue or issue any license issued under <cite path="1.09">this chapter</cite> if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
       </para>
       <para>
         <num>1.</num>
@@ -717,7 +717,7 @@
       </para>
       <para>
         <num>5.</num>
-        <text>The applicant or licensee has been convicted of a felony, or convicted of an offense, as defined by section 1.0913 (subsection 19), determined by the commissioner to have a direct bearing upon a person's ability to serve the public as an insurance producer, insurance consultant or surplus lines insurance producer, or the commissioner finds, after conviction of an offense, that the person is not sufficiently rehabilitated.</text>
+        <text>The applicant or licensee has been convicted of a felony, or convicted of an offense, as defined by <cite path="1|1.09|1.0913">section 1.0913</cite> (subsection 19), determined by the commissioner to have a direct bearing upon a person's ability to serve the public as an insurance producer, insurance consultant or surplus lines insurance producer, or the commissioner finds, after conviction of an offense, that the person is not sufficiently rehabilitated.</text>
       </para>
       <para>
         <num>6.</num>
@@ -741,7 +741,7 @@
       </para>
       <para>
         <num>11.</num>
-        <text>The licensee has been found guilty of any unfair trade practice defined in this title or fraud.</text>
+        <text>The licensee has been found guilty of any unfair trade practice defined in <cite path="1">this title</cite> or fraud.</text>
       </para>
       <para>
         <num>12.</num>
@@ -753,7 +753,7 @@
       </para>
       <para>
         <num>14.</num>
-        <text>The applicant or licensee has refused to respond within twenty (20) days to a written request by the commissioner for information regarding any potential violation of this section.</text>
+        <text>The applicant or licensee has refused to respond within twenty (20) days to a written request by the commissioner for information regarding any potential violation of <cite path="1|1.09|1.0921">this section</cite>.</text>
       </para>
       <para>
         <num>15.</num>
@@ -776,22 +776,22 @@
         <text>Under the federal definition Crimes and Criminal Procedure 18 USC Section 1153: A person convicted of a felony involving heinous crimes cannot be a bail bondsman.  Heinous crimes involve crimes that "shock the conscience of the court" pursuant to 18 USC § 1153 Offenses committed within Indian Country which reads as follows:</text>
         <para>
           <num>a.</num>
-          <text>Any Indian who commits against the person or property of another Indian or other person any of the following offenses: namely, murder, manslaughter, kidnapping, maiming, a felony under Chapter 109A, incest, assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of this title), an assault against an individual who has not attained the age of sixteen (16) years, arson, burglary, robbery, and a felony under Section 661 of this title within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses, within the exclusive jurisdiction of the United States.</text>
+          <text>Any Indian who commits against the person or property of another Indian or other person any of the following offenses: namely, murder, manslaughter, kidnapping, maiming, a felony under Chapter 109A, incest, assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of <cite path="1">this title</cite>), an assault against an individual who has not attained the age of sixteen (16) years, arson, burglary, robbery, and a felony under Section 661 of <cite path="1">this title</cite> within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses, within the exclusive jurisdiction of the United States.</text>
         </para>
         <para>
           <num>b.</num>
-          <text>Any offense referred to in subsection (a) of this section that is not defined and punished by Federal law in force within the exclusive jurisdiction of the United States shall be defined and punished in accordance with the laws of the State (Indian Tribe) in which such offense was committed as are in force at the time of such offense.</text>
+          <text>Any offense referred to in subsection (a) of <cite path="1|1.09|1.0921">this section</cite> that is not defined and punished by Federal law in force within the exclusive jurisdiction of the United States shall be defined and punished in accordance with the laws of the State (Indian Tribe) in which such offense was committed as are in force at the time of such offense.</text>
         </para>
       </para>
       <para>
         <num>20.</num>
-        <text>The applicant knowingly fails to provide adequate insurance in an amount sufficient to cover any losses that may occur under this title.</text>
+        <text>The applicant knowingly fails to provide adequate insurance in an amount sufficient to cover any losses that may occur under <cite path="1">this title</cite>.</text>
       </para>
     </section>
     <section>
       <num>1.0923</num>
       <heading>Revocation of Nonresident License</heading>
-      <text>Notwithstanding the provisions of this section, any nonresident license issued pursuant to this chapter may be suspended or revoked without notice and hearing to the licensee, and without proceeding in conformity with this chapter, upon evidence in the form of a certified copy that the authority which issued the resident license to the North Dakota nonresident licensee has revoked or suspended the resident license.</text>
+      <text>Notwithstanding the provisions of <cite path="1|1.09|1.0923">this section</cite>, any nonresident license issued pursuant to <cite path="1.09">this chapter</cite> may be suspended or revoked without notice and hearing to the licensee, and without proceeding in conformity with <cite path="1.09">this chapter</cite>, upon evidence in the form of a certified copy that the authority which issued the resident license to the North Dakota nonresident licensee has revoked or suspended the resident license.</text>
     </section>
     <section>
       <num>1.0924</num>
@@ -812,7 +812,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>A person may not knowingly or intentionally interfere with the enforcement of the provisions of this chapter or investigations of suspected or actual violations of this chapter.</text>
+        <text>A person may not knowingly or intentionally interfere with the enforcement of the provisions of <cite path="1.09">this chapter</cite> or investigations of suspected or actual violations of <cite path="1.09">this chapter</cite>.</text>
       </para>
       <para>
         <num>3.</num>
@@ -827,11 +827,11 @@
         <text>Under the federal definition Crimes and Criminal Procedure 18 USC § 1153:  A person convicted of a felony involving heinous crimes cannot be a bail bondsman.  Heinous crimes involve crimes that "shock the conscience of the court" pursuant to 18 USC § 1153 Offenses committed within Indian Country which reads as follows:</text>
         <para>
           <num>a.</num>
-          <text>Any Indian who commits against the person or property of another Indian or other person any of the following offenses: namely, murder, manslaughter, kidnapping, maiming, a felony under chapter 109A, incest, assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of this title), and assault against an individual who has not attained the age of 16 years, arson, burglary, robbery, and a felony under section 661 of this title within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses within the exclusive jurisdiction of the United States.</text>
+          <text>Any Indian who commits against the person or property of another Indian or other person any of the following offenses: namely, murder, manslaughter, kidnapping, maiming, a felony under chapter 109A, incest, assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of <cite path="1">this title</cite>), and assault against an individual who has not attained the age of 16 years, arson, burglary, robbery, and a felony under section 661 of <cite path="1">this title</cite> within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses within the exclusive jurisdiction of the United States.</text>
         </para>
         <para>
           <num>b.</num>
-          <text>Any offense referred to in subsection (a) of this section that is not defined and punished in accordance with the laws of the State (Indian Tribe) in which such offense was committed as are in force at the time of such offense.			(18 USC § 1153.)</text>
+          <text>Any offense referred to in subsection (a) of <cite path="1|1.09|1.0926">this section</cite> that is not defined and punished in accordance with the laws of the State (Indian Tribe) in which such offense was committed as are in force at the time of such offense.			(18 USC § 1153.)</text>
         </para>
       </para>
     </section>
@@ -856,7 +856,7 @@
       </para>
       <para>
         <num>5.</num>
-        <text>This section does not abrogate or modify in any way common law or statutory privilege or immunity heretofore enjoyed by any person or entity.</text>
+        <text><cite path="1|1.09|1.0927">This section</cite> does not abrogate or modify in any way common law or statutory privilege or immunity heretofore enjoyed by any person or entity.</text>
       </para>
     </section>
     <section>
@@ -864,15 +864,15 @@
       <heading>Penalties; Restitution</heading>
       <para>
         <num>1.</num>
-        <text>A violation of this section is a Class C felony if the value of any property or services retained exceeds five thousand ($5000) dollars and a Class A misdemeanor in all other cases.  For purposes of this section, the value of any property and services must be determined.</text>
+        <text>A violation of <cite path="1|1.09|1.0928">this section</cite> is a Class C felony if the value of any property or services retained exceeds five thousand ($5000) dollars and a Class A misdemeanor in all other cases.  For purposes of <cite path="1|1.09|1.0928">this section</cite>, the value of any property and services must be determined.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>In the event that a practitioner is adjudicated guilty of a violation of this section, the court shall notify the appropriate licensing authorities of the Tribe and state of the adjudication.  The appropriate licensing authority shall hold an administrative hearing to consider the imposition of administrative sanctions as provided by law against the practitioner.</text>
+        <text>In the event that a practitioner is adjudicated guilty of a violation of <cite path="1|1.09|1.0928">this section</cite>, the court shall notify the appropriate licensing authorities of the Tribe and state of the adjudication.  The appropriate licensing authority shall hold an administrative hearing to consider the imposition of administrative sanctions as provided by law against the practitioner.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>In addition to any other punishment, a person who violates this section must be ordered to make restitution to the insurer or to any other person for any financial loss sustained as a result of the violation of this section.  The court shall determine the extent and method of restitution.</text>
+        <text>In addition to any other punishment, a person who violates <cite path="1|1.09|1.0928">this section</cite> must be ordered to make restitution to the insurer or to any other person for any financial loss sustained as a result of the violation of <cite path="1|1.09|1.0928">this section</cite>.  The court shall determine the extent and method of restitution.</text>
       </para>
     </section>
   </container>
@@ -1029,7 +1029,7 @@
     <section>
       <num>1.1107</num>
       <heading>Harmless Error</heading>
-      <text>Any variance from the procedures required by this chapter, which does not affect substantial rights of the accused, shall be regarded as harmless error.</text>
+      <text>Any variance from the procedures required by <cite path="1.11">this chapter</cite>, which does not affect substantial rights of the accused, shall be regarded as harmless error.</text>
     </section>
   </container>
   <container>
@@ -1054,7 +1054,7 @@
       <text>The complaint must be displayed without prejudice by the Tribal Court upon the defendant's motion in the following cases:</text>
       <para>
         <num>1.</num>
-        <text>Where it is found not to comply with the requirements of Contents of Complaint as stated in Section 1.0602;</text>
+        <text>Where it is found not to comply with the requirements of Contents of Complaint as stated in <cite path="1|1.06|1.0602">Section 1.0602</cite>;</text>
       </para>
       <para>
         <num>2.</num>
@@ -1068,7 +1068,7 @@
     <section>
       <num>1.1203</num>
       <heading>Future Prosecution of Complaint Dismissed Without Prejudice</heading>
-      <text>An order to dismiss the complaint, as provided for in this chapter, does not bar the future prosecution for the same offense, except in the case wherein the Tribal Court has no jurisdiction over the person or the offense.</text>
+      <text>An order to dismiss the complaint, as provided for in <cite path="1.12">this chapter</cite>, does not bar the future prosecution for the same offense, except in the case wherein the Tribal Court has no jurisdiction over the person or the offense.</text>
     </section>
     <section>
       <num>1.1204</num>
@@ -1108,7 +1108,7 @@
     <section>
       <num>1.1303</num>
       <heading>Irregularities, Mistakes, and Omissions</heading>
-      <text>Neither a departure from the form or mode prescribed in this chapter in respect to any pleading or proceedings, nor an error or mistake therein, renders a trial invalid, unless it has prejudiced the defendant.</text>
+      <text>Neither a departure from the form or mode prescribed in <cite path="1.13">this chapter</cite> in respect to any pleading or proceedings, nor an error or mistake therein, renders a trial invalid, unless it has prejudiced the defendant.</text>
     </section>
     <section>
       <num>1.1304</num>
@@ -1263,7 +1263,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>a lack of any of the qualifications set out in Section 2.0903 (Qualification of Jurors) of the Civil Procedure;</text>
+        <text>a lack of any of the qualifications set out in <cite path="2|2.09|2.0903">Section 2.0903</cite> (Qualification of Jurors) of the Civil Procedure;</text>
       </para>
       <para>
         <num>3.</num>
@@ -1578,7 +1578,7 @@
     <section>
       <num>1.2003</num>
       <heading>Notice of Appeal</heading>
-      <text>Every notice of appeal, except as provided in Section 1.2003 below, is sufficient if it designates:</text>
+      <text>Every notice of appeal, except as provided in <cite path="1|1.20|1.2003">Section 1.2003</cite> below, is sufficient if it designates:</text>
       <para>
         <num>1.</num>
         <text>the party who appeals;</text>
@@ -1613,7 +1613,7 @@
     <section>
       <num>1.2101</num>
       <heading>Definitions</heading>
-      <text>As used in this chapter, unless the context clearly requires a different meaning.</text>
+      <text>As used in <cite path="1.21">this chapter</cite>, unless the context clearly requires a different meaning.</text>
       <para>
         <num>1.</num>
         <text>"Vessel" means every description of watercraft, other than a seaplane on the water, used or capable of being used as a means of transportation on water.</text>
@@ -1632,7 +1632,7 @@
       </para>
       <para>
         <num>5.</num>
-        <text>"Indian Person" means Indian as defined by Section 1.0502 of this Code.</text>
+        <text>"Indian Person" means Indian as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
       </para>
       <para>
         <num>6.</num>
@@ -1646,18 +1646,18 @@
     <section>
       <num>1.2102</num>
       <heading>Operation of Unnumbered Motorboats Prohibited</heading>
-      <text>Every motorboat propelled by a motor having ten (10) horsepower or more on the waters of the Turtle Mountain Jurisdiction shall be numbered. No Indian shall operate or give permission for the operation of any motorboat on such waters unless the motorboat is numbered in accordance with this chapter, or in accordance with applicable federal law, or in accordance with a federally approved numbering system of another state, and unless (1) the certificate of number awarded to such motorboat is in full force and effect, and (2) the identifying number set forth in the certificate of number is displayed on each side of the bow of such motorboat.</text>
+      <text>Every motorboat propelled by a motor having ten (10) horsepower or more on the waters of the Turtle Mountain Jurisdiction shall be numbered. No Indian shall operate or give permission for the operation of any motorboat on such waters unless the motorboat is numbered in accordance with <cite path="1.21">this chapter</cite>, or in accordance with applicable federal law, or in accordance with a federally approved numbering system of another state, and unless (1) the certificate of number awarded to such motorboat is in full force and effect, and (2) the identifying number set forth in the certificate of number is displayed on each side of the bow of such motorboat.</text>
     </section>
     <section>
       <num>1.2103</num>
       <heading>Identification Number</heading>
       <para>
         <num>1.</num>
-        <text>The Indian owner of each motorboat requiring numbering by the State of North Dakota shall file an application for number with the department on forms approved by it. The application shall be signed by the Indian owner of the motorboat and shall be accompanied by a fee of three dollars ($3). Upon receipt of the application in approved form, the department shall enter the same upon the records of its office and issue the Indian applicant a certificate of number stating the number awarded to the motorboat and the name and address of the owner. The Game and Fish Department shall pay all funds collected hereunder to the North Dakota State Treasurer who shall credit funds thereof to the State Game and Fish fund to pay for the costs of administering this chapter. The Indian owner shall attach to each side of the bow of the motorboat the identification number in such manner as may be prescribed by rules and regulations of the department in order that it may be clearly visible. The number shall be maintained in legible condition. The certificate of number shall be available at all times for inspection on the motorboat for which issued, whenever such motorboat is in operation.</text>
+        <text>The Indian owner of each motorboat requiring numbering by the State of North Dakota shall file an application for number with the department on forms approved by it. The application shall be signed by the Indian owner of the motorboat and shall be accompanied by a fee of three dollars ($3). Upon receipt of the application in approved form, the department shall enter the same upon the records of its office and issue the Indian applicant a certificate of number stating the number awarded to the motorboat and the name and address of the owner. The Game and Fish Department shall pay all funds collected hereunder to the North Dakota State Treasurer who shall credit funds thereof to the State Game and Fish fund to pay for the costs of administering <cite path="1.21">this chapter</cite>. The Indian owner shall attach to each side of the bow of the motorboat the identification number in such manner as may be prescribed by rules and regulations of the department in order that it may be clearly visible. The number shall be maintained in legible condition. The certificate of number shall be available at all times for inspection on the motorboat for which issued, whenever such motorboat is in operation.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>The owner of any motorboat already covered by a number in full force and effect which has been awarded to it pursuant to then operative federal law or a federally approved numbering system of another state shall record the number prior to operating the motorboat on the waters of the Turtle Mountain Jurisdiction in excess of the ninety (90) day reciprocity period provided for in Section 1.2405. Such recordation shall be in the manner and pursuant to the procedure required for the award of a number under subsection 1 of this section, except that no additional or substitute number shall be issued.</text>
+        <text>The owner of any motorboat already covered by a number in full force and effect which has been awarded to it pursuant to then operative federal law or a federally approved numbering system of another state shall record the number prior to operating the motorboat on the waters of the Turtle Mountain Jurisdiction in excess of the ninety (90) day reciprocity period provided for in <cite path="1|1.24|1.2405">Section 1.2405</cite>. Such recordation shall be in the manner and pursuant to the procedure required for the award of a number under subsection 1 of <cite path="1|1.21|1.2103">this section</cite>, except that no additional or substitute number shall be issued.</text>
       </para>
       <para>
         <num>3.</num>
@@ -1665,27 +1665,27 @@
       </para>
       <para>
         <num>4.</num>
-        <text>In the event that an agency of the United States Government shall have in force an over all system of identification numbering for motorboats within the United States, the numbering system employed pursuant to this chapter by the department shall be in conformity therewith.</text>
+        <text>In the event that an agency of the United States Government shall have in force an over all system of identification numbering for motorboats within the United States, the numbering system employed pursuant to <cite path="1.21">this chapter</cite> by the department shall be in conformity therewith.</text>
       </para>
       <para>
         <num>5.</num>
-        <text>The department may award any certificate of number directly or may authorize any Indian person to act as agent for the awarding thereof. In the event that an Indian person accepts such authorization, he may be assigned a block of numbers and certificates therefore which upon award, in conformity with this chapter and with any rules and regulations of the department, shall be valid as if awarded directly by the department.</text>
+        <text>The department may award any certificate of number directly or may authorize any Indian person to act as agent for the awarding thereof. In the event that an Indian person accepts such authorization, he may be assigned a block of numbers and certificates therefore which upon award, in conformity with <cite path="1.21">this chapter</cite> and with any rules and regulations of the department, shall be valid as if awarded directly by the department.</text>
       </para>
       <para>
         <num>6.</num>
-        <text>All records of the department made or kept pursuant to this section shall be public records.</text>
+        <text>All records of the department made or kept pursuant to <cite path="1|1.21|1.2103">this section</cite> shall be public records.</text>
       </para>
       <para>
         <num>7.</num>
-        <text>Every certificate of number awarded pursuant to this chapter shall continue in full force and effect for a period of three (3) years unless sooner terminated or discontinued in accordance with the provisions of this chapter. Certificates of number may be renewed by the owner in the same manner provided for in the initial securing of the same.</text>
+        <text>Every certificate of number awarded pursuant to <cite path="1.21">this chapter</cite> shall continue in full force and effect for a period of three (3) years unless sooner terminated or discontinued in accordance with the provisions of <cite path="1.21">this chapter</cite>. Certificates of number may be renewed by the owner in the same manner provided for in the initial securing of the same.</text>
       </para>
       <para>
         <num>8.</num>
-        <text>The department shall fix a day and month of the year on which certificates of number due to expire during the calendar year shall lapse and no longer be of any force and effect unless renewed pursuant to this Chapter.</text>
+        <text>The department shall fix a day and month of the year on which certificates of number due to expire during the calendar year shall lapse and no longer be of any force and effect unless renewed pursuant to <cite path="1.21">this Chapter</cite>.</text>
       </para>
       <para>
         <num>9.</num>
-        <text>The owner shall furnish the department notice of the transfer of all or any part of his interest other than the creation of a security interest in a motorboat numbered in this state pursuant to Subsections (1) and (2) of this section or of the destruction or abandonment of such motorboat, within fifteen (15) days thereof. Such transfer, destruction, or abandonment shall terminate the certificate of number for such motorboat except, that in the case of a transfer of a part interest which does not affect the Indian owner's right to operate such motorboat; such transfer shall not terminate the certificate of number.</text>
+        <text>The owner shall furnish the department notice of the transfer of all or any part of his interest other than the creation of a security interest in a motorboat numbered in this state pursuant to Subsections (1) and (2) of <cite path="1|1.21|1.2103">this section</cite> or of the destruction or abandonment of such motorboat, within fifteen (15) days thereof. Such transfer, destruction, or abandonment shall terminate the certificate of number for such motorboat except, that in the case of a transfer of a part interest which does not affect the Indian owner's right to operate such motorboat; such transfer shall not terminate the certificate of number.</text>
       </para>
       <para>
         <num>10.</num>
@@ -1693,7 +1693,7 @@
       </para>
       <para>
         <num>11.</num>
-        <text>No number other than the number awarded to a motorboat or granted reciprocity pursuant to, this Chapter shall be painted, attached or otherwise displayed on either side of the bow of such motorboat.</text>
+        <text>No number other than the number awarded to a motorboat or granted reciprocity pursuant to, <cite path="1.21">this Chapter</cite> shall be painted, attached or otherwise displayed on either side of the bow of such motorboat.</text>
       </para>
     </section>
     <section>
@@ -1718,13 +1718,13 @@
       </para>
       <para>
         <num>5.</num>
-        <text>No Indian person shall operate or give permission for the operation of a vessel which not equipped as required by this Section or modification thereof.</text>
+        <text>No Indian person shall operate or give permission for the operation of a vessel which not equipped as required by <cite path="1|1.21|1.2104">this Section</cite> or modification thereof.</text>
       </para>
     </section>
     <section>
       <num>1.2105</num>
       <heading>Exemption from Numbering Provisions of This Chapter</heading>
-      <text>A motorboat shall not be required to be numbered under this chapter if it is:</text>
+      <text>A motorboat shall not be required to be numbered under <cite path="1.21">this chapter</cite> if it is:</text>
       <para>
         <num>1.</num>
         <text>Already covered by a number in full force and effect which has been awarded to it pursuant to federal law or a federally approved numbering system of another state; provided that such boat shall not have been within this state for a period in excess of ninety (90) consecutive days.</text>
@@ -1761,7 +1761,7 @@
     <section>
       <num>1.2108</num>
       <heading>Transmittal of Information</heading>
-      <text>In accordance with any request duly made by an authorized official or agency of the United States, any information compiled or otherwise available to the department pursuant to Section 1.2407 shall be transmitted to said official or agency of the United States.</text>
+      <text>In accordance with any request duly made by an authorized official or agency of the United States, any information compiled or otherwise available to the department pursuant to <cite path="1|1.24|1.2407">Section 1.2407</cite> shall be transmitted to said official or agency of the United States.</text>
     </section>
     <section>
       <num>1.2109</num>
@@ -1776,7 +1776,7 @@
       </para>
       <para>
         <num>3.</num>
-        <text>The provisions of Subsections (1) and (2) of this Section does not apply to a performer engaged in a professional exhibition or a person or persons engaged in an activity authorized under Section 1.2410.</text>
+        <text>The provisions of Subsections (1) and (2) of <cite path="1|1.21|1.2109">this Section</cite> does not apply to a performer engaged in a professional exhibition or a person or persons engaged in an activity authorized under <cite path="1|1.24|1.2410">Section 1.2410</cite>.</text>
       </para>
       <para>
         <num>4.</num>
@@ -1792,7 +1792,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>The provisions of this section shall not exempt any Indian person from compliance with applicable federal law or regulation, but nothing contained herein shall be construed to require the securing of a state permit pursuant to this section if a permit therefore has been obtained from an authorized agency of the United States.</text>
+        <text>The provisions of <cite path="1|1.21|1.2110">this section</cite> shall not exempt any Indian person from compliance with applicable federal law or regulation, but nothing contained herein shall be construed to require the securing of a state permit pursuant to <cite path="1|1.21|1.2110">this section</cite> if a permit therefore has been obtained from an authorized agency of the United States.</text>
       </para>
     </section>
     <section>
@@ -1808,7 +1808,7 @@
     <section>
       <num>1.2113</num>
       <heading>Penalty</heading>
-      <text>Any Indian violating any of the provisions of this Chapter shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred dollars ($100) or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
+      <text>Any Indian violating any of the provisions of <cite path="1.21">this Chapter</cite> shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred dollars ($100) or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
     </section>
   </container>
   <container>
@@ -1818,14 +1818,14 @@
     <section>
       <num>1.2201</num>
       <heading>Definitions</heading>
-      <text>In this Chapter, unless the context or subject matter otherwise requires:</text>
+      <text>In <cite path="1.22">this Chapter</cite>, unless the context or subject matter otherwise requires:</text>
       <para>
         <num>1.</num>
-        <text>"Indian Person" means Indian as defined by Section 1.0502 of this Code.</text>
+        <text>"Indian Person" means Indian as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>"Non-Indian" means any person other than an Indian person as defined by Section 1.0502 of this Code.</text>
+        <text>"Non-Indian" means any person other than an Indian person as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
       </para>
       <para>
         <num>3.</num>
@@ -1866,7 +1866,7 @@
       <num>1.2204</num>
       <heading>All Non-Indians to Be Licensed</heading>
       <text>No non-Indian over the age of fifteen (15) years shall fish in waters of the Turtle Mountain Jurisdiction unless duly licensed by the Tribal Council in accordance with this Code and the regulation issued pursuant thereto.</text>
-      <text>A non-Indian over the age of fifteen (15) years who shall violate the provisions of this Section may be proceeded against for violation of Chapter 12-41 of the North Dakota Century Code or of Section 1165, Title 18 of the United States Code as the case may warrant.</text>
+      <text>A non-Indian over the age of fifteen (15) years who shall violate the provisions of <cite path="1|1.22|1.2204">this Section</cite> may be proceeded against for violation of Chapter 12-41 of the North Dakota Century Code or of Section 1165, Title 18 of the United States Code as the case may warrant.</text>
     </section>
     <section>
       <num>1.2205</num>
@@ -1889,14 +1889,14 @@
     <section>
       <num>1.2207</num>
       <heading>Who to Issue Tribal Fishing License</heading>
-      <text>The Secretary-Treasurer of the Tribal Council and all du1y commissioned Tribal Game Wardens are hereby authorized to issue Tribal fishing licenses and to collect license fees as specified in Section 1.2506 of this Code.</text>
+      <text>The Secretary-Treasurer of the Tribal Council and all du1y commissioned Tribal Game Wardens are hereby authorized to issue Tribal fishing licenses and to collect license fees as specified in <cite path="1|1.25|1.2506">Section 1.2506</cite> of this Code.</text>
       <text>The Tribal Council may, by resolution, authorize any other person or persons to issue Tribal fishing licenses and collect fees as it deems necessary.</text>
     </section>
     <section>
       <num>1.2208</num>
       <heading>Disposition of Moneys from Sale of Fishing Licenses</heading>
-      <text>All fees or moneys collected from sales of Tribal fishing licenses by persons designated in Section 1.2507 of this Code shall, on the first day of each month, excluding Saturdays, Sundays and legal holidays, be transferred to the Secretary-Treasurer of the Tribal Council for deposit in the Tribal Council's general fund.</text>
-      <text>Any Indian Tribal Game Warden who shall violate the provisions of this Section shall be deemed guilty of an offense and upon conviction thereof, shall be sentenced to labor for a period not to exceed three (3) months or to a fine not to exceed one hundred eighty dollars ($180), or to both such imprisonment and fine, with costs.</text>
+      <text>All fees or moneys collected from sales of Tribal fishing licenses by persons designated in <cite path="1|1.25|1.2507">Section 1.2507</cite> of this Code shall, on the first day of each month, excluding Saturdays, Sundays and legal holidays, be transferred to the Secretary-Treasurer of the Tribal Council for deposit in the Tribal Council's general fund.</text>
+      <text>Any Indian Tribal Game Warden who shall violate the provisions of <cite path="1|1.22|1.2208">this Section</cite> shall be deemed guilty of an offense and upon conviction thereof, shall be sentenced to labor for a period not to exceed three (3) months or to a fine not to exceed one hundred eighty dollars ($180), or to both such imprisonment and fine, with costs.</text>
     </section>
     <section>
       <num>1.2209</num>
@@ -1906,7 +1906,7 @@
     <section>
       <num>1.2210</num>
       <heading>Illegal to Set or Use Nets, Set Lines or Fish Traps; Exceptions</heading>
-      <text>No person except those specifically authorized by the Tribal Council shall set or use any nets, set lines, or fish traps in waters of the Turtle Mountain Jurisdiction and such nets, set lines or fish traps shall be seized by authorized enforcement officers as defined in Section 1.2503 of this Code and held subject to the order of a court of competent jurisdiction.</text>
+      <text>No person except those specifically authorized by the Tribal Council shall set or use any nets, set lines, or fish traps in waters of the Turtle Mountain Jurisdiction and such nets, set lines or fish traps shall be seized by authorized enforcement officers as defined in <cite path="1|1.25|1.2503">Section 1.2503</cite> of this Code and held subject to the order of a court of competent jurisdiction.</text>
     </section>
     <section>
       <num>1.2211</num>
@@ -1921,13 +1921,13 @@
     <section>
       <num>1.2213</num>
       <heading>Penalties Not Otherwise_Prescribed</heading>
-      <text>Any Indian who is convicted of an offense enumerated in this Chapter or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall be sentenced under this section to a fine of not more than one hundred dollars ($100) or to labor for a period not to exceed thirty (30) days or to both such fine and imprisonment, with costs.</text>
+      <text>Any Indian who is convicted of an offense enumerated in <cite path="1.22">this Chapter</cite> or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall be sentenced under <cite path="1|1.22|1.2213">this section</cite> to a fine of not more than one hundred dollars ($100) or to labor for a period not to exceed thirty (30) days or to both such fine and imprisonment, with costs.</text>
     </section>
     <section>
       <num>1.2214</num>
       <heading>Penalties Applicable to Non-Indians</heading>
-      <text>Any non-Indian who violates any provision of this Chapter or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall forfeit his Tribal fishing license and may be proceeded against for violation of Section 1165, Title 18, of the United States Code.</text>
-      <text>Should the non-Indian violate any provision of this Chapter which is also a violation of Title 20 of the North Dakota Century Code or any order or proclamation issued by the Governor of North Dakota pursuant thereto, may be delivered to the custody of a duly commissioned State or County law enforcement officer for prosecution under State law to the extent applicable.</text>
+      <text>Any non-Indian who violates any provision of <cite path="1.22">this Chapter</cite> or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall forfeit his Tribal fishing license and may be proceeded against for violation of Section 1165, Title 18, of the United States Code.</text>
+      <text>Should the non-Indian violate any provision of <cite path="1.22">this Chapter</cite> which is also a violation of Title 20 of the North Dakota Century Code or any order or proclamation issued by the Governor of North Dakota pursuant thereto, may be delivered to the custody of a duly commissioned State or County law enforcement officer for prosecution under State law to the extent applicable.</text>
     </section>
   </container>
   <container>
@@ -1937,10 +1937,10 @@
     <section>
       <num>1.2301</num>
       <heading>Definitions</heading>
-      <text>In this chapter, unless the context or subject matter otherwise requires:</text>
+      <text>In <cite path="1.23">this chapter</cite>, unless the context or subject matter otherwise requires:</text>
       <para>
         <num>1.</num>
-        <text>"Indian Person" means an Indian as defined by Section 1.0502 of this Code.</text>
+        <text>"Indian Person" means an Indian as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
       </para>
       <para>
         <num>2.</num>
@@ -1974,7 +1974,7 @@
     <section>
       <num>1.2302</num>
       <heading>Snowmobile Registration; General Requirements</heading>
-      <text>Except as hereafter provided, no Indian person shall operate a snowmobile on easements, trails, accesses, lands, lakes, rivers, or streams, within the Turtle Mountain Jurisdiction, as defined by Section 1.0502 of this Code, unless such snowmobile shall: have a current distinctive number assigned to it by a motor vehicle registration department. Such registration number shall be:</text>
+      <text>Except as hereafter provided, no Indian person shall operate a snowmobile on easements, trails, accesses, lands, lakes, rivers, or streams, within the Turtle Mountain Jurisdiction, as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code, unless such snowmobile shall: have a current distinctive number assigned to it by a motor vehicle registration department. Such registration number shall be:</text>
       <para>
         <num>1.</num>
         <text>At least two (2) inches in height and of a reflective material; and</text>
@@ -2010,7 +2010,7 @@
       <heading>Rules for Operation of Snowmobiles</heading>
       <para>
         <num>1.</num>
-        <text>No Indian person shall operate a snowmobile upon the roadway, shoulder or inside bank or slope of any road, street, or highway in Turtle Mountain Jurisdiction except as provided pursuant to this Chapter. No snowmobile shall be operated at any time within the right of way of any interstate highway within the Turtle Mountain Jurisdiction except for emergency purposes.</text>
+        <text>No Indian person shall operate a snowmobile upon the roadway, shoulder or inside bank or slope of any road, street, or highway in Turtle Mountain Jurisdiction except as provided pursuant to <cite path="1.23">this Chapter</cite>. No snowmobile shall be operated at any time within the right of way of any interstate highway within the Turtle Mountain Jurisdiction except for emergency purposes.</text>
       </para>
       <para>
         <num>2.</num>
@@ -2034,11 +2034,11 @@
       </para>
       <para>
         <num>3.</num>
-        <text>No snowmobile shall be operated unless it is equipped with at least one (1) headlamp, one (1) tail lamp, and brakes, all in working order, which conform to standards prescribed by rule of the highway commissioner pursuant to the authority vested in him by this Code and this Chapter.</text>
+        <text>No snowmobile shall be operated unless it is equipped with at least one (1) headlamp, one (1) tail lamp, and brakes, all in working order, which conform to standards prescribed by rule of the highway commissioner pursuant to the authority vested in him by this Code and <cite path="1.23">this Chapter</cite>.</text>
       </para>
       <para>
         <num>4.</num>
-        <text>The emergency conditions under which a snowmobile may be operated other than as provided by this Chapter shall be such as to render the use of an</text>
+        <text>The emergency conditions under which a snowmobile may be operated other than as provided by <cite path="1.23">this Chapter</cite> shall be such as to render the use of an</text>
         <text>automobile impractical under such conditions at such period of time and location.</text>
       </para>
       <para>
@@ -2075,17 +2075,17 @@
       </para>
       <para>
         <num>6.</num>
-        <text>When snowmobiles are operated within the right of way of any road, street, or highway of this state pursuant to this Chapter, during times or conditions that warrant the use of lights, such snowmobiles shall travel in the same direction as the direction of motor vehicles traveling on the side of the roadway immediately adjacent to the side of the right of way traveled by the snowmobile.</text>
+        <text>When snowmobiles are operated within the right of way of any road, street, or highway of this state pursuant to <cite path="1.23">this Chapter</cite>, during times or conditions that warrant the use of lights, such snowmobiles shall travel in the same direction as the direction of motor vehicles traveling on the side of the roadway immediately adjacent to the side of the right of way traveled by the snowmobile.</text>
       </para>
       <para>
         <num>7.</num>
-        <text>It shall be unlawful for any Indian person to operate a snowmobile within a highway right of way as defined in Subsection 37 of Section 1.2602 between April first and November first of any year.</text>
+        <text>It shall be unlawful for any Indian person to operate a snowmobile within a highway right of way as defined in Subsection 37 of <cite path="1|1.26|1.2602">Section 1.2602</cite> between April first and November first of any year.</text>
       </para>
     </section>
     <section>
       <num>1.2305</num>
       <heading>Rules for Operation of Snowmobiles in Belcourt, North Dakota or Other Unorganized Town or Settlement Within the Turtle Mountain Jurisdiction</heading>
-      <text>No person shall operate a snowmobile on the street or alleys of Belcourt, North Dakota or other unorganized town or settlement within the Turtle Mountain Jurisdiction except as provided by this Section.</text>
+      <text>No person shall operate a snowmobile on the street or alleys of Belcourt, North Dakota or other unorganized town or settlement within the Turtle Mountain Jurisdiction except as provided by <cite path="1|1.23|1.2305">this Section</cite>.</text>
       <para>
         <num>1.</num>
         <text>Indian operators of snowmobiles may use streets and alleys to leave the town limits and/or to return to their places of residences, by the most direct route only.</text>
@@ -2133,7 +2133,7 @@
     <section>
       <num>1.2309</num>
       <heading>Penalty</heading>
-      <text>Any Indian violating any of the provisions of this Chapter shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred ($100) dollars or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
+      <text>Any Indian violating any of the provisions of <cite path="1.23">this Chapter</cite> shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred ($100) dollars or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
     </section>
   </container>
 </container>

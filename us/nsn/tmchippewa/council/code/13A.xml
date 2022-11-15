@@ -10,7 +10,7 @@
     <section>
       <num>13.0101</num>
       <heading>Purpose</heading>
-      <text>The purpose of this Title is to establish the laws for the election of the Tribal and Judicial officials and representatives in a fair and impartial manner consistent with the democratic principle of allowing the people to vote for the person who will represent their rights and interests and those of the Tribe in government and in the judicial system and in compliance with the Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians.</text>
+      <text>The purpose of <cite path="13A">this Title</cite> is to establish the laws for the election of the Tribal and Judicial officials and representatives in a fair and impartial manner consistent with the democratic principle of allowing the people to vote for the person who will represent their rights and interests and those of the Tribe in government and in the judicial system and in compliance with the Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians.</text>
     </section>
   </container>
   <container>
@@ -66,19 +66,18 @@
       </para>
       <para>
         <num>12.</num>
-        <text>A <strong>"QUALIFIED VOTER" </strong>shall mean an enrolled member of the Turtle Mountain Band of Chippewa Indians who meets the qualifications set out in Section 13.0301 of this Title and in Article V, Section 2 (a) and (b) of the Turtle Mountain Tribal Constitution and Bylaws.</text>
+        <text>A <strong>"QUALIFIED VOTER" </strong>shall mean an enrolled member of the Turtle Mountain Band of Chippewa Indians who meets the qualifications set out in <cite path="13|13.03|13.0301">Section 13.0301</cite> of this Title and in Article V, Section 2 (a) and (b) of the Turtle Mountain Tribal Constitution and Bylaws.</text>
       </para>
       <para>
         <num>13.</num>
         <text><strong>"TALLYING" </strong>shall mean by hand or electronic equipment. Amended Resolution No. TMBC952-09-12</text>
-        <text class="center">
-          <strong>CHAPTER 13.03</strong>
-        </text>
-        <text class="center">
-          <strong>Voter Qualification</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.03</num>
+    <heading>Voter Qualification</heading>
     <section>
       <num>13.0301</num>
       <heading>Voter Qualification</heading>
@@ -90,14 +89,13 @@
       <para>
         <num>2.</num>
         <text>All eligible resident voters shall register in the district of their residence as provided by tribal ordinance. All eligible nonresident voters shall register with the district of their former residence or affiliation.</text>
-        <text class="center">
-          <strong>CHAPTER 13.04</strong>
-        </text>
-        <text class="center">
-          <strong>Election Officials</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.04</num>
+    <heading>Election Officials</heading>
     <section>
       <num>13.0401</num>
       <heading>Election Board</heading>
@@ -135,7 +133,7 @@
         </para>
         <para>
           <num>c.</num>
-          <text>Is an employer or employee of a candidate in the present election or an employee of the Tribe. For purposes of this section, "employee of the tribe" is defined as a person whose paycheck comes directly from a tribal account.</text>
+          <text>Is an employer or employee of a candidate in the present election or an employee of the Tribe. For purposes of <cite path="13A|13.04|13.0403">this section</cite>, "employee of the tribe" is defined as a person whose paycheck comes directly from a tribal account.</text>
         </para>
       </para>
     </section>
@@ -148,7 +146,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>Any vacancy occurring under this section or otherwise shall be filled in accordance with §13.0401 or §13.0402 of this Title.</text>
+        <text>Any vacancy occurring under <cite path="13A|13.04|13.0404">this section</cite> or otherwise shall be filled in accordance with §13.0401 or §13.0402 of <cite path="13A">this Title</cite>.</text>
       </para>
     </section>
     <section>
@@ -162,29 +160,28 @@
       <para>
         <num>2.</num>
         <text>Such oath may be taken before any officer authorized by law to administer oaths, and in case no such officer is present at the opening of the polls, the inspector or election judges shall administer the oath to each other and to the election clerks. The person administering the oath shall cause an entry thereof to be made and subscribed by him and affixed to the poll book.</text>
-        <text class="center">
-          <strong>CHAPTER 13.05</strong>
-        </text>
-        <text class="center">
-          <strong>Duties of Election Officials</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.05</num>
+    <heading>Duties of Election Officials</heading>
     <section>
       <num>13.0501</num>
       <heading>Election Board Duties Before the Election</heading>
       <text>It shall be the responsibility of the Election Board to:</text>
       <para>
         <num>1.</num>
-        <text>Receive and review all notices of intent and determine whether the candidate is qualified for office according to qualifications listed in Chapter 13.07 and determine that such notice is filed by the posted deadline;</text>
+        <text>Receive and review all notices of intent and determine whether the candidate is qualified for office according to qualifications listed in <cite path="13.07">Chapter 13.07</cite> and determine that such notice is filed by the posted deadline;</text>
       </para>
       <para>
         <num>2.</num>
-        <text>Prepare and publish any Notice of Election as described in §13.1002 and §13.1206 of this Title;</text>
+        <text>Prepare and publish any Notice of Election as described in §13.1002 and §13.1206 of <cite path="13A">this Title</cite>;</text>
       </para>
       <para>
         <num>3.</num>
-        <text>Determine the order for placement of the candidates' names on the ballot in accordance with section 13.0801;</text>
+        <text>Determine the order for placement of the candidates' names on the ballot in accordance with <cite path="13|13.08|13.0801">section 13.0801</cite>;</text>
       </para>
       <para>
         <num>4.</num>
@@ -204,11 +201,11 @@
       </para>
       <para>
         <num>1.</num>
-        <text>Make arrangements for the polling places, obtain all materials such as ballots, pencils, ballot boxes and establish such records as are required by this Chapter;</text>
+        <text>Make arrangements for the polling places, obtain all materials such as ballots, pencils, ballot boxes and establish such records as are required by <cite path="13.05">this Chapter</cite>;</text>
       </para>
       <para>
         <num>2.</num>
-        <text>Distribute absentee ballots as provided in Chapter 13.09 of this Title;</text>
+        <text>Distribute absentee ballots as provided in <cite path="13.09">Chapter 13.09</cite> of <cite path="13A">this Title</cite>;</text>
       </para>
       <para>
         <num>3.</num>
@@ -233,7 +230,7 @@
       <text>It shall be the duty of the Election Board during hours the polls are open to:</text>
       <para>
         <num>1.</num>
-        <text>Determine the eligibility of voters in accordance with Chapter 13.03 of this Title; and</text>
+        <text>Determine the eligibility of voters in accordance with <cite path="13.03">Chapter 13.03</cite> of <cite path="13A">this Title</cite>; and</text>
       </para>
       <para>
         <num>2.</num>
@@ -282,11 +279,11 @@
       </para>
       <para>
         <num>2.</num>
-        <text>Receive all absentee ballots pursuant to section 13.0901(4) and deposit the same in the Bureau of Indian Affairs locked vault until the Election Board convenes after the election to tally by hand or electronic equipment election results at which time the Chairperson shall retrieve all absentee ballots and provide them to the Election Board for tallying shall mean by hand or electronic equipment with the other votes cast in the election;</text>
+        <text>Receive all absentee ballots pursuant to <cite path="13|13.09|13.0901">section 13.0901</cite>(4) and deposit the same in the Bureau of Indian Affairs locked vault until the Election Board convenes after the election to tally by hand or electronic equipment election results at which time the Chairperson shall retrieve all absentee ballots and provide them to the Election Board for tallying shall mean by hand or electronic equipment with the other votes cast in the election;</text>
       </para>
       <para>
         <num>3.</num>
-        <text>Receive the locked ballot boxes from the Election Judges under Section 13.0506(6) and place the same with the Bureau of Indian Affairs to be placed in a locked vault along with the absentee ballots until such time as the Election Board convenes to tally the votes;</text>
+        <text>Receive the locked ballot boxes from the Election Judges under <cite path="13|13.05|13.0506">Section 13.0506</cite>(6) and place the same with the Bureau of Indian Affairs to be placed in a locked vault along with the absentee ballots until such time as the Election Board convenes to tally the votes;</text>
       </para>
       <para>
         <num>4.</num>
@@ -352,7 +349,7 @@
       </para>
       <para>
         <num>4.</num>
-        <text>Assist voters requesting help pursuant to Section 13.1010;</text>
+        <text>Assist voters requesting help pursuant to <cite path="13|13.10|13.1010">Section 13.1010</cite>;</text>
       </para>
       <para>
         <num>5.</num>
@@ -391,7 +388,7 @@
     <section>
       <num>13.0508</num>
       <heading>Conduct of Election Officials</heading>
-      <text>Members of the Election Board and their appointees shall be responsible for the conduct of elections in Rolette County for the Turtle Mountain Band of Chippewa Indians and shall conduct themselves in a lawful manner befitting the status of their office. An election official must be present at the polls at all times during the election. In addition, election officials shall not express any preference for any candidate during the execution of their statutory duties. Any election official who fails to perform the duties prescribed in this chapter shall be subject to immediate removal by the Tribal Council.</text>
+      <text>Members of the Election Board and their appointees shall be responsible for the conduct of elections in Rolette County for the Turtle Mountain Band of Chippewa Indians and shall conduct themselves in a lawful manner befitting the status of their office. An election official must be present at the polls at all times during the election. In addition, election officials shall not express any preference for any candidate during the execution of their statutory duties. Any election official who fails to perform the duties prescribed in <cite path="13.05">this chapter</cite> shall be subject to immediate removal by the Tribal Council.</text>
     </section>
     <section>
       <num>13.0509</num>
@@ -575,14 +572,13 @@
       <para>
         <num>8.</num>
         <text>Furnish written proof for all requirements.</text>
-        <text class="center">
-          <strong>CHAPTER 13.08</strong>
-        </text>
-        <text class="center">
-          <strong>Ballots</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.08</num>
+    <heading>Ballots</heading>
     <section>
       <num>13.0801</num>
       <heading>Names on Ballot</heading>
@@ -682,12 +678,12 @@
         </para>
         <para>
           <num>e.</num>
-          <text>Any other deadlines required under this Title.</text>
+          <text>Any other deadlines required under <cite path="13A">this Title</cite>.</text>
         </para>
       </para>
       <para>
         <num>1.</num>
-        <text>Not less than fourteen (14) days prior to the Primary Election, and five (5) days prior to the General Election, the notice of election shall be published. Notice of all other elections shall be published as required in this Title.</text>
+        <text>Not less than fourteen (14) days prior to the Primary Election, and five (5) days prior to the General Election, the notice of election shall be published. Notice of all other elections shall be published as required in <cite path="13A">this Title</cite>.</text>
       </para>
     </section>
     <section>
@@ -760,19 +756,18 @@
       <heading>Voter Disability</heading>
       <para>
         <num>1.</num>
-        <text>Any voter who declares to the judges of the election that he or she cannot read the English language, or because of blindness or other disability is unable to mark his or her ballot, may upon request, receive the assistance of any person of the voter's choice and one election judge, in marking the voter's ballot. If the voter requests the assistance of a member of the Election Board, however, the voter shall receive the assistance of both election judges in the marking of the voter's ballot. No one assisting any voter in marking a ballot under this chapter may provide any information regarding the marked ballot to any other person.</text>
+        <text>Any voter who declares to the judges of the election that he or she cannot read the English language, or because of blindness or other disability is unable to mark his or her ballot, may upon request, receive the assistance of any person of the voter's choice and one election judge, in marking the voter's ballot. If the voter requests the assistance of a member of the Election Board, however, the voter shall receive the assistance of both election judges in the marking of the voter's ballot. No one assisting any voter in marking a ballot under <cite path="13.10">this chapter</cite> may provide any information regarding the marked ballot to any other person.</text>
       </para>
       <para>
         <num>2.</num>
         <text>No voter, other than one who is unable to read the English language or one who because of disability is unable to mark a ballot, may divulge to anyone within the polling site the name of any candidate for whom the voter intends to vote, nor ask, nor receive the assistance of any person within the polling site to mark the voters ballot except as provided herein.</text>
-        <text class="center">
-          <strong>CHAPTER 13.11</strong>
-        </text>
-        <text class="center">
-          <strong>Determining Election Winner</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.11</num>
+    <heading>Determining Election Winner</heading>
     <section>
       <num>13.1101</num>
       <heading>Determination of Election</heading>

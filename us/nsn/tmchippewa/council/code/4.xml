@@ -10,7 +10,7 @@
     <section>
       <num>4.0101</num>
       <heading>Purpose Statement</heading>
-      <text>The purpose of this title is to regulate the procedures to enforce and execute civil and criminal judgments, court orders or writs of the Tribal and Appellate Court.</text>
+      <text>The purpose of <cite path="4">this title</cite> is to regulate the procedures to enforce and execute civil and criminal judgments, court orders or writs of the Tribal and Appellate Court.</text>
     </section>
     <section>
       <num>4.0102</num>
@@ -121,7 +121,7 @@
           <text>If special circumstances allow it, items under subsection l(b) above may be exempted even if the value is greater than four thousand dollars($4000).</text>
         </para>
       </para>
-      <text>This section shall not apply to garnishment of wages proceedings as described in section 4.0501.</text>
+      <text><cite path="4|4.02|4.0202">This section</cite> shall not apply to garnishment of wages proceedings as described in <cite path="4|4.05|4.0501">section 4.0501</cite>.</text>
     </section>
     <section>
       <num>4.0203</num>
@@ -158,7 +158,7 @@
       <num>4.0205</num>
       <heading>Proceeds of Sale Exempt; Disposition</heading>
       <text>If the sale of a homestead is made, the proceeds thereof, to the amount of the homestead exemption must be paid to the claimant and the residue applied</text>
-      <text>to the satisfaction of the execution. When the execution is against a married claimant whose spouse is living, the court may direct that the amount be deposited in court to be paid out only on the joint receipt of the husband and wife, and it shall possess all the protection against legal process and voluntary disposition by either spouse as did the original homestead premises whether paid directly to the claimant or to the husband and wife jointly. Any excess funds remaining after the sale shall be returned to the debtor. First right to repurchase the property shall be with the debtor. In addition, the debtor has the right to participate in any auction held pursuant to this chapter.</text>
+      <text>to the satisfaction of the execution. When the execution is against a married claimant whose spouse is living, the court may direct that the amount be deposited in court to be paid out only on the joint receipt of the husband and wife, and it shall possess all the protection against legal process and voluntary disposition by either spouse as did the original homestead premises whether paid directly to the claimant or to the husband and wife jointly. Any excess funds remaining after the sale shall be returned to the debtor. First right to repurchase the property shall be with the debtor. In addition, the debtor has the right to participate in any auction held pursuant to <cite path="4.02">this chapter</cite>.</text>
     </section>
     <section>
       <num>4.0206</num>
@@ -183,7 +183,7 @@
     <section>
       <num>4.0210</num>
       <heading>Appraisal of Property Seized</heading>
-      <text>As soon as practicable upon receipt of the property seized under a writ of execution, the clerk of the Tribal Court shall cause it to be appraised item by item by three (3) disinterested parties, one (1) to be selected by the plaintiff, one (1) by the defendant and one (1) by the Clerk of Court, and all to be placed under oath by the clerk to make a just and true appraisal.  If either plaintiff or defendant or both fail to select an appraiser, the clerk shall make the selection. If a majority of the appraisers cannot agree on an appraisal of any item of seized property within forty-eight (48) hours of their appointment, the Clerk may appoint new appraisers. Cost of appraisals shall be assessed and deducted from the sale held pursuant to Section 4.0211.</text>
+      <text>As soon as practicable upon receipt of the property seized under a writ of execution, the clerk of the Tribal Court shall cause it to be appraised item by item by three (3) disinterested parties, one (1) to be selected by the plaintiff, one (1) by the defendant and one (1) by the Clerk of Court, and all to be placed under oath by the clerk to make a just and true appraisal.  If either plaintiff or defendant or both fail to select an appraiser, the clerk shall make the selection. If a majority of the appraisers cannot agree on an appraisal of any item of seized property within forty-eight (48) hours of their appointment, the Clerk may appoint new appraisers. Cost of appraisals shall be assessed and deducted from the sale held pursuant to <cite path="4|4.02|4.0211">Section 4.0211</cite>.</text>
     </section>
     <section>
       <num>4.0211</num>
@@ -195,7 +195,7 @@
       <num>4.0212</num>
       <heading>Private Sale of Property Seized; Delivery of Unsold Property to Plaintiff or Return to Defendant</heading>
       <text>If the Clerk is unable to sell the property seized</text>
-      <text>under a writ of execution for at least ninety (90) percent of its appraised value, he may hold it for fourteen (14) work days after the date of the attempted sale, during which time he shall sell it to the first person offering him the appraised value in cash. The Clerk, at any time within the fourteen (14) work day period following an unsuccessful public sale, upon request of the plaintiff and payment of all costs, may deliver the property to him and credit the appraised value thereof against the judgment debt. The judgment creditor shall have a judgment against the judgment debtor for costs as they are allowed under section 4.0302. If the appraised value is greater than the debt, he shall not deliver the property to the plaintiff until the plaintiff pays the judgment debtor in cash for such excess value. At the end of fourteen (14) workdays if the property remains unsold and unclaimed by the plaintiff, the Clerk shall return it to the judgment debtor.</text>
+      <text>under a writ of execution for at least ninety (90) percent of its appraised value, he may hold it for fourteen (14) work days after the date of the attempted sale, during which time he shall sell it to the first person offering him the appraised value in cash. The Clerk, at any time within the fourteen (14) work day period following an unsuccessful public sale, upon request of the plaintiff and payment of all costs, may deliver the property to him and credit the appraised value thereof against the judgment debt. The judgment creditor shall have a judgment against the judgment debtor for costs as they are allowed under <cite path="4|4.03|4.0302">section 4.0302</cite>. If the appraised value is greater than the debt, he shall not deliver the property to the plaintiff until the plaintiff pays the judgment debtor in cash for such excess value. At the end of fourteen (14) workdays if the property remains unsold and unclaimed by the plaintiff, the Clerk shall return it to the judgment debtor.</text>
     </section>
     <section>
       <num>4.0213</num>
@@ -231,7 +231,7 @@
     <section>
       <num>4.0401</num>
       <heading>Immediate Delivery of Personal Property Before Judgment</heading>
-      <text>The plaintiff, in an action to recover the possession of personal property, at the time of issuing the summons or at any time before the answer, may claim the immediate delivery of such property as provided by this chapter.</text>
+      <text>The plaintiff, in an action to recover the possession of personal property, at the time of issuing the summons or at any time before the answer, may claim the immediate delivery of such property as provided by <cite path="4.04">this chapter</cite>.</text>
     </section>
     <section>
       <num>4.0402</num>
@@ -272,7 +272,7 @@
     <section>
       <num>4.0501</num>
       <heading>Definitions</heading>
-      <text>In this chapter, unless the context or subject matter otherwise requires:</text>
+      <text>In <cite path="4.05">this chapter</cite>, unless the context or subject matter otherwise requires:</text>
       <para>
         <num>1.</num>
         <text>Defendant means every judgment debtor.</text>
@@ -293,7 +293,7 @@
     <section>
       <num>4.0502</num>
       <heading>Creditors May Proceed by Garnishment</heading>
-      <text>Any creditor is entitled to proceed by garnishment in the Turtle Mountain Tribal Court against any person, any public corporation, the tribal  government of the Turtle Mountain Band of Chippewa, or any institution, department or agency of the Turtle Mountain Band of Chippewa, indebted to or having any property in possession or under control, belonging to the creditor's debtor after securing a judgment against the debtor in a court of competent jurisdiction, in the cases, upon the conditions, and in the manner prescribed in this chapter. A garnishment action brought pursuant to this chapter is the exclusive procedure which may be used to execute on earnings of a debtor while these earnings are held by a third party employer.</text>
+      <text>Any creditor is entitled to proceed by garnishment in the Turtle Mountain Tribal Court against any person, any public corporation, the tribal  government of the Turtle Mountain Band of Chippewa, or any institution, department or agency of the Turtle Mountain Band of Chippewa, indebted to or having any property in possession or under control, belonging to the creditor's debtor after securing a judgment against the debtor in a court of competent jurisdiction, in the cases, upon the conditions, and in the manner prescribed in <cite path="4.05">this chapter</cite>. A garnishment action brought pursuant to <cite path="4.05">this chapter</cite> is the exclusive procedure which may be used to execute on earnings of a debtor while these earnings are held by a third party employer.</text>
     </section>
     <section>
       <num>4.0503</num>
@@ -344,7 +344,7 @@
       </para>
       <para>
         <num>5.</num>
-        <text>The Tribal Court may not make, execute, or enforce any order or process in violation of this section.</text>
+        <text>The Tribal Court may not make, execute, or enforce any order or process in violation of <cite path="4|4.05|4.0503">this section</cite>.</text>
       </para>
     </section>
     <section>
@@ -366,14 +366,14 @@
     <section>
       <num>4.0506</num>
       <heading>Garnishee Summons</heading>
-      <text>In any action in the Tribal Court for the recovery of money, at any time after judgment, a garnishee summons may be issued against any third person as provided in this chapter. The plaintiff and defendant shall be designated.  The person against whom the summons is used shall be designated garnishee.</text>
+      <text>In any action in the Tribal Court for the recovery of money, at any time after judgment, a garnishee summons may be issued against any third person as provided in <cite path="4.05">this chapter</cite>. The plaintiff and defendant shall be designated.  The person against whom the summons is used shall be designated garnishee.</text>
     </section>
     <section>
       <num>4.0507</num>
       <heading>Form of Summons and Notice</heading>
       <para>
         <num>1.</num>
-        <text>The garnishee summons must state that the garnishee must serve upon the plaintiff or the plaintiffs' attorney within twenty (20) days after service of the garnishee summons a written disclosure, under oath, of indebtedness to or property of the defendant and answers to all written interrogatories that are served with the garnishee summons. The plaintiff may not require disclosure of indebtedness or property in excess of one hundred ten percent (110%) of the amount of the judgment, which remains unpaid. The garnishee summons must include the full name of the defendant and place of residence and the amount of the judgment, which remains unpaid. The garnishee summons must also state that the garnishee must retain property or money in the garnishees possession pursuant to this chapter until the plaintiff causes a writ of execution to be served upon the garnishee or until the defendant authorizes release of all detained property and money to the defendant and is discharged and relieved of all liability on the garnishee summons.</text>
+        <text>The garnishee summons must state that the garnishee must serve upon the plaintiff or the plaintiffs' attorney within twenty (20) days after service of the garnishee summons a written disclosure, under oath, of indebtedness to or property of the defendant and answers to all written interrogatories that are served with the garnishee summons. The plaintiff may not require disclosure of indebtedness or property in excess of one hundred ten percent (110%) of the amount of the judgment, which remains unpaid. The garnishee summons must include the full name of the defendant and place of residence and the amount of the judgment, which remains unpaid. The garnishee summons must also state that the garnishee must retain property or money in the garnishees possession pursuant to <cite path="4.05">this chapter</cite> until the plaintiff causes a writ of execution to be served upon the garnishee or until the defendant authorizes release of all detained property and money to the defendant and is discharged and relieved of all liability on the garnishee summons.</text>
       </para>
       <para>
         <num>2.</num>
@@ -424,7 +424,7 @@
     <section>
       <num>4.0508</num>
       <heading>Service</heading>
-      <text>The garnishee summons and notice to defendant shall be served upon the garnishee in the same manner as other summons in the tribal court of record except that service must be personal. The plaintiff shall serve with the garnishee summons a disclosure form, substantially as set out in this chapter. The plaintiff may also serve interrogatories with the garnishee summons. A copy of the garnishee summons and copies of all other papers served on the garnishee must be served personally upon the defendant not more than ten (10) days after service is made upon the garnishee. A single garnishee summons may be addressed to two (2) or more garnishees but must state whether each is summoned separately or jointly.</text>
+      <text>The garnishee summons and notice to defendant shall be served upon the garnishee in the same manner as other summons in the tribal court of record except that service must be personal. The plaintiff shall serve with the garnishee summons a disclosure form, substantially as set out in <cite path="4.05">this chapter</cite>. The plaintiff may also serve interrogatories with the garnishee summons. A copy of the garnishee summons and copies of all other papers served on the garnishee must be served personally upon the defendant not more than ten (10) days after service is made upon the garnishee. A single garnishee summons may be addressed to two (2) or more garnishees but must state whether each is summoned separately or jointly.</text>
     </section>
     <section>
       <num>4.0509</num>
@@ -584,7 +584,7 @@
     <section>
       <num>4.0514</num>
       <heading>Default</heading>
-      <text>If any garnishee who is duly summoned fails to serve disclosure as required in this chapter, the court may, upon proof by affidavit, render judgment against the garnishee for an amount not exceeding the plaintiff's judgment against the defendant or one hundred ten percent (110%) of the amount which remains unpaid whichever is the smaller, but the court upon good cause shown may remove the default and permit the garnishee to disclose on terms as may be just.</text>
+      <text>If any garnishee who is duly summoned fails to serve disclosure as required in <cite path="4.05">this chapter</cite>, the court may, upon proof by affidavit, render judgment against the garnishee for an amount not exceeding the plaintiff's judgment against the defendant or one hundred ten percent (110%) of the amount which remains unpaid whichever is the smaller, but the court upon good cause shown may remove the default and permit the garnishee to disclose on terms as may be just.</text>
     </section>
     <section>
       <num>4.0515</num>
@@ -604,7 +604,7 @@
     <section>
       <num>4.0518</num>
       <heading>Discharge from Employment for Garnishment or Execution Prohibited</heading>
-      <text>No employer may discharge any employee by reason of the fact that earnings have been subjected to garnishment or execution. If an employer discharges an employee in violation of this section, the employee may within ninety (90) days of discharge bring a civil action for recovery of twice the wages lost plus costs and reasonable attorney fees as a result of the violation and for an order requiring reinstatement.</text>
+      <text>No employer may discharge any employee by reason of the fact that earnings have been subjected to garnishment or execution. If an employer discharges an employee in violation of <cite path="4|4.05|4.0518">this section</cite>, the employee may within ninety (90) days of discharge bring a civil action for recovery of twice the wages lost plus costs and reasonable attorney fees as a result of the violation and for an order requiring reinstatement.</text>
     </section>
     <section>
       <num>4.0519</num>
@@ -624,7 +624,7 @@
     <section>
       <num>4.0522</num>
       <heading>Claim of Exemptions; How Made</heading>
-      <text>Within ten (10) days of receipt of return of the execution, the debtor shall file his claim of exemptions with the clerk as to any property levied upon by the police. The creditor shall then have five (5) days to file any objections to the claim of exceptions. The debtor shall file a schedule of all personal property exemptions as provided in Chapter 4.02 of this Title.</text>
+      <text>Within ten (10) days of receipt of return of the execution, the debtor shall file his claim of exemptions with the clerk as to any property levied upon by the police. The creditor shall then have five (5) days to file any objections to the claim of exceptions. The debtor shall file a schedule of all personal property exemptions as provided in <cite path="4.02">Chapter 4.02</cite> of <cite path="4">this Title</cite>.</text>
     </section>
     <section>
       <num>4.0523</num>

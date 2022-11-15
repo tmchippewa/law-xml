@@ -15,7 +15,7 @@
     <section>
       <num>14.0102</num>
       <heading>Purposes</heading>
-      <text>The providing of decent, safe and sanitary dwelling accommodations for persons of low income are public uses and purposes for which money may be spent and private property acquired and are governmental functions of Tribal concern, therefore, the Housing Authority will be organized and operated for the purpose of serving the mandates of the Tribal Council, whose primary concerns regarding this title consist of:</text>
+      <text>The providing of decent, safe and sanitary dwelling accommodations for persons of low income are public uses and purposes for which money may be spent and private property acquired and are governmental functions of Tribal concern, therefore, the Housing Authority will be organized and operated for the purpose of serving the mandates of the Tribal Council, whose primary concerns regarding <cite path="14">this title</cite> consist of:</text>
       <para>
         <num>1.</num>
         <text>Remedying on the Reservation unsafe and unsanitary housing conditions that are injurious to the public health, safety and morals;</text>
@@ -27,12 +27,13 @@
       <para>
         <num>3.</num>
         <text>Providing employment opportunities on the Reservation through the construction, reconstruction, improvement, extension, alteration or repair and operation of low income dwellings.</text>
-        <text class="center">CHAPTER 14.02</text>
-        <text class="center">
-          <strong>Definitions</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>14.02</num>
+    <heading>Definitions</heading>
     <section>
       <num>14.0201</num>
       <heading>Definitions</heading>
@@ -75,7 +76,7 @@
       </para>
       <para>
         <num>7.</num>
-        <text>"Bonds" means any bonds, notes, interim certificates, debentures, or other obligations issued by the Authority pursuant to this Title.</text>
+        <text>"Bonds" means any bonds, notes, interim certificates, debentures, or other obligations issued by the Authority pursuant to <cite path="14">this Title</cite>.</text>
       </para>
       <para>
         <num>8.</num>
@@ -84,12 +85,13 @@
       <para>
         <num>9.</num>
         <text>"Home Buyer" means a person who has executed a lease-purchase agreement with the Authority, and who has not yet achieved ownership.</text>
-        <text class="center">CHAPTER 14.03</text>
-        <text class="center">
-          <strong>Organization</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>14.03</num>
+    <heading>Organization</heading>
     <section>
       <num>14.0301</num>
       <heading>Appointment of Board Members</heading>
@@ -128,7 +130,7 @@
     <section>
       <num>14.0308</num>
       <heading>Financial Records</heading>
-      <text>The treasurer shall keep full and accurate financial records, make periodic reports to the Board and submit a complete annual report, in written form, to the Council as required by Section 14.0601 of this Title. (1) The Treasurer shall be bonded in such amount as prescribed by the Council or by any agreement to which the Authority is a party. (2) The Board shall have authority to exercise, by majority vote of those present and voting, any and all powers delegated to the Authority by this title or any amendments thereto, except as provided in Section 14.0504 for the adoption of bond resolutions.</text>
+      <text>The treasurer shall keep full and accurate financial records, make periodic reports to the Board and submit a complete annual report, in written form, to the Council as required by <cite path="14|14.06|14.0601">Section 14.0601</cite> of <cite path="14">this Title</cite>. (1) The Treasurer shall be bonded in such amount as prescribed by the Council or by any agreement to which the Authority is a party. (2) The Board shall have authority to exercise, by majority vote of those present and voting, any and all powers delegated to the Authority by <cite path="14">this title</cite> or any amendments thereto, except as provided in <cite path="14|14.05|14.0504">Section 14.0504</cite> for the adoption of bond resolutions.</text>
     </section>
   </container>
   <container>
@@ -138,7 +140,7 @@
     <section>
       <num>14.0401</num>
       <heading>Authority</heading>
-      <text>The Council hereby gives its irrevocable consent to allowing the Authority to sue and be sued in its corporate name, upon any contract, claim or obligation arising out of its activities under this Title, however, prohibits the Authority from agreeing to any contract to waive sovereign immunity unless permission is expressly granted by the Council. In no event shall the Tribe be liable for the debts or obligations of the Authority, except insofar as expressly authorized by this title.</text>
+      <text>The Council hereby gives its irrevocable consent to allowing the Authority to sue and be sued in its corporate name, upon any contract, claim or obligation arising out of its activities under <cite path="14">this Title</cite>, however, prohibits the Authority from agreeing to any contract to waive sovereign immunity unless permission is expressly granted by the Council. In no event shall the Tribe be liable for the debts or obligations of the Authority, except insofar as expressly authorized by <cite path="14">this title</cite>.</text>
     </section>
     <section>
       <num>14.0402</num>
@@ -148,7 +150,7 @@
     <section>
       <num>14.0403</num>
       <heading>Contracts and Agreements</heading>
-      <text>To enter into agreements, contracts and understandings with any governmental agency, Federal, State or Local (including the Council), or with any person, partnership, corporation or Indian tribe, and to agree to any conditions attached to Federal financial assistance subject to Section 14.0401.</text>
+      <text>To enter into agreements, contracts and understandings with any governmental agency, Federal, State or Local (including the Council), or with any person, partnership, corporation or Indian tribe, and to agree to any conditions attached to Federal financial assistance subject to <cite path="14|14.04|14.0401">Section 14.0401</cite>.</text>
     </section>
     <section>
       <num>14.0404</num>
@@ -158,7 +160,7 @@
     <section>
       <num>14.0405</num>
       <heading>Conveyance to Federal Government</heading>
-      <text>In any contract with the Federal government for annual contributions to the Authority, the Authority may obligate itself to convey to the Federal government possession of, or title to, the project to which such contract relates, upon the occurrence of a substantial default (as defined in such contract) with respect to the covenant or conditions to which the Authority is subject; and such contract may further provide that in case of such conveyance, the Federal government may complete, operate, manage, lease, convey or otherwise deal with the project and funds in accordance with the terms of such contract. Provided, that the contract requires that, as soon as practicable after the Federal government is satisfied that all defaults with respect to the project have been cured and that the project will thereafter be operated in accordance with the terms of the contract, the Federal government shall recovery to the Authority the project as then constituted. It is the purpose and intent of this title to authorize the Authority to do any and all things necessary or desirable to secure the financial aid or cooperation of the Federal government in the undertaking, construction, maintenance or operation of any project by the Authority.</text>
+      <text>In any contract with the Federal government for annual contributions to the Authority, the Authority may obligate itself to convey to the Federal government possession of, or title to, the project to which such contract relates, upon the occurrence of a substantial default (as defined in such contract) with respect to the covenant or conditions to which the Authority is subject; and such contract may further provide that in case of such conveyance, the Federal government may complete, operate, manage, lease, convey or otherwise deal with the project and funds in accordance with the terms of such contract. Provided, that the contract requires that, as soon as practicable after the Federal government is satisfied that all defaults with respect to the project have been cured and that the project will thereafter be operated in accordance with the terms of the contract, the Federal government shall recovery to the Authority the project as then constituted. It is the purpose and intent of <cite path="14">this title</cite> to authorize the Authority to do any and all things necessary or desirable to secure the financial aid or cooperation of the Federal government in the undertaking, construction, maintenance or operation of any project by the Authority.</text>
     </section>
     <section>
       <num>14.0406</num>
@@ -183,7 +185,7 @@
     <section>
       <num>14.0407</num>
       <heading>Borrow Money</heading>
-      <text>To borrow money, to issue temporary or long-term evidence of indebtedness, and to repay the same. Corporate bonds shall be issued and repaid in accordance with the provisions of Chapter 14.05 of this title.</text>
+      <text>To borrow money, to issue temporary or long-term evidence of indebtedness, and to repay the same. Corporate bonds shall be issued and repaid in accordance with the provisions of <cite path="14.05">Chapter 14.05</cite> of <cite path="14">this title</cite>.</text>
     </section>
     <section>
       <num>14.0408</num>
@@ -235,7 +237,7 @@
     <section>
       <num>14.0416</num>
       <heading>Other</heading>
-      <text>To take such further actions as are commonly engaged in by corporate bodies of this character as the Board may deem necessary and desirable to effectuate the purposes of the Authority. To adopt such bylaws as the Board deems necessary and appropriate. No title or other enactment of the Tribe with respect to the acquisition, operation, or disposition of Tribal property shall be applicable to the Authority in its operations pursuant to this title unless the Council shall specifically so state.</text>
+      <text>To take such further actions as are commonly engaged in by corporate bodies of this character as the Board may deem necessary and desirable to effectuate the purposes of the Authority. To adopt such bylaws as the Board deems necessary and appropriate. No title or other enactment of the Tribe with respect to the acquisition, operation, or disposition of Tribal property shall be applicable to the Authority in its operations pursuant to <cite path="14">this title</cite> unless the Council shall specifically so state.</text>
     </section>
   </container>
   <container>
@@ -274,7 +276,7 @@
     <section>
       <num>14.0503</num>
       <heading>Tax</heading>
-      <text>Bonds of the Authority are declared to be issued for an essential public and governmental purpose and to be public instrumentalities and, together with interest thereon and income there from, shall be exempt from taxes. The tax exemption provisions of this title shall be considered part of the security for the repayment of bonds and shall constitute, by virtue of this title and without necessity of being restated in the bonds, a contract between (1) the Authority and the Tribe, and (2) the bondholders and each of them, including all transferees of the bonds from time to time.</text>
+      <text>Bonds of the Authority are declared to be issued for an essential public and governmental purpose and to be public instrumentalities and, together with interest thereon and income there from, shall be exempt from taxes. The tax exemption provisions of <cite path="14">this title</cite> shall be considered part of the security for the repayment of bonds and shall constitute, by virtue of <cite path="14">this title</cite> and without necessity of being restated in the bonds, a contract between (1) the Authority and the Tribe, and (2) the bondholders and each of them, including all transferees of the bonds from time to time.</text>
     </section>
     <section>
       <num>14.0504</num>
@@ -300,12 +302,12 @@
     <section>
       <num>14.0505</num>
       <heading>Bonds of the Authority Shall Be Fully Negotiable</heading>
-      <text>In any suit, action or proceedings involving the validity or enforcement of any bond of the Authority or the security thereof, any such bond reciting in substance that it has been issued by the Authority pursuant to this title shall be conclusively deemed to have been issued for such purpose and the project for which such bond was issued shall be conclusively deemed to have been planned, located and carried out in accordance with the purposes and provisions of this Title.</text>
+      <text>In any suit, action or proceedings involving the validity or enforcement of any bond of the Authority or the security thereof, any such bond reciting in substance that it has been issued by the Authority pursuant to <cite path="14">this title</cite> shall be conclusively deemed to have been issued for such purpose and the project for which such bond was issued shall be conclusively deemed to have been planned, located and carried out in accordance with the purposes and provisions of <cite path="14">this Title</cite>.</text>
     </section>
     <section>
       <num>14.0506</num>
       <heading>Administration of Bonds</heading>
-      <text>In connection with the issuance of bonds or incurring of obligations under leases and in order to secure the payment of such bonds or obligations, the Authority, subject to the limitations in this title, may:</text>
+      <text>In connection with the issuance of bonds or incurring of obligations under leases and in order to secure the payment of such bonds or obligations, the Authority, subject to the limitations in <cite path="14">this title</cite>, may:</text>
       <para>
         <num>1.</num>
         <text>Pledge all or any part of its gross or net rents, fees or revenues to which its right then exists or may thereafter come into existence.</text>
@@ -372,23 +374,22 @@
       </para>
       <para>
         <num>17.</num>
-        <text>Exercise all or any part or combination of the powers granted in this section.</text>
+        <text>Exercise all or any part or combination of the powers granted in <cite path="14|14.05|14.0506">this section</cite>.</text>
       </para>
       <para>
         <num>18.</num>
-        <text>Make covenants other than and in addition to the covenants expressly authorized in this section, of like or different character.</text>
+        <text>Make covenants other than and in addition to the covenants expressly authorized in <cite path="14|14.05|14.0506">this section</cite>, of like or different character.</text>
       </para>
       <para>
         <num>19.</num>
-        <text>Make any covenants and do any acts and things necessary or convenient or desirable in order to secure its bonds, or, in the absolute discretion of the Authority tending to make the bonds more marketable although the covenants, acts or things are not enumerated in this section.</text>
-        <text class="center">
-          <strong>CHAPTER 14.06</strong>
-        </text>
-        <text class="center">
-          <strong>Miscellaneous</strong>
-        </text>
+        <text>Make any covenants and do any acts and things necessary or convenient or desirable in order to secure its bonds, or, in the absolute discretion of the Authority tending to make the bonds more marketable although the covenants, acts or things are not enumerated in <cite path="14|14.05|14.0506">this section</cite>.</text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>14.06</num>
+    <heading>Miscellaneous</heading>
     <section>
       <num>14.0601</num>
       <heading>Reports</heading>
@@ -423,7 +424,7 @@
     <section>
       <num>14.0602</num>
       <heading>Conflict of Interests</heading>
-      <text>During his tenure and for one (1) year thereafter, no officer or employee of the Authority shall, without first obtaining a waiver from the United States Department of HUD (Housing and Urban Development), voluntarily acquire any interest, direct or indirect in any project or in any property included or planned to be included in any project, or in any contract or proposed contract relating to any project. If any such officer or employee involuntarily acquires any such interest, or voluntarily or involuntarily acquired any such interest prior to appointment or employment as an officer or employee, the officer or employee, in any such event, shall immediately disclose his interest in writing to the Authority and such disclosure shall be entered upon the minutes of the Authority and the officer or employee shall not participate in any action by the Authority relating to the property or contract in which he has any interest. Any violation of the foregoing provisions of this section shall constitute misconduct in the office. This section shall not be applicable to the acquisition of any interest in notes or bonds of the Authority issued in connection with any project, or to the execution of agreements by banking institutions for the deposit or handling of funds in connection with a project or to act as trustee under any trust indenture, or to utility services the rates for which are fixed or controlled by a governmental agency.</text>
+      <text>During his tenure and for one (1) year thereafter, no officer or employee of the Authority shall, without first obtaining a waiver from the United States Department of HUD (Housing and Urban Development), voluntarily acquire any interest, direct or indirect in any project or in any property included or planned to be included in any project, or in any contract or proposed contract relating to any project. If any such officer or employee involuntarily acquires any such interest, or voluntarily or involuntarily acquired any such interest prior to appointment or employment as an officer or employee, the officer or employee, in any such event, shall immediately disclose his interest in writing to the Authority and such disclosure shall be entered upon the minutes of the Authority and the officer or employee shall not participate in any action by the Authority relating to the property or contract in which he has any interest. Any violation of the foregoing provisions of <cite path="14|14.06|14.0602">this section</cite> shall constitute misconduct in the office. <cite path="14|14.06|14.0602">This section</cite> shall not be applicable to the acquisition of any interest in notes or bonds of the Authority issued in connection with any project, or to the execution of agreements by banking institutions for the deposit or handling of funds in connection with a project or to act as trustee under any trust indenture, or to utility services the rates for which are fixed or controlled by a governmental agency.</text>
     </section>
     <section>
       <num>14.0603</num>
@@ -433,7 +434,7 @@
     <section>
       <num>14.0604</num>
       <heading>Liens or Judgments</heading>
-      <text>All property including funds acquired or held by the Authority pursuant to this title shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the same nor shall any judgment against the Authority be a charge or lien upon such property; provided, however, that the provisions of this section shall not apply to or limit the right of obligee to pursue any remedies for the enforcement of any pledge or lien given by the Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provisions of this title or the right of the Authority to bring eviction actions.</text>
+      <text>All property including funds acquired or held by the Authority pursuant to <cite path="14">this title</cite> shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the same nor shall any judgment against the Authority be a charge or lien upon such property; provided, however, that the provisions of <cite path="14|14.06|14.0604">this section</cite> shall not apply to or limit the right of obligee to pursue any remedies for the enforcement of any pledge or lien given by the Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provisions of <cite path="14">this title</cite> or the right of the Authority to bring eviction actions.</text>
     </section>
     <section>
       <num>14.0605</num>
@@ -465,7 +466,7 @@
         <num>4.</num>
         <text>It will join in any disposition of project property or interest therein by the Authority and make assignments or other appropriate disposition of the underlying land as permitted by law, where such action is required in order to grant the maximum interest therein permitted by law.</text>
         <text>The Council hereby declares that the powers of tribal government shall be vigorously utilized to enforce eviction of a tenant or home buyer for non-payment or other contract violations and the tribal courts shall have jurisdiction to hear and determine an action for eviction of a tenant or home buyer. The Council also declares that the powers of the tribal government shall be vigorously utilized to enforce eviction of a tenant or homebuyer for non-payment or other contract violations.</text>
-        <text>If at any time title to, or possession of, any project is held by any public body or governmental agency authorized by law to engage in the development or administration of low-income housing, including the Federal Government, the provisions of this chapter shall inure to the benefit of and be enforced by such public body or governmental agency.</text>
+        <text>If at any time title to, or possession of, any project is held by any public body or governmental agency authorized by law to engage in the development or administration of low-income housing, including the Federal Government, the provisions of <cite path="14.07">this chapter</cite> shall inure to the benefit of and be enforced by such public body or governmental agency.</text>
       </para>
     </section>
     <section>

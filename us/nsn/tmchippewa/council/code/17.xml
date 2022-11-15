@@ -10,7 +10,7 @@
     <section>
       <num>17.0101</num>
       <heading>Definitions</heading>
-      <text>In this Title unless the context or subject matter otherwise requires:</text>
+      <text>In <cite path="17">this Title</cite> unless the context or subject matter otherwise requires:</text>
       <para>
         <num>1.</num>
         <text>"Alcoholic" shall mean any person who chronically and habitually uses alcoholic beverages to the extent that he has lost the power of se1f control with respect to the use of such beverages, or while chronically or habitually under the influence of alcoholic beverages, endangers public morals, health, safety, or welfare;</text>
@@ -30,14 +30,13 @@
       <para>
         <num>5.</num>
         <text>"Patients" shall mean persons who are under the supervision or care of the Board.</text>
-        <text class="center">
-          <strong>CHAPTER 17.02</strong>
-        </text>
-        <text class="center">
-          <strong>Organizational</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.02</num>
+    <heading>Organizational</heading>
     <section>
       <num>17.0201</num>
       <heading>Appointment of Board Members</heading>
@@ -95,23 +94,22 @@
       </para>
       <para>
         <num>4.</num>
-        <text>Notwithstanding any other provisions of this Title:</text>
+        <text>Notwithstanding any other provisions of <cite path="17">this Title</cite>:</text>
         <para>
           <num>a.</num>
-          <text>All income of the Turtle Mountain Counseling  and Rehabilitation Board for each taxable year (for Federal income tax purposes) shall be distributed at such a time and in such manner so as not to subject the Turtle Mountain Counseling and Rehabilitation Board to Federal tax under Section 4942 of the Internal Revenue Code of 1954, as amended; and</text>
+          <text>All income of the Turtle Mountain Counseling and Rehabilitation Board for each taxable year (for Federal income tax purposes) shall be distributed at such a time and in such manner so as not to subject the Turtle Mountain Counseling and Rehabilitation Board to Federal tax under Section 4942 of the Internal Revenue Code of 1954, as amended; and</text>
         </para>
         <para>
           <num>b.</num>
           <text>The Turtle Mountain Counseling and Rehabilitation Board created hereby shall not engage in any act of self-dealing (as defined in Section 4941 (d) of the Internal Revenue Code of 1954, as amended), retain any excess business holdings as defined in Section 4943(c) of the Internal Revenue Code of 1954, as amended, make any investments in such manner as to subject the Turtle Mountain Counseling and Rehabilitation Board to tax under Section 4944 of the Internal Revenue Code of 1954, as amended, or make any taxable expenditures as defined in Section 4945 (d) of the Internal Revenue Code of 1954, as amended.</text>
-          <text class="center">
-            <strong>CHAPTER 17.03</strong>
-          </text>
-          <text class="center">
-            <strong>Powers and Duties</strong>
-          </text>
         </para>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.03</num>
+    <heading>Powers and Duties</heading>
     <section>
       <num>17.0301</num>
       <heading>Duties of the Board</heading>
@@ -154,7 +152,7 @@
     <section>
       <num>17.0304</num>
       <heading>Board May Contract for Services of Other Agencies; Training of Personnel</heading>
-      <text>The Board may contract for such educational, research, casework, institutional and medical facilities, personnel and services of public or private agencies as may be necessary to carry out the provisions of this Chapter. It may accept for training under its direction such medical, technical and clinical personnel as may be desirable.</text>
+      <text>The Board may contract for such educational, research, casework, institutional and medical facilities, personnel and services of public or private agencies as may be necessary to carry out the provisions of <cite path="17.03">this Chapter</cite>. It may accept for training under its direction such medical, technical and clinical personnel as may be desirable.</text>
     </section>
     <section>
       <num>17.0305</num>
@@ -214,7 +212,7 @@
     <section>
       <num>17.0404</num>
       <heading>Reimbursement for Treatment</heading>
-      <text>The Authority, insofar as may be possible, shall seek to be reimbursed by the persons liable for the support of the patient for any or all items of expense incurred by the Authority in connection with the care, custody, treatment, and rehabilitation, and may make such financial arrangements concerning necessary expenses as it deems best. No patient shall be charged at a rate greater than actual cost of the care, treatment or rehabilitation furnished such patient. The Authority may accept funds, property, or service from any source, and all revenue received by the Authority from gifts, and grants in aid is hereby appropriated and shall be used in carrying out the provisions of this Title.</text>
+      <text>The Authority, insofar as may be possible, shall seek to be reimbursed by the persons liable for the support of the patient for any or all items of expense incurred by the Authority in connection with the care, custody, treatment, and rehabilitation, and may make such financial arrangements concerning necessary expenses as it deems best. No patient shall be charged at a rate greater than actual cost of the care, treatment or rehabilitation furnished such patient. The Authority may accept funds, property, or service from any source, and all revenue received by the Authority from gifts, and grants in aid is hereby appropriated and shall be used in carrying out the provisions of <cite path="17">this Title</cite>.</text>
     </section>
   </container>
   <container>
@@ -229,17 +227,17 @@
     <section>
       <num>17.0502</num>
       <heading>Deposit of Funds</heading>
-      <text>All moneys received by the Board from the sale of articles or services shall be deposited in such accounts as the Board shall establish, pursuant to section 17.0501, and shall be available to the Board for expenditure pursuant to the terms of this Title.</text>
+      <text>All moneys received by the Board from the sale of articles or services shall be deposited in such accounts as the Board shall establish, pursuant to <cite path="17|17.05|17.0501">section 17.0501</cite>, and shall be available to the Board for expenditure pursuant to the terms of <cite path="17">this Title</cite>.</text>
     </section>
     <section>
       <num>17.0503</num>
       <heading>Violations of Provisions of This Chapter (Indian)</heading>
-      <text>Any Indian violating any of the provisions of this Chapter shall be guilty of an offense and shall be punished by a fine of not more than one hundred dollars ($100), or by confinement for not more than thirty (30) days or by both such fine and confinement with costs.</text>
+      <text>Any Indian violating any of the provisions of <cite path="17.05">this Chapter</cite> shall be guilty of an offense and shall be punished by a fine of not more than one hundred dollars ($100), or by confinement for not more than thirty (30) days or by both such fine and confinement with costs.</text>
     </section>
     <section>
       <num>17.0504</num>
       <heading>Violations of Provisions of This Chapter (Non-Indian)</heading>
-      <text>Any non-Indian licensee violating any of the provisions of this Chapter shall be removed from the reservation pursuant to Article IX, Section 4, of the Constitution and By-Laws of the Turtle Mountain Band of Chippewa Indians.</text>
+      <text>Any non-Indian licensee violating any of the provisions of <cite path="17.05">this Chapter</cite> shall be removed from the reservation pursuant to Article IX, Section 4, of the Constitution and By-Laws of the Turtle Mountain Band of Chippewa Indians.</text>
     </section>
   </container>
 </container>

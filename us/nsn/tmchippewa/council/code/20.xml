@@ -98,12 +98,13 @@
       <para>
         <num>7.</num>
         <text>To carry out all the obligations, and to protect all the interests of the Turtle Mountain Band of Chippewa Indians in and to the provisions of all contracts and agreements hereafter executed by the Tribal Council of the said Tribe concerning the Recreational Development projects.</text>
-        <text class="center">CHAPTER 20.04</text>
-        <text class="center">
-          <strong>Dissolution</strong>
-        </text>
       </para>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>20.04</num>
+    <heading>Dissolution</heading>
     <section>
       <num>20.0401</num>
       <heading>Dissolution</heading>
