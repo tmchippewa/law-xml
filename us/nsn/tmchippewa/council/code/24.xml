@@ -8805,7 +8805,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>24.30</num>
-    <heading>Letters of Credit(Amended-Resolution No. Tmbc1150-08-20)</heading>
+    <heading>Letters of Credit</heading>
     <section>
       <num>24.3001</num>
       <heading>Short Title</heading>
@@ -11813,7 +11813,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>24.42</num>
-    <heading>Secured Transactions(Amended-Resolution No. Tmbc1150-08-20)</heading>
+    <heading>Secured Transactions</heading>
     <section>
       <num>24.4201</num>
       <heading>Short Title</heading>
@@ -18763,12 +18763,10 @@
     <section>
       <num>24.4502</num>
       <heading>[This Section Is Reserved.]</heading>
-      <text>
-        <strong>24.4503</strong>
-        <strong>
-          <u>What constitutes filing; Duration of filing; Effect of lapsed filing; Duties of filing officer; Filing fee; Centralized computer system.</u>
-        </strong>
-      </text>
+    </section>
+    <section>
+      <num>24.4503</num>
+      <heading>What Constitutes Filing; Duration of Filing; Effect of Lapsed Filing; Duties of Filing Officer; Filing Fee; Centralized Computer System</heading>
       <para>
         <num>1.</num>
         <text>Presentation for filing of a financing statement and tender of the filing fee or acceptance of the statement by the filing officer constitutes filing under this article.</text>
@@ -18846,7 +18844,10 @@
     <section>
       <num>24.4507</num>
       <heading>[This Section Is Reserved.]</heading>
-      <text>24.4508	<u>Financing statements covering consigned or leased goods.</u></text>
+    </section>
+    <section>
+      <num>24.4508</num>
+      <heading>Financing Statements Covering Consigned or Leased Goods</heading>
       <text>A consignor or lessor of goods may file a financing statement using the terms "consignor," "consignee," "lessor," "lessee" or the like instead of the terms specified in <cite path="24|24.42|24.4202">Section 24.4202</cite>. The provisions of this part shall apply as appropriate to such a financing statement but its filing shall not of itself be a factor in determining whether or not the consignment or lease is intended as security (<cite path="24|24.01|24.0110">Section 24.0110</cite>(37). However, if it is determined for other reasons that the consignment or lease is so intended, a security interest of the consignor or lessor which attaches to the consigned or leased goods is perfected by such filing.</text>
     </section>
   </container>
