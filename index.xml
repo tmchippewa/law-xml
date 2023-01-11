@@ -17,6 +17,7 @@
   <collection name="us/nsn/tmchippewa/council/resolutions">
     <heading>Council Resolutions</heading>
     <xi:include href="./us/nsn/tmchippewa/council/resolutions/2022/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/tmchippewa/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/tmchippewa/council/resolutions/2019/index.xml"/>
     <xi:include href="./us/nsn/tmchippewa/council/resolutions/2018/index.xml"/>
