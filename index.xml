@@ -41,4 +41,5 @@
     <heading>Turtle Mountain Band of Chippewa Indians Administrative Policies</heading>
     <xi:include href="./us/nsn/tmchippewa/council/policies/personnel_policy.xml"/>
   </collection>
+  <xi:include href="./us/nsn/tmchippewa/council/drafting-manual/index.xml"/>
 </library>
