@@ -5714,10 +5714,10 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>26.17</num>
+    <num>26.21</num>
     <heading>Forfeiture Code for Criminal Forfeitures.</heading>
     <section>
-      <num>26.1704.01</num>
+      <num>26.2104.01</num>
       <heading>Seizures and Forfeitures Related to Drugs</heading>
       <text>The following property is subject to forfeiture to the Turtle Mountain Tribal Court:</text>
       <para>
@@ -5726,15 +5726,15 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>All money, raw materials, products and equipment of any kind that is used or intended for use in manufacturing, preparing, cultivating, compounding, processing, production, delivering, importing any drug in violation of in <cite path="26|26.17|26.1704.01">this section</cite>;</text>
+        <text>All money, raw materials, products and equipment of any kind that is used or intended for use in manufacturing, preparing, cultivating, compounding, processing, production, delivering, importing any drug in violation of in <cite path="26|26.21|26.2104.01">this section</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>All above property used or intended for use as a container for any item which falls under subsections (a) and/or (b) of <cite path="26|26.17|26.1704.01">this Section</cite>;</text>
+        <text>All above property used or intended for use as a container for any item which falls under subsections (a) and/or (b) of <cite path="26|26.21|26.2104.01">this Section</cite>;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>All conveyances which are used or intended for use in this unlawfully transporting or in any manner facilitating the transportation of any item which falls under subsections (a) and/or (b) of <cite path="26|26.17|26.1704.01">this Section</cite>;</text>
+        <text>All conveyances which are used or intended for use in this unlawfully transporting or in any manner facilitating the transportation of any item which falls under subsections (a) and/or (b) of <cite path="26|26.21|26.2104.01">this Section</cite>;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -5742,7 +5742,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>All books, records and research products and materials, including formulas, microfilm, tapes and dates that are used or intended for use in violation of <cite path="26|26.17|26.1704.01">this section</cite>;</text>
+        <text>All books, records and research products and materials, including formulas, microfilm, tapes and dates that are used or intended for use in violation of <cite path="26|26.21|26.2104.01">this section</cite>;</text>
       </para>
       <para>
         <num>(7)</num>
@@ -5750,7 +5750,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>Everything of value furnished or intended to be furnished in exchange for a drug in violation of <cite path="26|26.17|26.1704.01">this section</cite>, all proceeds traceable to such an exchange, and all money, negotiable instruments and securities used or intended to be used to facilitate any violation of Title 26.</text>
+        <text>Everything of value furnished or intended to be furnished in exchange for a drug in violation of <cite path="26|26.21|26.2104.01">this section</cite>, all proceeds traceable to such an exchange, and all money, negotiable instruments and securities used or intended to be used to facilitate any violation of Title 26.</text>
       </para>
       <para>
         <num>(9)</num>
@@ -5758,7 +5758,7 @@
       </para>
     </section>
     <section>
-      <num>26.1704.02</num>
+      <num>26.2104.02</num>
       <heading>Statute of Limitations and Burden of Proof</heading>
       <para>
         <num>(1)</num>
@@ -5770,7 +5770,7 @@
       </para>
     </section>
     <section>
-      <num>26.1704.03</num>
+      <num>26.2104.03</num>
       <heading>Exceptions to Forfeiture</heading>
       <para>
         <num>(1)</num>
@@ -5782,11 +5782,11 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>A forfeiture of a conveyance encumbered by a bona fide security interest is subject to the interest of the secured party if he/she neither had knowledge of nor consented to any violation of <cite path="26|26.17|26.1704.03">this section</cite>.</text>
+        <text>A forfeiture of a conveyance encumbered by a bona fide security interest is subject to the interest of the secured party if he/she neither had knowledge of nor consented to any violation of <cite path="26|26.21|26.2104.03">this section</cite>.</text>
       </para>
     </section>
     <section>
-      <num>26.1704.04</num>
+      <num>26.2104.04</num>
       <heading>When Property May Be Seized</heading>
       <para>
         <num>(1)</num>
@@ -5818,7 +5818,7 @@
       </para>
     </section>
     <section>
-      <num>26.1704.05</num>
+      <num>26.2104.05</num>
       <heading>Forfeiture of Property Procedure</heading>
       <para>
         <num>(1)</num>
@@ -5850,7 +5850,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>If the individual who was served with process under subsection (a) of <cite path="26|26.17|26.1704.05">this section</cite> fails to appear at the hearing, the Court shall order the property forfeited to the Turtle Mountain Band of Chippewa Indians by default.</text>
+          <text>If the individual who was served with process under subsection (a) of <cite path="26|26.21|26.2104.05">this section</cite> fails to appear at the hearing, the Court shall order the property forfeited to the Turtle Mountain Band of Chippewa Indians by default.</text>
         </para>
       </para>
       <para>
@@ -5858,7 +5858,7 @@
         <text>Proof required or permitted at hearing to rebut the presumption of forfeiture.</text>
         <para>
           <num>(a)</num>
-          <text>At the hearing scheduled under subsection (b) of <cite path="26|26.17|26.1704.05">this Section</cite>, the Court may order a further evidentiary hearing at which:</text>
+          <text>At the hearing scheduled under subsection (b) of <cite path="26|26.21|26.2104.05">this Section</cite>, the Court may order a further evidentiary hearing at which:</text>
           <para>
             <num>(i)</num>
             <text>An owner of the property must prove that the conveyance was not used for the purpose charged.</text>
