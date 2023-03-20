@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>53</num>
   <heading>Civil Commitment Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>53.01</num>
     <heading>Purpose</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>53.01.010</num>
+      <num>53.0101</num>
       <heading>Purpose</heading>
       <text><cite path="53">This Title</cite> shall be liberally construed and applied to carry out its purpose. The purpose of <cite path="53">this Title</cite> is to:</text>
       <para>
-        <num>(a)</num>
+        <num>(1)</num>
         <text>Protect, enhance and exercise the inherent sovereignty of the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(b)</num>
+        <num>(2)</num>
         <text>Create and define the policies and procedures governing the civil commitment of those that are subject to the Band's jurisdiction.</text>
       </para>
       <para>
-        <num>(c)</num>
+        <num>(3)</num>
         <text>Provide prompt evaluation and treatment of persons with serious mental disorders or chemical dependency.</text>
       </para>
       <para>
-        <num>(d)</num>
+        <num>(4)</num>
         <text>Ensure that due process of law is accorded to any person coming under the provisions of <cite path="53.01">this chapter</cite>.</text>
       </para>
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>53.02</num>
     <heading>Jurisdiction</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>53.02.010</num>
+      <num>53.0201</num>
       <heading>Jurisdiction</heading>
       <para>
         <num>(a)</num>
@@ -67,11 +67,11 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>53.03</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>53.03.010</num>
+      <num>53.0301</num>
       <heading>Definitions</heading>
       <text>As used in <cite path="53.03">this chapter</cite>, unless the context otherwise requires:</text>
       <para>
@@ -92,7 +92,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>"Counseling and Rehabilitation Board" means the Band's Counseling and Rehabilitation board as defined by Title 17 of this Code.</text>
+        <text>"Counseling and Rehabilitation Board" means the Band's Counseling and Rehabilitation board as defined by <cite path="17">Title 17</cite> of this Code.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -205,27 +205,27 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>53.04</num>
     <heading>Voluntary Admission for Treatment; Standards for Involunatry Admission for Treatment; Due Process Requirements; Respondents Rights</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>53.04.010</num>
+      <num>53.0401</num>
       <heading>Voluntary Admission for Treatment</heading>
       <text>Voluntary admission for treatment shall be governed by <cite path="17.04">Chapter 17.04</cite> of the Counseling and Rehabilitation Code.</text>
     </section>
     <section>
-      <num>53.04.020</num>
+      <num>53.0402</num>
       <heading>Standards for Involuntary Admission for Treatment</heading>
       <text>An individual may be involuntarily admitted under <cite path="53">this Title</cite> to a Tribal treatment facility only if the Court determines that the individual meets at least one of the following standards:</text>
       <para>
         <num>(a)</num>
         <text>Danger to Self or Others. There exists either:</text>
         <para>
-          <num>(1)</num>
+          <num>(i)</num>
           <text>A substantial risk that physical harm will be inflicted by the</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(ii)</num>
           <text>evidenced by recent actions, threats, and attempts to inflict physical harm on another.</text>
         </para>
       </para>
@@ -233,21 +233,21 @@
         <num>(b)</num>
         <text>Gravely Disabled. A condition in which an individual, as a result of mental illness or chemical dependency, is in danger of inflicting serious physical harm upon the individual's own person, or the person of another because:</text>
         <para>
-          <num>(1)</num>
+          <num>(i)</num>
           <text>He/she is not providing for his/her essential needs, or the essential needs of his/her dependents, such as food, clothing, shelter, vital medical care, or safety;</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(ii)</num>
           <text>He/she is in medical need of, but is not receiving, appropriate inpatient treatment for mental illness or chemical dependency; and</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(iii)</num>
           <text>He/she is incapable of understanding or accepting such treatment due to impaired judgment from mental illness or chemical dependency.</text>
         </para>
       </para>
     </section>
     <section>
-      <num>53.04.030</num>
+      <num>53.0403</num>
       <heading>Due Process Requirements:</heading>
       <para>
         <num>(a)</num>
@@ -261,21 +261,21 @@
         <num>(c)</num>
         <text>All hearings required under <cite path="53">this title</cite> shall include for the Respondent the right to:</text>
         <para>
-          <num>(1)</num>
+          <num>(a)</num>
           <text>a closed hearing; and</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(b)</num>
           <text>request an open hearing, and</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(c)</num>
           <text>present and cross-examine witnesses.</text>
         </para>
       </para>
     </section>
     <section>
-      <num>53.04.040</num>
+      <num>53.0405</num>
       <heading>Respondent's Rights:</heading>
       <para>
         <num>(a)</num>
@@ -287,7 +287,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>All persons admitted or committed to a treatment center shall be notified in writing of their rights regarding the hospitalization and other treatment. The individual shall receive this notification at the time he or she is served with the Court order as described in <cite path="53|53.05|53.0502">Section 53.0502</cite>(d). This notification must include:</text>
+        <text>All persons admitted or committed to a treatment center shall be notified in writing of their rights regarding the hospitalization and other treatment. The individual shall receive this notification at the time he or she is served with the Court order as described in <cite path="53|53.05|53.0502|(d)">Section 53.0502(d)</cite>. This notification must include:</text>
         <para>
           <num>(1)</num>
           <text>The right to counsel at the Respondent's own expense;</text>
@@ -312,11 +312,11 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>53.05</num>
     <heading>Petition; Preliminary Court Proceedings; Examination of Respondent</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>53.05.010</num>
+      <num>53.0501</num>
       <heading>Petition</heading>
       <para>
         <num>(a)</num>
@@ -345,15 +345,15 @@
           <num>(6)</num>
           <text>The facts, in detail, that are the basis of the Petitioner's assertion, including, when available or appropriate:</text>
           <para>
-            <num>(A)</num>
+            <num>(a)</num>
             <text>Any statements by persons having knowledge of the Respondent's mental illness or the nature of the Respondent's mental illness or chemical dependency;</text>
           </para>
           <para>
-            <num>(B)</num>
+            <num>(b)</num>
             <text>Documentation in the form of medical reports, letters from persons with knowledge of the circumstances necessitating commitment, examiner's statements, affidavits, police reports and/or other reliable documents supporting the allegations of the petition; and</text>
           </para>
           <para>
-            <num>(C)</num>
+            <num>(c)</num>
             <text>A statement as to whether the Respondent or other person is at risk of death or great bodily harm due to Respondent's mental illness or chemical dependency necessitating immediate apprehension and detention;</text>
           </para>
         </para>
@@ -376,11 +376,11 @@
       </para>
     </section>
     <section>
-      <num>53.05.020</num>
+      <num>53.0502</num>
       <heading>Preliminary Court Proceedings</heading>
       <para>
         <num>(a)</num>
-        <text>Upon receiving the Petition, and, when applicable, the supporting investigatory report under <cite path="53|53.05|53.0501">Section 53.0501</cite>(c), the Tribal Court Judge shall examine the petition to determine whether it complies with the requirements of <cite path="53|53.05|53.0501">Section 53.0501</cite>(a) and whether it establishes probable cause to believe that Respondent is a person requiring treatment. Probable cause shall exist if, based on the Petition and, if applicable, the supporting investigatory report, the Court determines the Respondent meets the standards described in <cite path="53.04">Chapter 53.04</cite>.</text>
+        <text>Upon receiving the Petition, and, when applicable, the supporting investigatory report under <cite path="53|53.05|53.0501|(c)">Section 53.0501(c)</cite>, the Tribal Court Judge shall examine the petition to determine whether it complies with the requirements of <cite path="53|53.05|53.0501|(a)">Section 53.0501(a)</cite> and whether it establishes probable cause to believe that Respondent is a person requiring treatment. Probable cause shall exist if, based on the Petition and, if applicable, the supporting investigatory report, the Court determines the Respondent meets the standards described in <cite path="53.04">Chapter 53.04</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -400,7 +400,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>If the court issues an emergency order for apprehension and detention of the Respondent under <cite path="53|53.05|53.0502">Section 53.0502</cite>(c)(1), a law enforcement officer, or other designated tribal official, shall personally serve the Respondent with:</text>
+        <text>If the court issues an emergency order for apprehension and detention of the Respondent under subsection (c)(1), a law enforcement officer, or other designated tribal official, shall personally serve the Respondent with:</text>
         <para>
           <num>(1)</num>
           <text>a copy of the petition and supporting documentation;</text>
@@ -423,7 +423,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>a copy of the notification of Respondent's rights as described in <cite path="53|53.04|53.0405">Section 53.0405</cite>(c).</text>
+          <text>a copy of the notification of Respondent's rights as described in <cite path="53|53.04|53.0405|(c)">Section 53.0405(c)</cite>.</text>
         </para>
         <text>The law enforcement officer shall orally inform the Respondent that they are being taken into custody as a result of the petition. The Court shall also cause for a copy to be served upon the Respondent's counsel, any guardian, the Respondent's closest relative, and any person designated by the Respondent to receive notice.</text>
       </para>
@@ -456,91 +456,91 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>a copy of the notification of Respondent's rights as described in <cite path="53|53.04|53.0405">Section 53.0405</cite>(c).</text>
+          <text>a copy of the notification of Respondent's rights as described in <cite path="53|53.04|53.0405|(c)">Section 53.0405(c)</cite>.</text>
         </para>
         <text>The Court shall also cause for a copy to be served upon the Respondent's counsel, any guardian, the Respondent's closest relative, and any person designated by the Respondent to receive notice.</text>
       </para>
     </section>
     <section>
-      <num>53.05.030</num>
+      <num>53.0503</num>
       <heading>Examination of Respondent</heading>
-      <text>a)  All Tribal Court Orders issued pursuant to <cite path="53|53.04|53.0402">Section 53.0402</cite> shall order the Respondent receive a comprehensive mental examination conducted by an appropriate Examiner, as defined by <cite path="53|53.06|53.0602">Section 53.0602</cite>(h), to be completed prior to the preliminary hearing.</text>
+      <text>a)	All Tribal Court Orders issued pursuant to <cite path="53|53.04|53.0402">Section 53.0402</cite> shall order the Respondent receive a comprehensive mental examination conducted by an appropriate Examiner, as defined by <cite path="53|53.06|53.0602|(h)">Section 53.0602(h)</cite>, to be completed prior to the preliminary hearing.</text>
       <para>
-        <num>(a)</num>
+        <num>(i)</num>
         <text>If the Respondent has been apprehended and detained, the Respondent shall be examined within forty-eight (48) hours of detainment.</text>
       </para>
       <para>
-        <num>(b)</num>
+        <num>(ii)</num>
         <text>If the Respondent has not been apprehended and detained, the Tribal Court shall enter and personally serve upon the Respondent and order and summons to appear for psychological examination. The order and summons shall clearly state the date, time and location of the examination, and shall contain a statement informing the Respondent that if he/she fails to appear for the examination he or she may be involuntarily detained. The date and time of the psychological examination shall be at the earliest time practicable. If the Respondent fails to appear for the examination, the Tribal Court may enter an order for immediate apprehension and detention.</text>
       </para>
       <para>
-        <num>(c)</num>
+        <num>(b)</num>
         <text>Any expert examiner conducting an examination under <cite path="53|53.05|53.0503">this section</cite> may consult with or request participation in the examination by another mental health professional and may include with the written examination report any findings or observations by that mental health professional.</text>
         <text>This examination report, and that of the independent examiner, if one has been requested, must be filed with the court. The report must contain:</text>
         <para>
-          <num>(1)</num>
+          <num>(i)</num>
           <text>Evaluations of the Respondent's physical condition and mental status;</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(ii)</num>
           <text>A recommendation as to whether commitment is necessary, with a clear explanation of how that conclusion was derived from the evaluation; and</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(iii)</num>
           <text>Recommendations for treatment, including, if any, those that may serve as an alternative to involuntary hospitalization.</text>
         </para>
       </para>
       <para>
-        <num>(d)</num>
+        <num>(c)</num>
         <text>If the expert examiner concludes the Respondent is not a person requiring treatment, the court may terminate the proceedings and dismiss the petition without taking any action.</text>
       </para>
       <para>
-        <num>(e)</num>
+        <num>(d)</num>
         <text>If the expert examiner concludes the Respondent is a person requiring treatment, or makes no conclusion whether the Respondent is a person requiring treatment, the court shall set a date for the Preliminary Hearing and shall personally serve the Respondent with:</text>
         <para>
-          <num>(1)</num>
+          <num>(i)</num>
           <text>A written notice of the date, time and place of the Preliminary Hearing</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(ii)</num>
           <text>A statement that clearly and conspicuously states the Respondent's rights to:</text>
           <para>
-            <num>(A)</num>
+            <num>(a)</num>
             <text>be present at the Preliminary Hearing;</text>
           </para>
           <para>
-            <num>(B)</num>
+            <num>(b)</num>
             <text>to have counsel present at his or her own expense; testify, present documentary evidence, call witnesses and ask questions of all witnesses;</text>
           </para>
           <para>
-            <num>(C)</num>
+            <num>(c)</num>
             <text>obtain an additional examination</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(f)</num>
-        <text>If the Respondent is detained under <cite path="53|53.05|53.0502">Section 53.0502</cite>(d), the Preliminary Hearing must take place within forty-eight (48) hours of the submission of the expert report, exclusive of weekends and holidays.</text>
+        <num>(e)</num>
+        <text>If the Respondent is detained under <cite path="53|53.05|53.0502|(d)">Section 53.0502(d)</cite>, the Preliminary Hearing must take place within forty-eight (48) hours of the submission of the expert report, exclusive of weekends and holidays.</text>
       </para>
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>53.06</num>
     <heading>Preliminary Hearing; Medication Pending Treatment Order; Treatment Hearing; Mediction Pending Treatment Order; Involutary Medication; Status Review Hearing</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>53.06.010</num>
+      <num>53.0601</num>
       <heading>Preliminary Hearing</heading>
       <para>
         <num>(a)</num>
         <text>Upon receiving a <cite path="53|53.05|53.0501">Section 53.0501</cite> Petition, the Tribal Court shall schedule a Preliminary Hearing. The Preliminary Hearing shall address the allegations of the Petition and Examiner's report and shall determine the Respondent's need for detainment, additional psychological examination, or involuntary psychological or other treatment services. A Preliminary Hearing must be scheduled either:</text>
         <para>
           <num>(1)</num>
-          <text>Within four days of being detained or forty-eight (48) hours, excluding weekends and holidays, of receiving the Expert report specified in <cite path="53|53.05|53.0503">Section 53.0503</cite>(e), whichever is sooner, if the Respondent is detained under <cite path="53|53.05|53.0502">Section 53.0502</cite>(d); or</text>
+          <text>Within four days of being detained or forty-eight (48) hours, excluding weekends and holidays, of receiving the Expert report specified in <cite path="53|53.05|53.0503|(e)">Section 53.0503(e)</cite>, whichever is sooner, if the Respondent is detained under <cite path="53|53.05|53.0502|(d)">Section 53.0502(d)</cite>; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Within seven (7) days of receiving the expert report specified in <cite path="53|53.05|53.0503">Section 53.0503</cite>(e), excluding weekends and holidays, if the Respondent is not detained.</text>
+          <text>Within seven (7) days of receiving the expert report specified in <cite path="53|53.05|53.0503|(e)">Section 53.0503(e)</cite>, excluding weekends and holidays, if the Respondent is not detained.</text>
         </para>
       </para>
       <para>
@@ -586,7 +586,7 @@
       </para>
     </section>
     <section>
-      <num>53.06.020</num>
+      <num>53.0602</num>
       <heading>Treatment Hearing</heading>
       <para>
         <num>(a)</num>
@@ -694,11 +694,11 @@
       </para>
     </section>
     <section>
-      <num>53.06.030</num>
+      <num>53.0603</num>
       <heading>Medication Pending Treatment Order</heading>
       <para>
         <num>(a)</num>
-        <text>Respondent has the right to refuse medication and other forms of treatment before the Treatment Hearing. However, a physician, a physician assistant, or an advanced practice registered nurse may prescribe medication or a less restrictive alternative if it is necessary to prevent bodily harm to the Respondent or others or to prevent imminent deterioration of the Respondent's physical or mental condition. The patient has the right to be free of the effects of medication at the Preliminary Treatment, or Status Review Hearing by discontinuance of medication no later than twenty-four hours prior, except as provided in <cite path="53|53.06|53.0604">Section 53.0604</cite>(b) below.</text>
+        <text>Respondent has the right to refuse medication and other forms of treatment before the Treatment Hearing. However, a physician, a physician assistant, or an advanced practice registered nurse may prescribe medication or a less restrictive alternative if it is necessary to prevent bodily harm to the Respondent or others or to prevent imminent deterioration of the Respondent's physical or mental condition. The patient has the right to be free of the effects of medication at the Preliminary Treatment, or Status Review Hearing by discontinuance of medication no later than twenty-four hours prior, except as provided in <cite path="53|53.06|53.0604|(b)">Section 53.0604(b)</cite> below.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -706,7 +706,7 @@
       </para>
     </section>
     <section>
-      <num>53.06.040</num>
+      <num>53.0604</num>
       <heading>Involuntary Medication</heading>
       <para>
         <num>(a)</num>
@@ -775,7 +775,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>If the factors certified under subsection b) have been demonstrated by clear and convincing evidence, the court may include a provision in its Treatment Order, or separate Order after notice and hearing, authorizing the treating physician, physician assistant, psychiatrist, or advanced practice registered nurse to involuntarily treat the patient with prescribed medication on such terms and conditions as are deemed appropriate by the Respondent's individual circumstances.</text>
+        <text>If the factors certified under subsection (b) have been demonstrated by clear and convincing evidence, the court may include a provision in its Treatment Order, or separate Order after notice and hearing, authorizing the treating physician, physician assistant, psychiatrist, or advanced practice registered nurse to involuntarily treat the patient with prescribed medication on such terms and conditions as are deemed appropriate by the Respondent's individual circumstances.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -783,7 +783,7 @@
       </para>
     </section>
     <section>
-      <num>53.06.050</num>
+      <num>53.0605</num>
       <heading>Status Review Hearings</heading>
       <para>
         <num>(a)</num>
@@ -840,11 +840,11 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>53.07</num>
     <heading>Records and Proceedings; Appeal Procedure</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>53.07.010</num>
+      <num>53.0701</num>
       <heading>Records and Proceedings</heading>
       <para>
         <num>(a)</num>
@@ -875,12 +875,12 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>to persons authorized by an order of court, after notice and opportunity for hearing to the person to whom the record of information pertains and the custodian of the records of information pursuant to Title 2 of the Tribal Code, Judicial Procedure, Civil.</text>
+          <text>to persons authorized by an order of court, after notice and opportunity for hearing to the person to whom the record of information pertains and the custodian of the records of information pursuant to <cite path="2">Title 2</cite> of the Tribal Code, Judicial Procedure, Civil.</text>
         </para>
       </para>
     </section>
     <section>
-      <num>53.07.020</num>
+      <num>53.0702</num>
       <heading>Appeal Procedure</heading>
       <text>Appellate review of any order of short‑term evaluation and treatment or long‑term commitment may be had by appeal to the Tribal Appellate Court in the same manner as other civil cases, except that the appeal may be taken at any time within ninety (90) days of the actual service of the commitment order, or within ninety (90) days after discharge, whichever is later.</text>
     </section>

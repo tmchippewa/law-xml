@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>56</num>
   <heading>Medical Marijuana Control Act</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.01</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.01.010</num>
+      <num>56.0101</num>
       <heading>Short Title</heading>
       <text><cite path="56">This Title</cite> may be cited as the Medical Marijuana Control Act.</text>
     </section>
     <section>
-      <num>56.01.020</num>
+      <num>56.0102</num>
       <heading>Findings and Purpose</heading>
       <text>The Turtle Mountain Band of Chippewa ("Tribe") hereby finds and declares that:</text>
       <para>
@@ -42,7 +42,7 @@
       </para>
     </section>
     <section>
-      <num>56.01.030</num>
+      <num>56.0103</num>
       <heading>Control of Marijuana</heading>
       <para>
         <num>(a)</num>
@@ -62,12 +62,12 @@
       </para>
     </section>
     <section>
-      <num>56.01.040</num>
+      <num>56.0104</num>
       <heading>Sovereign Immunity</heading>
       <text>Nothing in <cite path="56">this Title</cite> shall be construed to limit the jurisdiction of the Tribe, the Court or law enforcement personnel and nothing herein shall limit or constitute a waiver of the sovereign immunity of the Tribe or its officers, instrumentalities, employees, elected officials, and agents or authorize any form a prospective waiver of such sovereign immunity.</text>
     </section>
     <section>
-      <num>56.01.050</num>
+      <num>56.0105</num>
       <heading>Definitions</heading>
       <text>As used in <cite path="56">this Title</cite>, the following words shall have the following meanings unless the context clearly requires otherwise:</text>
       <para>
@@ -173,11 +173,11 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.02</num>
     <heading>Prohibited Acts and Affirmative Defenses</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.02.010</num>
+      <num>56.0201</num>
       <heading>Exemption from Prosecution for Certain Acts</heading>
       <para>
         <num>(a)</num>
@@ -205,7 +205,7 @@
       </para>
     </section>
     <section>
-      <num>56.02.020</num>
+      <num>56.0202</num>
       <heading>No Exemption from Prosecution for Certain Acts</heading>
       <para>
         <num>(a)</num>
@@ -225,7 +225,7 @@
       </para>
     </section>
     <section>
-      <num>56.02.030</num>
+      <num>56.0203</num>
       <heading>Minors</heading>
       <para>
         <num>(a)</num>
@@ -241,17 +241,17 @@
       </para>
     </section>
     <section>
-      <num>56.02.040</num>
+      <num>56.0204</num>
       <heading>Deleterious Outcomes</heading>
       <text>The Tribe, including its officers, employees, agents, representatives, successors, and assigns, shall not be held responsible for any deleterious outcomes from the use of Marijuana by any person.</text>
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.03</num>
     <heading>Licensing</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.03.010</num>
+      <num>56.0301</num>
       <heading>Marijuana Businesses; Operating Fee</heading>
       <para>
         <num>(a)</num>
@@ -279,7 +279,7 @@
       </para>
     </section>
     <section>
-      <num>56.03.020</num>
+      <num>56.0302</num>
       <heading>Licensure Requirement</heading>
       <para>
         <num>(a)</num>
@@ -340,7 +340,7 @@
       <text>CAUTION: Federal and tribal laws on the cultivation of Marijuana and possession of Marijuana and Marijuana products may differ. In the absence of a federal license, federal law prohibits the cultivation and possession of Marijuana and Marijuana products even pursuant to a tribal license. If you are in violation of federal law, you may be prosecuted in federal court, imprisoned, required to pay a fine and restitution and your real and personal property deemed related to the cultivation or violation may be forfeited. A tribal license is not a defense to a federal prosecution and forfeiture.</text>
     </section>
     <section>
-      <num>56.03.030</num>
+      <num>56.0303</num>
       <heading>Term, Renewals and Fees</heading>
       <para>
         <num>(a)</num>
@@ -360,12 +360,12 @@
       </para>
     </section>
     <section>
-      <num>56.03.040</num>
+      <num>56.0304</num>
       <heading>Eligibility Determination</heading>
       <text>The Commission shall review an applicant's prior activities, criminal record, if any, and reputation, habits and associations to make a finding concerning the eligibility for employment in a cultivation facility, distribution facility or processing facility.</text>
     </section>
     <section>
-      <num>56.03.050</num>
+      <num>56.0305</num>
       <heading>Grounds for Denial of Marijuana Employee License</heading>
       <text>The grounds for denial of a Marijuana Employee License shall be one or more of the following:</text>
       <para>
@@ -394,7 +394,7 @@
       </para>
     </section>
     <section>
-      <num>56.03.060</num>
+      <num>56.0306</num>
       <heading>Reconsideration of Denial</heading>
       <para>
         <num>(a)</num>
@@ -406,11 +406,11 @@
       </para>
     </section>
     <section>
-      <num>56.03.070</num>
+      <num>56.0307</num>
       <heading>License Suspension or Revocation</heading>
       <para>
         <num>(a)</num>
-        <text>If, after the issuance of a Marijuana Employee License, the Commission receives credible and reliable information indicating that an employee is not or is no longer eligible for employment under subsection 29-3-40 above, the Commission shall suspend such license and shall notify in writing the licensee of the suspension and pending revocation.</text>
+        <text>If, after the issuance of a Marijuana Employee License, the Commission receives credible and reliable information indicating that an employee is not or is no longer eligible for employment under <cite path="56|56.03|56.0304">section 56.0304</cite> above, the Commission shall suspend such license and shall notify in writing the licensee of the suspension and pending revocation.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -422,7 +422,7 @@
       </para>
     </section>
     <section>
-      <num>56.03.080</num>
+      <num>56.0308</num>
       <heading>Reinstatement</heading>
       <para>
         <num>(a)</num>
@@ -455,11 +455,11 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.04</num>
     <heading>Cultivating Marijuana</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.04.010</num>
+      <num>56.0401</num>
       <heading>Cultivation Facility Operating Procedures</heading>
       <para>
         <num>(a)</num>
@@ -511,17 +511,17 @@
       </para>
     </section>
     <section>
-      <num>56.04.020</num>
+      <num>56.0402</num>
       <heading>On-Site Consumption</heading>
       <text>The use or consumption of Marijuana shall be prohibited at each cultivation facility.</text>
     </section>
     <section>
-      <num>56.04.030</num>
+      <num>56.0403</num>
       <heading>Quality Assurance; Adulteration Prohibited</heading>
       <text>Within twelve months of the establishment of this ordinance, all Marijuana cultivated must be tested for safety and quality assurance. A cultivation facility may not treat or otherwise adulterate Marijuana with any chemical or other compound whatsoever to alter its color, appearance, weight, or smell.</text>
     </section>
     <section>
-      <num>56.04.040</num>
+      <num>56.0404</num>
       <heading>Research and Development</heading>
       <para>
         <num>(a)</num>
@@ -537,7 +537,7 @@
       </para>
     </section>
     <section>
-      <num>56.04.050</num>
+      <num>56.0405</num>
       <heading>Precautions and Specific Requirements</heading>
       <para>
         <num>(a)</num>
@@ -626,18 +626,18 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.05</num>
     <heading>Processing Marijuana</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.05.010</num>
+      <num>56.0501</num>
       <heading>Processing Facility Operating Procedures</heading>
       <para>
         <num>(a)</num>
         <text>Each processing facility shall establish written operating procedures for the processing of Marijuana. The operating procedures must include the minimum following information:</text>
         <para>
           <num>(1)</num>
-          <text>All applicable provisions contained in Section 29-4-10.</text>
+          <text>All applicable provisions contained in <cite path="56|56.04|56.0401">Section 56.0401</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -658,7 +658,7 @@
       </para>
     </section>
     <section>
-      <num>56.05.020</num>
+      <num>56.0502</num>
       <heading>Food Safety Course</heading>
       <para>
         <num>(a)</num>
@@ -694,12 +694,12 @@
       </para>
     </section>
     <section>
-      <num>56.05.030</num>
+      <num>56.0503</num>
       <heading>Quality Assurance</heading>
       <text>Within twelve months of the establishment of this ordinance, Marijuana processed and each Marijuana product must be tested for safety and quality assurance, including but limited to, potency testing, residual solvents testing, microbial testing, aflatoxin testing, pesticide testing, and heavy metal testing.</text>
     </section>
     <section>
-      <num>56.05.040</num>
+      <num>56.0504</num>
       <heading>Precautions and Specific Requirements</heading>
       <para>
         <num>(a)</num>
@@ -791,7 +791,7 @@
       </para>
     </section>
     <section>
-      <num>56.05.050</num>
+      <num>56.0505</num>
       <heading>Marijuana Concentrates</heading>
       <para>
         <num>(a)</num>
@@ -900,18 +900,18 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.06</num>
     <heading>Distributing Marijuana</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.06.010</num>
+      <num>56.0601</num>
       <heading>Distribution Facility Operating Procedures</heading>
       <para>
         <num>(a)</num>
         <text>Each distribution facility shall establish written operating procedures for the distribution of Marijuana. The operating procedures must include the minimum following information:</text>
         <para>
           <num>(1)</num>
-          <text>All applicable provisions contained in Sections 29-4-10 and 29-5-10.</text>
+          <text>All applicable provisions contained in <cite path="56|56.04|56.0401">Section 56.0401</cite> and <cite path="56|56.05|56.0501">section 56.0501</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -936,7 +936,7 @@
       </para>
     </section>
     <section>
-      <num>56.06.020</num>
+      <num>56.0602</num>
       <heading>Access</heading>
       <para>
         <num>(a)</num>
@@ -956,7 +956,7 @@
       </para>
     </section>
     <section>
-      <num>56.06.030</num>
+      <num>56.0603</num>
       <heading>Duties of Distribution Facility</heading>
       <para>
         <num>(a)</num>
@@ -980,7 +980,7 @@
       </para>
     </section>
     <section>
-      <num>56.06.040</num>
+      <num>56.0604</num>
       <heading>Precautions and Specific Requirements</heading>
       <para>
         <num>(a)</num>
@@ -1024,7 +1024,7 @@
       </para>
     </section>
     <section>
-      <num>56.06.050</num>
+      <num>56.0605</num>
       <heading>Packaging</heading>
       <para>
         <num>(a)</num>
@@ -1073,7 +1073,7 @@
       </para>
     </section>
     <section>
-      <num>56.06.060</num>
+      <num>56.0606</num>
       <heading>Electronic Verification System</heading>
       <para>
         <num>(a)</num>
@@ -1118,11 +1118,11 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.07</num>
     <heading>Transportation of Marijuana</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.07.010</num>
+      <num>56.0701</num>
       <heading>Transportation</heading>
       <para>
         <num>(a)</num>
@@ -1134,7 +1134,7 @@
       </para>
     </section>
     <section>
-      <num>56.07.020</num>
+      <num>56.0702</num>
       <heading>Shipping Containers</heading>
       <para>
         <num>(a)</num>
@@ -1146,7 +1146,7 @@
       </para>
     </section>
     <section>
-      <num>56.07.030</num>
+      <num>56.0703</num>
       <heading>Transportation Security Program</heading>
       <para>
         <num>(a)</num>
@@ -1174,17 +1174,17 @@
       </para>
     </section>
     <section>
-      <num>56.07.040</num>
+      <num>56.0704</num>
       <heading>Transportation Outside the Reservation</heading>
       <text>Delivery or transportation of Marijuana or Marijuana products beyond the exterior boundaries of the reservation is prohibited.</text>
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.08</num>
     <heading>Security, Site Management and Inventory Control</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.08.010</num>
+      <num>56.0801</num>
       <heading>Security and Site Management</heading>
       <para>
         <num>(a)</num>
@@ -1216,12 +1216,12 @@
       </para>
     </section>
     <section>
-      <num>56.08.020</num>
+      <num>56.0802</num>
       <heading>Disturbances of the Peace</heading>
       <text>Every Marijuana Business shall take all reasonable steps to discourage and correct disturbances of peace, open public consumption of Marijuana or alcohol, excessive pedestrian or vehicular traffic, illegal drug activity, harassment of passersby, excessive littering, excessive loitering, illegal parking, excessive loud noises, especially late at night or early in the morning hours, lewd conduct or police detentions and arrests.</text>
     </section>
     <section>
-      <num>56.08.030</num>
+      <num>56.0803</num>
       <heading>Inventory Control System</heading>
       <para>
         <num>(a)</num>
@@ -1246,7 +1246,7 @@
       </para>
     </section>
     <section>
-      <num>56.08.040</num>
+      <num>56.0804</num>
       <heading>Audits</heading>
       <para>
         <num>(a)</num>
@@ -1258,17 +1258,17 @@
       </para>
     </section>
     <section>
-      <num>56.08.050</num>
+      <num>56.0805</num>
       <heading>Training</heading>
       <text>All employees shall receive appropriate training for their intended duties to ensure understanding of rules and procedures regarding Marijuana in compliance with <cite path="56">this Title</cite>.</text>
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.09</num>
     <heading>Marijuana Control Commission</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.09.010</num>
+      <num>56.0901</num>
       <heading>Commission Establishment; Duration; Attributes</heading>
       <para>
         <num>(a)</num>
@@ -1328,7 +1328,7 @@
       </para>
     </section>
     <section>
-      <num>56.09.020</num>
+      <num>56.0902</num>
       <heading>Sovereign Immunity</heading>
       <para>
         <num>(a)</num>
@@ -1348,7 +1348,7 @@
       </para>
     </section>
     <section>
-      <num>56.09.030</num>
+      <num>56.0903</num>
       <heading>Specific Powers of the Commission</heading>
       <text>The Commission shall have the power and responsibility to:</text>
       <para>
@@ -1389,7 +1389,7 @@
       </para>
     </section>
     <section>
-      <num>56.09.040</num>
+      <num>56.0904</num>
       <heading>Duties of Commission</heading>
       <text>The Commission:</text>
       <para>
@@ -1414,7 +1414,7 @@
       </para>
     </section>
     <section>
-      <num>56.09.050</num>
+      <num>56.0905</num>
       <heading>Limitation of Commission Powers</heading>
       <para>
         <num>(a)</num>
@@ -1426,32 +1426,32 @@
       </para>
     </section>
     <section>
-      <num>56.09.060</num>
+      <num>56.0906</num>
       <heading>Compensation of the Commission</heading>
       <text>The members of the Commission shall each be paid an equal amount out of the Commission's operating budget at the rate set by the Council, except the Chairman may be paid reasonable supplemental amount to account for time attributable to administrative duties. If no action is taken by the Council, the compensation for Commission members shall remain the same as the previous year.</text>
     </section>
     <section>
-      <num>56.09.070</num>
+      <num>56.0907</num>
       <heading>Quarterly Reports</heading>
       <text>The Commission shall provide a quarterly report to the Council summarizing the Commission's official actions, activities, investigative reports, and reports received from any Marijuana Business as it deems necessary to keep the Council fully informed as to the status of the Commission's activities.</text>
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.10</num>
     <heading>Marijuana and Hemp Research and Development</heading>
-    <prefix>Chapter</prefix>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.11</num>
     <heading>Miscellaneous Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
-      <num>56.11.010</num>
+      <num>56.1101</num>
       <heading>Severability</heading>
       <text>The provisions of <cite path="56">this Title</cite> are declared to be separate and severable. If the Tribal Court shall adjudge to be invalid or unconstitutional any clause, sentence, paragraph, section, article or part of <cite path="56">this Title</cite>, such judgment or decree shall not affect, impair, invalidate or nullify the remainder of <cite path="56">this Title</cite>, but the effect thereof shall be confined to the clause, sentence, paragraph, section, article or chapter of <cite path="56">this Title</cite> as adjudged to be invalid or unconstitutional.</text>
     </section>
     <section>
-      <num>56.11.020</num>
+      <num>56.1102</num>
       <heading>Interpretation and Applicability</heading>
       <para>
         <num>(a)</num>
@@ -1467,17 +1467,17 @@
       </para>
     </section>
     <section>
-      <num>56.11.030</num>
+      <num>56.1103</num>
       <heading>Renumbering and Re-Designation</heading>
       <text>Authority is given to the Records Office of the Tribe to renumber, re-designate, or to cite the provisions of <cite path="56">this Title</cite> as necessary for uniformity and accessibility.</text>
     </section>
     <section>
-      <num>56.11.040</num>
+      <num>56.1104</num>
       <heading>Effective Date</heading>
       <text><cite path="56">This Title</cite> shall be in full force and effect immediately according to its terms upon full passage.</text>
     </section>
     <section>
-      <num>56.11.050</num>
+      <num>56.1105</num>
       <heading>Violations</heading>
       <text>Any violation of <cite path="56">this Title</cite> is subject to administrative, civil, or criminal penalties, in addition to being subject to other remedies provided by law, including but not limited to injunctive relief and revocation of the Marijuana Employee License.</text>
     </section>
