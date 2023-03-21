@@ -1045,13 +1045,11 @@
       <para>
         <num>(5)</num>
         <text>Certain Military Offenses. Any military offense specified by the Secretary of Defense under section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. §951 note) that is similar to those offenses outlined in Section 3.01(A),(B), or (C) shall be considered a "Tier I" offense.</text>
-        <text>
-          <strong>42.0302</strong>
-          <strong>
-            <u>Tier II offenses.</u>
-          </strong>
-        </text>
       </para>
+    </section>
+    <section>
+      <num>42.0302</num>
+      <heading>Tier II Offenses</heading>
       <para>
         <num>(1)</num>
         <text>Tribal Offenses Classification.  "Tier 2" offenses include offenses for which a person has been convicted by any jurisdiction, local government, or qualifying foreign country pursuant to Section 2.01, and as outlined in Section 3.01 (A), (B), (C), (D) or E. Tribal Offenses, fall within these listed requirements, shall be considered "Tier 2" offenses.</text>
@@ -1066,22 +1064,22 @@
         <para>
           <num>(b)</num>
           <text>Convictions of that involve:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>Non-parent kidnapping of a minor,</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Any sexual act with another (as defined on page 9),</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Sexual contact with a minor under the age of 13.</text>
+          <para>
+            <num>(1)</num>
+            <text>Non-parent kidnapping of a minor,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any sexual act with another (as defined on page 9),</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Sexual contact with a minor under the age of 13.</text>
+          </para>
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(3)</num>
         <text>Offenses Involving Minors.  A "Tier II" offense includes any sex offense against a minor for which a person has been convicted, or an attempt or conspiracy to commit such an offense that involves:</text>
         <para>
           <num>(a)</num>
@@ -1109,7 +1107,7 @@
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(4)</num>
         <text>Certain Federal Offenses. Conviction for any of the following federal offenses or an attempt or conspiracy to commit such an offense shall be considered a conviction for a "Tier II" offense:</text>
         <para>
           <num>(a)</num>
@@ -1167,15 +1165,13 @@
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(5)</num>
         <text>Certain Military Offenses.  Any military offense specified by the Secretary of Defense under section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. §951 note) that is similar to those offenses outlined in Section 3.02(A),(B), or (C) shall be considered a "Tier II" offense.</text>
-        <text>
-          <strong>42.0303</strong>
-          <strong>
-            <u>Tier III offenses.</u>
-          </strong>
-        </text>
       </para>
+    </section>
+    <section>
+      <num>42.0303</num>
+      <heading>Tier III offenses.</heading>
       <para>
         <num>(1)</num>
         <text>Tribal Offenses Classification.  "Tier 3" offenses include offenses for which a person has been convicted by any jurisdiction, local government, or qualifying foreign country pursuant to Section 2.01, and as outlined in Section 3.01 (A), (B), (C), (D) or E. Tribal Offenses, fall within these listed requirements, shall be considered "Tier 3" offenses.</text>
@@ -1597,7 +1593,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Clean Record.  For purposes of <cite path="4.20">Chapter 4.20</cite>(B) a person has a clean record if:</text>
+        <text>Clean Record.  For purposes of <cite path="42|42.04|42.0423|(2)">Section 42.0423(2)</cite> a person has a clean record if:</text>
         <para>
           <num>(a)</num>
           <text>He or she has not been convicted of any offense, for which imprisonment for more than 1 year may be imposed, [NOTE<strong>: </strong>Felonious tribal offenses do not count toward a clean record].</text>

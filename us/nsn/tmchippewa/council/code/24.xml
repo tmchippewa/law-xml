@@ -430,7 +430,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Subsection (8) of <cite path="24|24.01|24.0115">this section</cite> does not apply to contracts for the sale of goods (<cite path="24|24.02|24.0221">Section 24.0221</cite>) nor of securities (<cite path="24|24.08|24.0839">Section 24.0839</cite>) nor to security agreements (<cite path="24|24.03|24.0303">Section 24.0303</cite>).</text>
+        <text>Subsection (a) of <cite path="24|24.01|24.0115">this section</cite> does not apply to contracts for the sale of goods (<cite path="24|24.02|24.0301">Section 24.0301</cite>) nor of securities (<cite path="24|24.08|24.0839">Section 24.0839</cite>) nor to security agreements (<cite path="24|24.03|24.0303">Section 24.0303</cite>).</text>
       </para>
     </section>
     <section>
@@ -2754,16 +2754,16 @@
         <text>"ACCOUNT." <cite path="24|24.42|24.4206">Section 24.4206</cite>.</text>
         <text>"BETWEEN MERCHANTS." <cite path="24|24.02|24.0204|(3)">Section 24.0204(3)</cite>.</text>
         <text>"BUYER." <cite path="24|24.02|24.0203|(1)|(a)">Section 24.0203(1)(a)</cite>.</text>
-        <text>"CHATTEL PAPER." <cite path="24|24.42|24.4205|(1)|(b)">Section 24.4205(1)(b)</cite>.</text>
+        <text>"CHATTEL PAPER." <cite path="24|24.42|24.4202|(1)|(m)">Section 24.4205(1)(b)</cite>.</text>
         <text>"CONSUMER GOODS." <cite path="24|24.42|24.4206|(1)">Section 24.4206 (1)</cite>.</text>
-        <text>"DOCUMENT." <cite path="24|24.42|24.4205|(1)|(f)">Section 24.4205(1)(f)</cite>.</text>
+        <text>"DOCUMENT." <cite path="24|24.42|24.4202|(1)|(ff)">Section 24.4205(1)(f)</cite>.</text>
         <text>"ENTRUSTING." <cite path="24|24.05|24.0503|(3)">Section 24.0503(3)</cite>.</text>
         <text>"GENERAL INTANGIBLES." <cite path="24|24.42|24.4206">Section 24.4206</cite>.</text>
         <text>"GOOD FAITH." <cite path="24|24.14|24.1403|(1)|(d)">Section 24.1403(1)(d)</cite>.</text>
         <text>"INSTRUMENT." <cite path="24|24.14|24.1404|(4)">Section 24.1404(4)</cite>.</text>
         <text>"MERCHANT" <cite path="24|24.02|24.0204|(1)">Section 24.0204(1)</cite>.</text>
-        <text>"MORTGAGE." <cite path="24|24.42|24.4205|(1)|(j)">Section 24.4205(1)(j)</cite>.</text>
-        <text>"PURSUANT TO COMMITMENT" <cite path="24|24.42|24.4205|(1)|(k)">Section 24.4205(1)(k)</cite>.</text>
+        <text>"MORTGAGE." <cite path="24|24.42|24.4202|(1)|(eee)">Section 24.4205(1)(j)</cite>.</text>
+        <text>"PURSUANT TO COMMITMENT" <cite path="24|24.42|24.4205|(1)|(ttt)">Section 24.4205(1)(k)</cite>.</text>
         <text>"RECEIPT" <cite path="24|24.02|24.0203|(1)|(c)">Section 24.0203(1)(c)</cite>.</text>
         <text>"SALE." <cite path="24|24.02|24.0206|(1)">Section 24.0206(1)</cite>.</text>
         <text>"SALE ON APPROVAL." <cite path="24|24.04|24.0428|(1)|(a)">Section 24.0428(1)(a)</cite>.</text>
@@ -4640,7 +4640,7 @@
         <text>"NEGOTIATION" <cite path="24|24.15|24.1501|(1)">Section 24.1501(1)</cite></text>
         <text>"NOTE" <cite path="24|24.14|24.1404|(7)">Section 24.1404(7)</cite></text>
         <text>"PAYABLE AT A DEFINITE TIME" <cite path="24|24.14|24.1408|(2)">Section 24.1408(2)</cite></text>
-        <text>"PAYABLE ON DEMAND" 24.03.108(1)</text>
+        <text>"PAYABLE ON DEMAND" <cite path="24|24.14|24.1408">Section 24.03.108(1)</cite></text>
         <text>"PAYABLE TO BEARER" <cite path="24|24.14|24.1409|(1)">Section 24.1409(1)</cite></text>
         <text>"PAYABEL TO ORDER" <cite path="24|24.14|24.1409|(2)">Section 24.1409(2)</cite></text>
         <text>"PAYMENT" <cite path="24|24.19|24.1902">Section 24.1902</cite></text>
@@ -4656,15 +4656,15 @@
       <para>
         <num>(3)</num>
         <text>The following definitions in other articles apply to this article:</text>
-        <text>"BANK" <cite path="24|24.20|24.2005|(a)">Section 24.2005(a)</cite></text>
+        <text>"BANK" <cite path="24|24.20|24.2005|(1)">Section 24.2005(a)</cite></text>
         <text>"BANKING DAY" <cite path="24|24.20|24.2004|(1)|(c)">Section 24.2004(1)(c)</cite></text>
         <text>"CLEARING HOUSE" <cite path="24|24.20|24.2004|(1)|(d)">Section 24.2004(1)(d)</cite></text>
-        <text>"COLLECTING BANK" <cite path="24|24.20|24.2005|(e)">Section 24.2005(e)</cite></text>
-        <text>"DEPOSITORY BANK" <cite path="24|24.20|24.2005|(b)">Section 24.2005(b)</cite></text>
+        <text>"COLLECTING BANK" <cite path="24|24.20|24.2005|(5)">Section 24.2005(e)</cite></text>
+        <text>"DEPOSITORY BANK" <cite path="24|24.20|24.2005|(2)">Section 24.2005(b)</cite></text>
         <text>"DOCUMENTARY DRAFT" <cite path="24|24.20|24.2004|(1)|(f)">Section 24.2004(1)(f)</cite></text>
-        <text>"INTERMEDIARY BANK" <cite path="24|24.20|24.2005|(d)">Section 24.2005(d)</cite></text>
+        <text>"INTERMEDIARY BANK" <cite path="24|24.20|24.2005|(4)">Section 24.2005(d)</cite></text>
         <text>"ITEM" <cite path="24|24.20|24.2004|(1)|(i)">Section 24.2004(1)(i)</cite></text>
-        <text>"PAYOR BANK" <cite path="24|24.20|24.2005|(c)">Section 24.2005(c)</cite></text>
+        <text>"PAYOR BANK" <cite path="24|24.20|24.2005|(3)">Section 24.2005(c)</cite></text>
         <text>"SUSPENDS PAYMENTS" <cite path="24|24.20|24.2004|(1)|(l)">Section 24.2004(1)(l)</cite></text>
       </para>
       <para>
@@ -7014,16 +7014,16 @@
         <text>"CERTIFICATE OF DEPOSTI" <cite path="24|24.20|24.2004">Section 24.2004</cite></text>
         <text>"CERTIFIED CHECK" <cite path="24|24.17|24.1709">Section 24.1709</cite></text>
         <text>"CHECK" <cite path="24|24.14|24.1404|(8)">Section 24.1404(8)</cite></text>
-        <text>"GOOD FAITH" <cite path="24|24.14|24.1403|(d)">Section 24.1403(d)</cite></text>
+        <text>"GOOD FAITH" <cite path="24|24.14|24.1403|(1)|(d)">Section 24.1403(d)</cite></text>
         <text>"HOLDERIN DUE COURSE" <cite path="24|24.16|24.1602">Section 24.1602</cite></text>
         <text>"INSTRUMENT" <cite path="24|24.16|24.1604">Section 24.1604</cite></text>
         <text>"NOTICE OF DISHONOR" <cite path="24|24.18|24.1803">Section 24.1803</cite></text>
-        <text>"OORDER" <cite path="24|24.14|24.1403|(f)">Section 24.1403(f)</cite></text>
-        <text>"ORDINARY CARE" <cite path="24|24.14|24.1403|(g)">Section 24.1403(g)</cite></text>
+        <text>"ORDER" <cite path="24|24.14|24.1403|(1)|(f)">Section 24.1403(f)</cite></text>
+        <text>"ORDINARY CARE" <cite path="24|24.14|24.1403|(1)|(g)">Section 24.1403(g)</cite></text>
         <text>"PERSON ENTITLED TO ENFORCE" <cite path="24|24.16|24.1601">Section 24.1601</cite></text>
         <text>"PRESENTMENT" <cite path="24|24.18|24.1801">Section 24.1801</cite></text>
-        <text>"PROMISE" <cite path="24|24.14|24.1403|(i)">Section 24.1403(i)</cite></text>
-        <text>"PROVE" <cite path="24|24.14|24.1403|(j)">Section 24.1403(j)</cite></text>
+        <text>"PROMISE" <cite path="24|24.14|24.1403|(1)|(i)">Section 24.1403(i)</cite></text>
+        <text>"PROVE" <cite path="24|24.14|24.1403|(1)|(j)">Section 24.1403(j)</cite></text>
         <text>"TELLER'S CHECK" <cite path="24|24.20|24.2004">Section 24.2004</cite></text>
         <text>"UNAUTHORIZED SIGNATURE" <cite path="24|24.17|24.1703">Section 24.1703</cite></text>
       </para>
@@ -7251,7 +7251,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The item is not subject to a defense or claim in recoupment (<cite path="24|24.16|24.1605|(a)">Section 24.1605(a)</cite> of any party that can be asserted against the warrantor; and</text>
+          <text>The item is not subject to a defense or claim in recoupment (<cite path="24|24.16|24.1605|(1)">Section 24.1605(a)</cite> of any party that can be asserted against the warrantor; and</text>
         </para>
         <para>
           <num>(e)</num>
@@ -7986,7 +7986,7 @@
         <text>"BENEFICIARY'S BANK" <cite path="24|24.25|24.2503|(1)|(c)">Section 24.2503(1)(c)</cite></text>
         <text>"EXECUTED" <cite path="24|24.27|24.2701|(1)">Section 24.2701(1)</cite></text>
         <text>"EXECUTION DATE" <cite path="24|24.27|24.2701|(2)">Section 24.2701(2)</cite></text>
-        <text>"FUNDS TRANSFER" <cite path="24|24.25|24.2504|(a)">Section 24.2504(a)</cite></text>
+        <text>"FUNDS TRANSFER" <cite path="24|24.25|24.2504|(1)">Section 24.2504(a)</cite></text>
         <text>"FUNDS TRANSFER SYSTEM RULE" <cite path="24|24.29|24.2901|(2)">Section 24.2901(2)</cite></text>
         <text>"INTERMEDIARY BANK" <cite path="24|24.25|24.2504|(2)">Section 24.2504(2)</cite></text>
         <text>"ORIGINATOR" <cite path="24|24.25|24.2504|(3)">Section 24.2504(3)</cite></text>
@@ -9085,7 +9085,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Is precluded from asserting a right of recourse on a draft under <cite path="24|24.30|24.3041">section 24.3041</cite> and <cite path="24|24.30|24.3052">section 24.3052</cite>;</text>
+          <text>Is precluded from asserting a right of recourse on a draft under <cite path="24|24.17|24.1714">section 24.3041</cite> and <cite path="24|24.17|24.1715">section 24.3052</cite>;</text>
         </para>
         <para>
           <num>(d)</num>
@@ -10279,7 +10279,7 @@
         <text>"Adverse claim." <cite path="24|24.40|24.4002|(2)">Section 24.4002(2)</cite>.</text>
         <text>"Bona fide purchaser." <cite path="24|24.40|24.4002|(3)">Section 24.4002(3)</cite>.</text>
         <text>"Broker." <cite path="24|24.40|24.4003">Section 24.4003</cite>.</text>
-        <text>"Debtor." <cite path="24|24.42|24.4205|(1)|(dd)">Section 24.4205(1)(dd)</cite>.</text>
+        <text>"Debtor." <cite path="24|24.42|24.4202|(1)|(dd)">Section 24.4205(1)(dd)</cite>.</text>
         <text>"Financial intermediary." <cite path="24|24.40|24.4013">Section 24.4013</cite>.</text>
         <text>"Guarantee of the signature." <cite path="24|24.41|24.4102|(4)">Section 24.4102(4)</cite>.</text>
         <text>"Initial transaction statement." <cite path="24|24.41|24.4108|(4)">Section 24.4108(4)</cite>.</text>
@@ -10287,8 +10287,8 @@
         <text>"Intermediary Bank." <cite path="24|24.20|24.2005|(4)">Section 24.2005(4)</cite>.</text>
         <text>"Issuer." <cite path="24|24.39|24.3901">Section 24.3901</cite>.</text>
         <text>"Over issue." <cite path="24|24.38|24.3804|(2)">Section 24.3804(2)</cite>.</text>
-        <text>"Secured Party." <cite path="24|24.42|24.4205|(1)|(l)">Section 24.4205(1)(l)</cite>.</text>
-        <text>"Security Agreement." <cite path="24|24.42|24.4205|(1)|(m)">Section 24.4205(1)(m)</cite>.</text>
+        <text>"Secured Party." <cite path="24|24.42|24.4205|(1)|(xxx)">Section 24.4205(1)(l)</cite>.</text>
+        <text>"Security Agreement." <cite path="24|24.42|24.4205|(1)|(yyy)">Section 24.4205(1)(m)</cite>.</text>
       </para>
       <para>
         <num>(6)</num>
@@ -11362,7 +11362,7 @@
       <para>
         <num>(2)</num>
         <text>A security interest so transferred pursuant to agreement by a transferor who has rights in the security to a transferee who has given value is a perfected security interest, but a security interest that has been transferred solely under paragraph (9) of <cite path="24|24.40|24.4013|(1)">Section 24.4013(1)</cite> becomes unperfected after twenty-one (21) days unless, within that time, the requirements for transfer under any other provision of <cite path="24|24.40|24.4013|(1)">Section 24.4013(1)</cite> are satisfied.</text>
-        <text>A security interest in a security is subject to the provisions of <cite path="24|24.40|24.4209">Section 24.4209</cite>, but:</text>
+        <text>A security interest in a security is subject to the provisions of <cite path="24|24.42|24.4209">Section 24.4209</cite>, but:</text>
         <para>
           <num>(a)</num>
           <text>no filing is required to perfect the security interest; and</text>
@@ -13384,7 +13384,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Subsection (b) is subject to <cite path="24|24.41|24.4110">section 24.4110</cite> on the security interest of a collecting bank, <cite path="24|24.30|24.3018">section 24.3018</cite> (as amended) on the security interest of a letter-of-credit issuer or nominated person, <cite path="24|24.42|24.4210">section 24.4210</cite> on a security interest arising under <cite path="24.02">Chapter 24.02</cite> – <cite path="24.08">Chapter 24.08</cite> or <cite path="24.09">chapter 24.09</cite> – <cite path="24.13">chapter 24.13</cite>, and <cite path="24|24.42|24.4216">section 24.4216</cite> on security interests in investment property.</text>
+        <text>Subsection (b) is subject to <cite path="24|24.41|24.2110">section 24.4110</cite> on the security interest of a collecting bank, <cite path="24|24.30|24.3018">section 24.3018</cite> (as amended) on the security interest of a letter-of-credit issuer or nominated person, <cite path="24|24.42|24.4210">section 24.4210</cite> on a security interest arising under <cite path="24.02">Chapter 24.02</cite> – <cite path="24.08">Chapter 24.08</cite> or <cite path="24.09">chapter 24.09</cite> – <cite path="24.13">chapter 24.13</cite>, and <cite path="24|24.42|24.4216">section 24.4216</cite> on security interests in investment property.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -14833,7 +14833,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Except as otherwise provided in subsection (f), a security interest in collateral which qualifies for priority over a conflicting security interest under <cite path="24|24.42|24.4247">section 24.4247</cite>, <cite path="24|24.42|24.4248">section 24.4248</cite>, <cite path="24|24.42|24.4249">section 24.4249</cite>, section 24,4250, or <cite path="24|24.24|24.2451">section 24.2451</cite> also has priority over a conflicting security interest in:</text>
+        <text>Except as otherwise provided in subsection (f), a security interest in collateral which qualifies for priority over a conflicting security interest under <cite path="24|24.42|24.4247">section 24.4247</cite>, <cite path="24|24.42|24.4248">section 24.4248</cite>, <cite path="24|24.42|24.4249">section 24.4249</cite>, <cite path="24|24.42|24.4250">section 24.2450</cite>, or <cite path="24|24.42|24.4251">section 24.2451</cite> also has priority over a conflicting security interest in:</text>
         <para>
           <num>(a)</num>
           <text>Any supporting obligation for the collateral; and</text>
