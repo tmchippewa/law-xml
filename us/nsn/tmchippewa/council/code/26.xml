@@ -1425,434 +1425,443 @@
     <num>26.07</num>
     <heading>Parole, Probation, Pardon Parole</heading>
     <prefix>Chapter</prefix>
-    <section>
-      <num>26.07.010</num>
-      <heading>Eligibility of Parole</heading>
-      <text>Any person confined to jail who shall have served, without misconduct, one- half of the sentence imposed, shall be eligible to be considered for parole, upon written application to the Court.  Parole will be considered, upon written request from the prisoner requesting consideration.  The Tribal Court shall review the prisoner's criminal history and speak with the Prosecutor's Office and the Correctional Department for their opinions before making a decision.</text>
-      <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
-      </annotations>
-      <annotation type="Prior Codifications">§26.07.010 was formerly codified as 26.0701</annotation>
-    </section>
-    <section>
-      <num>26.07.020</num>
-      <heading>Granting Parole</heading>
-      <text>Parole may be granted by the Tribal Court with conditional release requirements as the Tribal Court may prescribe including the requirement of personal reports from the parolee.</text>
-      <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
-      </annotations>
-      <annotation type="Prior Codifications">§26.07.020 was formerly codified as 26.0702</annotation>
-    </section>
-    <section>
-      <num>26.07.030</num>
-      <heading>Violation of Parole</heading>
-      <text>Any paroled person who shall violate any provision of his/her parole, at the discretion of the Court, shall be apprehended and confined to serve the remainder of the original sentence with the reduction for the time the person discretion of the Court, shall be apprehended and confined to serve the remainder of the original sentence with the reduction for the time the person was released on parole.</text>
-      <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
-      </annotations>
-      <annotation type="Prior Codifications">§26.07.030 was formerly codified as 26.0703</annotation>
-    </section>
-    <section>
-      <num>26.07.040</num>
-      <heading>Conditions of Probation</heading>
-      <text>The Court may release on probation a person convicted of a crime on such terms and conditions as are just and appropriate, taking into consideration the prior criminal record of the defendant, his background, character, financial condition, family obligation and any other pertinent circumstances.</text>
-      <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
-      </annotations>
-      <annotation type="Prior Codifications">§26.07.040 was formerly codified as 26.0704</annotation>
-    </section>
-    <section>
-      <num>26.07.050</num>
-      <heading>Violations of Conditions of Probation</heading>
-      <text>Any person who violates the terms and conditions of his/her probation or release may be required to serve the original sentence imposed.</text>
-      <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
-      </annotations>
-      <annotation type="Prior Codifications">§26.07.050 was formerly codified as 26.0705</annotation>
-    </section>
-    <section>
-      <num>26.07.060</num>
-      <heading>Pardon Board Definitions</heading>
-      <para>
-        <num>(a)</num>
-        <text>"COMMUTATION." An exchange or replacement of the punishment to which an individual has been sentenced to a less severe punishment.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>"CONDITIONAL PARDON." A pardon, commutation, reprieve or remission of a fine, subject to terms and conditions established by the Chairman upon recommendation of the Pardon Advisory Board that does not become effective until the offender fulfills some condition.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>"DEPARTMENT." shall be defined as the Department of Prisons of any jurisdiction.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>"PARDON." The removal of punishment or custody imposed upon a person for the commission of an offense. A pardon does not remove that person's conviction or plea or finding of guilt for an offense unless specifically stated in the Certificate of Pardon.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>"REPRIEVE." The temporary relief from or postponement of the execution of a criminal sentence, analogous to a commutation or a pardon.</text>
-        <text>For purposes of this code, the terms pardon, expunge, set aside, commutation, etc. shall have the same meaning. These terms shall mean action taken by the Chairman, upon recommendation of the Pardon Board, to ensure that Tribal offenses are set aside and the corresponding criminal records information is expunged with respect to the offense at issue.</text>
-      </para>
-      <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 284-09-05"/>
-      </annotations>
-      <annotation type="Prior Codifications">§26.07.060 was formerly codified as 26.0706</annotation>
-    </section>
-    <section>
-      <num>26.07.070</num>
-      <heading>Standards for Pardon Board</heading>
-      <para>
-        <num>(a)</num>
-        <text>The Pardon Board will only consider applications from Tribal members with less than 3 total Tribal misdemeanors as covered in <cite path="26">this title</cite> of the Tribal Code of 1976. The Pardon Board will not consider those with three or more infractions (i.e. habitual offenders).</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The Pardon Board will not consider any infraction that is less than five years old.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The Pardon Board will not consider pardons for any crimes listed in the Indian Major Crimes Act, 18 USC 1153, even if such actions are also crimes under Tribal law.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>The Pardon Board will not consider pardons for any Misdemeanors related to dealing and/or distributing drugs.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>The Pardon Board will consider pardons for drug use-related infractions only if they have completed an intensive drug treatment program lasting at least ninety (90) days prior to application for pardon.</text>
-      </para>
-      <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 284-09-05"/>
-      </annotations>
-      <annotation type="Prior Codifications">§26.07.070 was formerly codified as 26.0707</annotation>
-    </section>
-    <section>
-      <num>26.07.080</num>
-      <heading>Pardon Review Board Policies and Procedures</heading>
-      <para>
-        <num>(a)</num>
-        <text>Mission Statement:  The mission of the Pardon Review Board is to review and consider requests within its jurisdiction and base its recommendations in keeping with the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Tribal Constitution and Bylaws</cite>, Tribal Code and statutory intent in the best interest of society and tribal members.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Authority: Authority for this policy is found in <cite doc="Turtle Mountain Constitution and By-laws" path="IV|2">Article IV, Section 2 of the Constitution and Bylaws of the Turtle Mountain Band of Chippewa  Indians</cite> North Dakota, which states "The Tribal Council shall have the authority to … appoint subordinate committees, delegates, and employees  not otherwise provided for in the constitution, and to provide tenure and duties; provided that any delegation of authority described in this Constitution shall be granted only by written resolution or ordinance and shall be withdrawn in the same manner. (Amendment XIV, Approved February 3, 1995)"; and <cite path="26|26.07">this chapter</cite> inclusive of the Turtle Mountain Tribal Code.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Pardon Board:</text>
+    <container>
+      <num>A</num>
+      <heading>Parole</heading>
+      <prefix>Part</prefix>
+      <section>
+        <num>26.07.010</num>
+        <heading>Eligibility of Parole</heading>
+        <text>Any person confined to jail who shall have served, without misconduct, one- half of the sentence imposed, shall be eligible to be considered for parole, upon written application to the Court.  Parole will be considered, upon written request from the prisoner requesting consideration.  The Tribal Court shall review the prisoner's criminal history and speak with the Prosecutor's Office and the Correctional Department for their opinions before making a decision.</text>
+        <annotations>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
+        </annotations>
+        <annotation type="Prior Codifications">§26.07.010 was formerly codified as 26.0701</annotation>
+      </section>
+      <section>
+        <num>26.07.020</num>
+        <heading>Granting Parole</heading>
+        <text>Parole may be granted by the Tribal Court with conditional release requirements as the Tribal Court may prescribe including the requirement of personal reports from the parolee.</text>
+        <annotations>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
+        </annotations>
+        <annotation type="Prior Codifications">§26.07.020 was formerly codified as 26.0702</annotation>
+      </section>
+      <section>
+        <num>26.07.030</num>
+        <heading>Violation of Parole</heading>
+        <text>Any paroled person who shall violate any provision of his/her parole, at the discretion of the Court, shall be apprehended and confined to serve the remainder of the original sentence with the reduction for the time the person discretion of the Court, shall be apprehended and confined to serve the remainder of the original sentence with the reduction for the time the person was released on parole.</text>
+        <annotations>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
+        </annotations>
+        <annotation type="Prior Codifications">§26.07.030 was formerly codified as 26.0703</annotation>
+      </section>
+    </container>
+    <container>
+      <num>B</num>
+      <heading>Probation</heading>
+      <prefix>Part</prefix>
+      <section>
+        <num>26.07.040</num>
+        <heading>Conditions of Probation</heading>
+        <text>The Court may release on probation a person convicted of a crime on such terms and conditions as are just and appropriate, taking into consideration the prior criminal record of the defendant, his background, character, financial condition, family obligation and any other pertinent circumstances.</text>
+        <annotations>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
+        </annotations>
+        <annotation type="Prior Codifications">§26.07.040 was formerly codified as 26.0704</annotation>
+      </section>
+      <section>
+        <num>26.07.050</num>
+        <heading>Violations of Conditions of Probation</heading>
+        <text>Any person who violates the terms and conditions of his/her probation or release may be required to serve the original sentence imposed.</text>
+        <annotations>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
+        </annotations>
+        <annotation type="Prior Codifications">§26.07.050 was formerly codified as 26.0705</annotation>
+      </section>
+      <section>
+        <num>26.07.060</num>
+        <heading>Pardon Board Definitions</heading>
         <para>
-          <num>(1)</num>
-          <text>The Chairman and Tribal Council may appoint a Pardon Board to consist  of five (5) members including one (1) Tribal member from each district and a Pardon Board Chairman from at large-selection by the Tribal Chairman.</text>
+          <num>(a)</num>
+          <text>"COMMUTATION." An exchange or replacement of the punishment to which an individual has been sentenced to a less severe punishment.</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>The Chairman, with a quorum of the Tribal Council may dissolve the Pardon Board at any time.</text>
+          <num>(b)</num>
+          <text>"CONDITIONAL PARDON." A pardon, commutation, reprieve or remission of a fine, subject to terms and conditions established by the Chairman upon recommendation of the Pardon Advisory Board that does not become effective until the offender fulfills some condition.</text>
         </para>
         <para>
-          <num>(3)</num>
-          <text>The Chairman may call meetings of the Pardon Board as necessary to  allow the Pardon Board to conduct business in a timely manner. The Pardon Board shall also convene at least quarterly to conduct its business in a timely manner.</text>
+          <num>(c)</num>
+          <text>"DEPARTMENT." shall be defined as the Department of Prisons of any jurisdiction.</text>
         </para>
         <para>
-          <num>(4)</num>
-          <text>The Pardon Board is not an administrative agency and is not subject to administrative agencies practices. However, any rulemaking by the  Pardon Board will be published for 30-day comment prior to  consideration for inclusion in the Turtle Mountain Tribal Code.</text>
+          <num>(d)</num>
+          <text>"PARDON." The removal of punishment or custody imposed upon a person for the commission of an offense. A pardon does not remove that person's conviction or plea or finding of guilt for an offense unless specifically stated in the Certificate of Pardon.</text>
         </para>
         <para>
-          <num>(5)</num>
-          <text>Pardon Board Members may not engage in ex parte communications with applicants for pardons or any of their representatives or advocates.</text>
+          <num>(e)</num>
+          <text>"REPRIEVE." The temporary relief from or postponement of the execution of a criminal sentence, analogous to a commutation or a pardon.</text>
+          <text>For purposes of this code, the terms pardon, expunge, set aside, commutation, etc. shall have the same meaning. These terms shall mean action taken by the Chairman, upon recommendation of the Pardon Board, to ensure that Tribal offenses are set aside and the corresponding criminal records information is expunged with respect to the offense at issue.</text>
         </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Meetings and Rules.</text>
+        <annotations>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 284-09-05"/>
+        </annotations>
+        <annotation type="Prior Codifications">§26.07.060 was formerly codified as 26.0706</annotation>
+      </section>
+    </container>
+    <container>
+      <num>C</num>
+      <heading>Pardon</heading>
+      <section>
+        <num>26.07.070</num>
+        <heading>Standards for Pardon Board</heading>
         <para>
-          <num>(1)</num>
-          <text>The Board will schedule at least one quarterly meeting to review applications for pardons from Tribal member offenders.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A simple majority of the Pardon Board members constitutes a quorum.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Board may call executive sessions as allowed by the Turtle Mountain Tribal Code.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>The rules and procedures for reviewing requests for pardon relief are contained within this policy.</text>
-        </para>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Duties and responsibilities of the Pardon Board.</text>
-        <text>The sole function of the Pardon Board shall be to provide information and make recommendations to the Tribal Chairman concerning any matters before the Tribal Chairman under <cite path="26|26.07">this chapter</cite>. Recommendations may include commutation of sentence and grant of a pardon. Recommended terms and conditions placed upon any pardon or commutation of sentence shall be so stated on the Certificate of Pardon/Commutation.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Duties and responsibilities of the Pardon Board Clerk shall include the following:</text>
-        <para>
-          <num>(1)</num>
-          <text>Maintain a register of all applications filed with the Pardon Board as well as a record of any and all proceedings of the Pardon Board.</text>
+          <num>(a)</num>
+          <text>The Pardon Board will only consider applications from Tribal members with less than 3 total Tribal misdemeanors as covered in <cite path="26">this title</cite> of the Tribal Code of 1976. The Pardon Board will not consider those with three or more infractions (i.e. habitual offenders).</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>Maintain a record of all actions of the Pardon Board.</text>
+          <num>(b)</num>
+          <text>The Pardon Board will not consider any infraction that is less than five years old.</text>
         </para>
         <para>
-          <num>(3)</num>
-          <text>Conduct investigations for and provide information to the Pardon Board. All information to be considered by the Pardon Board must be submitted to the Pardon Board Clerk.</text>
+          <num>(c)</num>
+          <text>The Pardon Board will not consider pardons for any crimes listed in the Indian Major Crimes Act, 18 USC 1153, even if such actions are also crimes under Tribal law.</text>
         </para>
         <para>
-          <num>(4)</num>
-          <text>Direct officers of the Turtle Mountain Tribal Probation/Parole Division to provide testimony or written comments for the Pardon Board's consideration when an individual is on supervision or has recently been on supervision by a Department.</text>
+          <num>(d)</num>
+          <text>The Pardon Board will not consider pardons for any Misdemeanors related to dealing and/or distributing drugs.</text>
         </para>
         <para>
-          <num>(5)</num>
-          <text>Provide written notice of an application for Pardon/Commutation to the Turtle Mountain Tribal Court and Tribal Prosecutor regarding any Judgment of Conviction warranted against the applicants. The date of entry and docket number of the criminal judgment, the crime or crimes stated in the criminal judgment and the date and place for the meeting on the application.</text>
+          <num>(e)</num>
+          <text>The Pardon Board will consider pardons for drug use-related infractions only if they have completed an intensive drug treatment program lasting at least ninety (90) days prior to application for pardon.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 284-09-05"/>
+        </annotations>
+        <annotation type="Prior Codifications">§26.07.070 was formerly codified as 26.0707</annotation>
+      </section>
+      <section>
+        <num>26.07.080</num>
+        <heading>Pardon Review Board Policies and Procedures</heading>
+        <para>
+          <num>(a)</num>
+          <text>Mission Statement:  The mission of the Pardon Review Board is to review and consider requests within its jurisdiction and base its recommendations in keeping with the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Tribal Constitution and Bylaws</cite>, Tribal Code and statutory intent in the best interest of society and tribal members.</text>
         </para>
         <para>
-          <num>(6)</num>
-          <text>The Pardon Clerk will ensure that victim rights are protected and that victims have the opportunity to present information to the board in the manner that the board prescribes.</text>
-        </para>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>Cases eligible for Pardon Board review.</text>
-        <para>
-          <num>(1)</num>
-          <text>Offenders in custody or on supervision with the Turtle Mountain Tribal Probation/Parole Division.</text>
+          <num>(b)</num>
+          <text>Authority: Authority for this policy is found in <cite doc="Turtle Mountain Constitution and By-laws" path="IV|2">Article IV, Section 2 of the Constitution and Bylaws of the Turtle Mountain Band of Chippewa  Indians</cite> North Dakota, which states "The Tribal Council shall have the authority to … appoint subordinate committees, delegates, and employees  not otherwise provided for in the constitution, and to provide tenure and duties; provided that any delegation of authority described in this Constitution shall be granted only by written resolution or ordinance and shall be withdrawn in the same manner. (Amendment XIV, Approved February 3, 1995)"; and <cite path="26|26.07">this chapter</cite> inclusive of the Turtle Mountain Tribal Code.</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>Applicants currently incarcerated. Applicants who have no legal remedy through the Parole Board but may be eligible for review by the Pardon Board providing that review does not conflict with any other provisions of this policy.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Offenders under the supervision of Probation/Parole.</text>
+          <num>(c)</num>
+          <text>Pardon Board:</text>
           <para>
-            <num>(A)</num>
-            <text>The supervising officer of any applicant on supervision may apply for relief on behalf of the applicant with the Pardon Clerk.</text>
+            <num>(1)</num>
+            <text>The Chairman and Tribal Council may appoint a Pardon Board to consist  of five (5) members including one (1) Tribal member from each district and a Pardon Board Chairman from at large-selection by the Tribal Chairman.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Chairman, with a quorum of the Tribal Council may dissolve the Pardon Board at any time.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Chairman may call meetings of the Pardon Board as necessary to  allow the Pardon Board to conduct business in a timely manner. The Pardon Board shall also convene at least quarterly to conduct its business in a timely manner.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Pardon Board is not an administrative agency and is not subject to administrative agencies practices. However, any rulemaking by the  Pardon Board will be published for 30-day comment prior to  consideration for inclusion in the Turtle Mountain Tribal Code.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Pardon Board Members may not engage in ex parte communications with applicants for pardons or any of their representatives or advocates.</text>
           </para>
         </para>
         <para>
-          <num>(4)</num>
-          <text>Person not in the custody of or under the supervision and management of the Probation/Parole Department. The applicant must have encountered a significant problem with the consequences of his or her conviction or sentence (e.g. difficulty entering a school or securing employment).</text>
+          <num>(d)</num>
+          <text>Meetings and Rules.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Board will schedule at least one quarterly meeting to review applications for pardons from Tribal member offenders.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A simple majority of the Pardon Board members constitutes a quorum.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Board may call executive sessions as allowed by the Turtle Mountain Tribal Code.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The rules and procedures for reviewing requests for pardon relief are contained within this policy.</text>
+          </para>
         </para>
         <para>
-          <num>(5)</num>
-          <text>In very limited circumstances, the board may consider applications from individuals who present a compelling need for relief as a result of unusual circumstances not otherwise specified by the above criteria.</text>
-        </para>
-      </para>
-      <para>
-        <num>(h)</num>
-        <text>Application and Review Process.</text>
-        <para>
-          <num>(1)</num>
-          <text>Applications for board review must be made with the Pardon Clerk on a form prescribed by the Pardon Clerk.</text>
+          <num>(e)</num>
+          <text>Duties and responsibilities of the Pardon Board.</text>
+          <text>The sole function of the Pardon Board shall be to provide information and make recommendations to the Tribal Chairman concerning any matters before the Tribal Chairman under <cite path="26|26.07">this chapter</cite>. Recommendations may include commutation of sentence and grant of a pardon. Recommended terms and conditions placed upon any pardon or commutation of sentence shall be so stated on the Certificate of Pardon/Commutation.</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>The written application must be submitted to the Pardon Clerk at least forty-five (45) days before the Pardon Board convenes.</text>
+          <num>(f)</num>
+          <text>Duties and responsibilities of the Pardon Board Clerk shall include the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Maintain a register of all applications filed with the Pardon Board as well as a record of any and all proceedings of the Pardon Board.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Maintain a record of all actions of the Pardon Board.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Conduct investigations for and provide information to the Pardon Board. All information to be considered by the Pardon Board must be submitted to the Pardon Board Clerk.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Direct officers of the Turtle Mountain Tribal Probation/Parole Division to provide testimony or written comments for the Pardon Board's consideration when an individual is on supervision or has recently been on supervision by a Department.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Provide written notice of an application for Pardon/Commutation to the Turtle Mountain Tribal Court and Tribal Prosecutor regarding any Judgment of Conviction warranted against the applicants. The date of entry and docket number of the criminal judgment, the crime or crimes stated in the criminal judgment and the date and place for the meeting on the application.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Pardon Clerk will ensure that victim rights are protected and that victims have the opportunity to present information to the board in the manner that the board prescribes.</text>
+          </para>
         </para>
         <para>
-          <num>(3)</num>
-          <text>The Pardon Clerk will staff each case on the proposed docket with a representative of the Chairman and the Pardon Board.</text>
+          <num>(g)</num>
+          <text>Cases eligible for Pardon Board review.</text>
+          <para>
+            <num>(1)</num>
+            <text>Offenders in custody or on supervision with the Turtle Mountain Tribal Probation/Parole Division.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Applicants currently incarcerated. Applicants who have no legal remedy through the Parole Board but may be eligible for review by the Pardon Board providing that review does not conflict with any other provisions of this policy.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Offenders under the supervision of Probation/Parole.</text>
+            <para>
+              <num>(A)</num>
+              <text>The supervising officer of any applicant on supervision may apply for relief on behalf of the applicant with the Pardon Clerk.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Person not in the custody of or under the supervision and management of the Probation/Parole Department. The applicant must have encountered a significant problem with the consequences of his or her conviction or sentence (e.g. difficulty entering a school or securing employment).</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>In very limited circumstances, the board may consider applications from individuals who present a compelling need for relief as a result of unusual circumstances not otherwise specified by the above criteria.</text>
+          </para>
         </para>
         <para>
-          <num>(4)</num>
-          <text>The Pardon Clerk will prepare a final docket at least thirty (30) days before the Pardon Board convenes.</text>
+          <num>(h)</num>
+          <text>Application and Review Process.</text>
+          <para>
+            <num>(1)</num>
+            <text>Applications for board review must be made with the Pardon Clerk on a form prescribed by the Pardon Clerk.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The written application must be submitted to the Pardon Clerk at least forty-five (45) days before the Pardon Board convenes.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Pardon Clerk will staff each case on the proposed docket with a representative of the Chairman and the Pardon Board.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Pardon Clerk will prepare a final docket at least thirty (30) days before the Pardon Board convenes.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Pardon Clerk may formulate a recommendation concerning an applicant's request for relief.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Pardon Clerk will present a final packet for each application to members of the board at least fifteen (15) days before the board convenes.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>The board may review the application with the applicant or may review the application without a personal appearance. Granting or not granting a personal appearance should not constitute a negative recommendation for relief. The Pardon Clerk will schedule all personal appearances.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Any request by the Pardon Board Chairman for the personal appearance of an applicant will be honored.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>After appropriate review, the board will make a recommendation to the Chairman regarding each case.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>If the Chairman denies the applicant that requested relief, the applicant may not re-apply for relief for a period of six (6) months from the date the Chairman denied relief, or if the board has set a later date, the date the board has set. The board is not precluded by <cite path="§26.07.080">this section</cite> from considering an emergency application for relief at  any time.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Any reapplication will be submitted on a summary form as provided by  the Pardon Clerk and must demonstrate specific changes in circumstances since the prior application.</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>The Chairman may reconsider the decision to grant an applicant relief  at any time. If for any reason the applicant violates any of the terms or conditions of the pardon, the Chairman may revoke the pardon on the same manner provided for violation of any of the terms or conditions in all other cases,  the  Chairman  may  reconsider  a  decision  or an application of the reconsideration is made within thirty (30) days from the date of the initial decision.</text>
+          </para>
+        </para>
+        <annotation type="Prior Codifications">§26.07.080 was formerly codified as 26.0708</annotation>
+      </section>
+      <section>
+        <num>26.07.090</num>
+        <heading>Pardon Application Form</heading>
+        <text>$50 non-refundable application/processing fee</text>
+        <text>Notice: This form must be completed by all pardon applicants.</text>
+        <text>Applications must be typewritten or clearly printed. All questions must be answered if applicable. If not, indicate by N/A (not applicable). If space provided is not sufficient for complete answers, or if you wish to furnish additional information, attach sheets and number answers to correspond with questions. This document must be notarized.</text>
+        <para>
+          <num>(a)</num>
+          <text>Full Name: <u>__</u></text>
         </para>
         <para>
-          <num>(5)</num>
-          <text>The Pardon Clerk may formulate a recommendation concerning an applicant's request for relief.</text>
+          <num>(b)</num>
+          <text>Address:</text>
         </para>
         <para>
-          <num>(6)</num>
-          <text>The Pardon Clerk will present a final packet for each application to members of the board at least fifteen (15) days before the board convenes.</text>
+          <num>(c)</num>
+          <text>Telephone #: <u>__</u></text>
         </para>
         <para>
-          <num>(7)</num>
-          <text>The board may review the application with the applicant or may review the application without a personal appearance. Granting or not granting a personal appearance should not constitute a negative recommendation for relief. The Pardon Clerk will schedule all personal appearances.</text>
+          <num>(d)</num>
+          <text>Social Security #:</text>
         </para>
         <para>
-          <num>(8)</num>
-          <text>Any request by the Pardon Board Chairman for the personal appearance of an applicant will be honored.</text>
+          <num>(e)</num>
+          <text>Date of Birth:</text>
         </para>
         <para>
-          <num>(9)</num>
-          <text>After appropriate review, the board will make a recommendation to the Chairman regarding each case.</text>
+          <num>(f)</num>
+          <text>Place of Birth:</text>
         </para>
         <para>
-          <num>(10)</num>
-          <text>If the Chairman denies the applicant that requested relief, the applicant may not re-apply for relief for a period of six (6) months from the date the Chairman denied relief, or if the board has set a later date, the date the board has set. The board is not precluded by <cite path="§26.07.080">this section</cite> from considering an emergency application for relief at  any time.</text>
+          <num>(g)</num>
+          <text>Male/Female:</text>
         </para>
         <para>
-          <num>(11)</num>
-          <text>Any reapplication will be submitted on a summary form as provided by  the Pardon Clerk and must demonstrate specific changes in circumstances since the prior application.</text>
+          <num>(h)</num>
+          <text>Marital Status:</text>
         </para>
         <para>
-          <num>(12)</num>
-          <text>The Chairman may reconsider the decision to grant an applicant relief  at any time. If for any reason the applicant violates any of the terms or conditions of the pardon, the Chairman may revoke the pardon on the same manner provided for violation of any of the terms or conditions in all other cases,  the  Chairman  may  reconsider  a  decision  or an application of the reconsideration is made within thirty (30) days from the date of the initial decision.</text>
+          <num>(i)</num>
+          <text>No. of children:    Ages:</text>
         </para>
-      </para>
-      <annotation type="Prior Codifications">§26.07.080 was formerly codified as 26.0708</annotation>
-    </section>
-    <section>
-      <num>26.07.090</num>
-      <heading>Pardon Application Form</heading>
-      <text>$50 non-refundable application/processing fee</text>
-      <text>Notice: This form must be completed by all pardon applicants.</text>
-      <text>Applications must be typewritten or clearly printed. All questions must be answered if applicable. If not, indicate by N/A (not applicable). If space provided is not sufficient for complete answers, or if you wish to furnish additional information, attach sheets and number answers to correspond with questions. This document must be notarized.</text>
-      <para>
-        <num>(a)</num>
-        <text>Full Name: <u>__</u></text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Address:</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Telephone #: <u>__</u></text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Social Security #:</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Date of Birth:</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Place of Birth:</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>Male/Female:</text>
-      </para>
-      <para>
-        <num>(h)</num>
-        <text>Marital Status:</text>
-      </para>
-      <para>
-        <num>(i)</num>
-        <text>No. of children:    Ages:</text>
-      </para>
-      <para>
-        <num>(j)</num>
-        <text>What is the crime, date of conviction and sentence of the crime for which you are requesting a pardon?_________________</text>
-      </para>
-      <para>
-        <num>(k)</num>
-        <text>Please describe the circumstances of each offense and conviction for which</text>
-        <text>a pardon is sought (attach a separate sheet if more space is needed):____</text>
-      </para>
-      <para>
-        <num>(l)</num>
-        <text>Have you requested a pardon before?   If yes, when?  <u>__</u></text>
-      </para>
-      <para>
-        <num>(m)</num>
-        <text>Why are you requesting this pardon:      Employment      Entry into  service        other (explain)  <u>__</u></text>
-      </para>
-      <para>
-        <num>(n)</num>
-        <text>Please briefly describe the reasons for this pardon request. A lengthier explanation    with    supporting     documentation     may     be  attached:___</text>
-      </para>
-      <text>EDUCATION AND TRAINING</text>
-      <para>
-        <num>(o)</num>
-        <text>Highest Grade Completed: <u>__</u></text>
-      </para>
-      <para>
-        <num>(p)</num>
-        <text>Name of School:  <u>___</u></text>
-        <text>MILITARY SERVICE</text>
-      </para>
-      <para>
-        <num>(q)</num>
-        <text>Branch of Service:  <u>___</u></text>
-      </para>
-      <para>
-        <num>(r)</num>
-        <text>Service No.   Type of discharge:  <u>___</u></text>
-      </para>
-      <para>
-        <num>(s)</num>
-        <text>Dates of active duty: <u>___________</u>to  <u>___________</u></text>
-      </para>
-      <para>
-        <num>(t)</num>
-        <text>Present place of employment: <u>___</u></text>
-      </para>
-      <para>
-        <num>(u)</num>
-        <text>Address and telephone number: <u>___</u></text>
-      </para>
-      <para>
-        <num>(v)</num>
-        <text>How long?  <u>___</u></text>
-      </para>
-      <para>
-        <num>(w)</num>
-        <text>Kind of work <u>___</u></text>
-      </para>
-      <para>
-        <num>(x)</num>
-        <text>Previous employment and dates:  <u>___</u></text>
-      </para>
-      <para>
-        <num>(y)</num>
-        <text>Have you ever been  convicted of  an  offense (include  motor vehicle violations) within tribal jurisdiction since the conviction for which  you are requesting a pardon? Yes <u>__</u>No  <u>__</u></text>
-      </para>
-      <para>
-        <num>(z)</num>
-        <text>If the answer to question 25 is yes, please provide details (attach a separate</text>
-        <text>sheet if  more  space is  needed.</text>
-      </para>
-      <para>
-        <num>(aa)</num>
-        <text>Have you ever been arrested by federal authorities or by any other tribal authority other than Turtle Mountain authorities? Yes_  No <u>__</u></text>
-      </para>
-      <para>
-        <num>(bb)</num>
-        <text>If answer to question 27 is yes, please list each arrest giving the date and disposition of the case  (attach a separate  sheet if necessary</text>
-      </para>
-      <para>
-        <num>(cc)</num>
-        <text>Do you have a specific and compelling need for a pardon? Yes</text>
-      </para>
-      <para>
-        <num>(dd)</num>
-        <text>What is the need? (be specific)___</text>
-      </para>
-      <para>
-        <num>(ee)</num>
-        <text>Applicants must demonstrate a substantial period of good citizenship and an exemplary life since conviction. Please indicate examples of constructive conduct and specific achievements if any (attach a separate sheet          if          more          space          is needed):___</text>
-      </para>
-      <para>
-        <num>(ff)</num>
-        <text>How will a pardon substantially aid you in improving your life (attach a separate sheet if  more  space is  needed)</text>
-      </para>
-      <para>
-        <num>(gg)</num>
-        <text>How will a pardon benefit society?___</text>
-        <text>__</text>
-        <text>REFERENCES:</text>
-      </para>
-      <para>
-        <num>(hh)</num>
-        <text>Please provide three (3) letters of reference from persons other than you or members of your family, attesting to your good character and  reputation.  Please list the names of individuals below:</text>
-        <text>Name/Relationship Address Phone No.</text>
         <para>
-          <num>(1)</num>
-          <text>
-            <u>___</u>
-          </text>
+          <num>(j)</num>
+          <text>What is the crime, date of conviction and sentence of the crime for which you are requesting a pardon?_________________</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Please describe the circumstances of each offense and conviction for which</text>
+          <text>a pardon is sought (attach a separate sheet if more space is needed):____</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Have you requested a pardon before?   If yes, when?  <u>__</u></text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Why are you requesting this pardon:      Employment      Entry into  service        other (explain)  <u>__</u></text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Please briefly describe the reasons for this pardon request. A lengthier explanation    with    supporting     documentation     may     be  attached:___</text>
+        </para>
+        <text>EDUCATION AND TRAINING</text>
+        <para>
+          <num>(o)</num>
+          <text>Highest Grade Completed: <u>__</u></text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Name of School:  <u>___</u></text>
+          <text>MILITARY SERVICE</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Branch of Service:  <u>___</u></text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Service No.   Type of discharge:  <u>___</u></text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Dates of active duty: <u>___________</u>to  <u>___________</u></text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>Present place of employment: <u>___</u></text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>Address and telephone number: <u>___</u></text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>How long?  <u>___</u></text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text>Kind of work <u>___</u></text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>Previous employment and dates:  <u>___</u></text>
+        </para>
+        <para>
+          <num>(y)</num>
+          <text>Have you ever been  convicted of  an  offense (include  motor vehicle violations) within tribal jurisdiction since the conviction for which  you are requesting a pardon? Yes <u>__</u>No  <u>__</u></text>
+        </para>
+        <para>
+          <num>(z)</num>
+          <text>If the answer to question 25 is yes, please provide details (attach a separate</text>
+          <text>sheet if  more  space is  needed.</text>
+        </para>
+        <para>
+          <num>(aa)</num>
+          <text>Have you ever been arrested by federal authorities or by any other tribal authority other than Turtle Mountain authorities? Yes_  No <u>__</u></text>
+        </para>
+        <para>
+          <num>(bb)</num>
+          <text>If answer to question 27 is yes, please list each arrest giving the date and disposition of the case  (attach a separate  sheet if necessary</text>
+        </para>
+        <para>
+          <num>(cc)</num>
+          <text>Do you have a specific and compelling need for a pardon? Yes</text>
+        </para>
+        <para>
+          <num>(dd)</num>
+          <text>What is the need? (be specific)___</text>
+        </para>
+        <para>
+          <num>(ee)</num>
+          <text>Applicants must demonstrate a substantial period of good citizenship and an exemplary life since conviction. Please indicate examples of constructive conduct and specific achievements if any (attach a separate sheet          if          more          space          is needed):___</text>
+        </para>
+        <para>
+          <num>(ff)</num>
+          <text>How will a pardon substantially aid you in improving your life (attach a separate sheet if  more  space is  needed)</text>
+        </para>
+        <para>
+          <num>(gg)</num>
+          <text>How will a pardon benefit society?___</text>
+          <text>__</text>
+          <text>REFERENCES:</text>
+        </para>
+        <para>
+          <num>(hh)</num>
+          <text>Please provide three (3) letters of reference from persons other than you or members of your family, attesting to your good character and  reputation.  Please list the names of individuals below:</text>
+          <text>Name/Relationship Address Phone No.</text>
+          <text>1.<u>___</u></text>
           <text>2.<u>____</u></text>
           <text>3.<u>____</u></text>
           <text>Upon granting of a pardon, it is the recipients responsibility to provide  this information to Tribal Court and Law Enforcement for processing of expungement.</text>
@@ -1865,9 +1874,9 @@
           <text>Notary Public in and for the State of</text>
           <text>My commission expires:_____</text>
         </para>
-      </para>
-      <annotation type="Prior Codifications">§26.07.090 was formerly codified as 26.0709</annotation>
-    </section>
+        <annotation type="Prior Codifications">§26.07.090 was formerly codified as 26.0709</annotation>
+      </section>
+    </container>
   </container>
   <container>
     <num>26.08</num>
