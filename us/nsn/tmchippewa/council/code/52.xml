@@ -20,7 +20,7 @@
     <section>
       <num>52.01.020</num>
       <heading>Authority</heading>
-      <text>Article IX, Sections (a) (2-6) of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite> ("Constitution") grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|2">Article IX, Sections (a) (2-6)</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite> ("Constitution") grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
@@ -272,7 +272,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>"Constitution" means the Constitution of the Tribe.</text>
+        <text>"Constitution" means the <cite doc="Turtle Mountain Constitution and By-laws">Constitution of the Tribe</cite>.</text>
       </para>
       <para>
         <num>(d)</num>

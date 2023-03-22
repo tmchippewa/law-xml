@@ -10,7 +10,7 @@
     <section>
       <num>2.01.010</num>
       <heading>Tribal Court</heading>
-      <text>The Turtle Mountain Tribal Court is created and exists by virtue of Article IX, Section 5, under (a), of the Turtle Mountain <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite> and other Tribal organizational documents.</text>
+      <text>The Turtle Mountain Tribal Court is created and exists by virtue of <cite doc="Turtle Mountain Constitution and By-laws" path="IX|5|(a)">Article IX, Section 5, under (a), of the Turtle Mountain Tribal Constitution</cite> and other Tribal organizational documents.</text>
       <annotation type="Prior Codifications">§2.01.010 was formerly codified as 2.0101</annotation>
     </section>
     <section>
@@ -353,7 +353,7 @@
         <text>Attorney herein means state licensed attorney or advocate.</text>
         <para>
           <num>(3)</num>
-          <text>An appearance or answer by an attorney who is not admitted under <cite path="2">this title</cite> and licensed properly as set forth by the Constitution. When an attorney is not licensed, the opposing party shall be entitled to dismissal or default upon a party's motion or complaint and is not entitled to notice of default hearing.</text>
+          <text>An appearance or answer by an attorney who is not admitted under <cite path="2">this title</cite> and licensed properly as set forth by the <cite doc="Turtle Mountain Constitution and By-laws">Constitution</cite>. When an attorney is not licensed, the opposing party shall be entitled to dismissal or default upon a party's motion or complaint and is not entitled to notice of default hearing.</text>
         </para>
       </para>
       <para>

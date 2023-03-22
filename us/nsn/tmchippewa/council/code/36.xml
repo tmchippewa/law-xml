@@ -10,7 +10,7 @@
     <section>
       <num>36.01.010</num>
       <heading>Authority</heading>
-      <text><cite doc="Turtle Mountain Constitution and By-laws">Article IX, Section (a) of the Turtle Mountain Band of Chippewa Constitution</cite> grants the "legislature the power to govern the conduct of the members of the band and Indians from other tribes on the reservation providing for the maintenance of law and order and the administration of justice". The jurisdiction in this matter will include territory and membership found in Article II and III. TMBCI <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite>-October, 2015.</text>
+      <text><cite doc="Turtle Mountain Constitution and By-laws">Article IX, Section (a) of the Turtle Mountain Band of Chippewa Constitution</cite> grants the "legislature the power to govern the conduct of the members of the band and Indians from other tribes on the reservation providing for the maintenance of law and order and the administration of justice". The jurisdiction in this matter will include territory and membership found in <cite doc="Turtle Mountain Constitution and By-laws" path="II">Article II</cite> and <cite doc="Turtle Mountain Constitution and By-laws" path="III">III</cite>. TMBCI <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite>-October, 2015.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1360-10-20"/>
       </annotations>
@@ -120,7 +120,7 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>"<strong>RESIDENT</strong>" means any Elderly person who lives within the jurisdiction of the Turtle Mountain Band of Chippewa, pursuant to jurisdiction as defined within Articles II and III of the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite>.</text>
+        <text>"<strong>RESIDENT</strong>" means any Elderly person who lives within the jurisdiction of the Turtle Mountain Band of Chippewa, pursuant to jurisdiction as defined within <cite doc="Turtle Mountain Constitution and By-laws" path="II">Articles II</cite> and <cite doc="Turtle Mountain Constitution and By-laws" path="III">III</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite>.</text>
       </para>
       <para>
         <num>(p)</num>
