@@ -1515,6 +1515,7 @@
     <container>
       <num>C</num>
       <heading>Pardon</heading>
+      <prefix>Part</prefix>
       <section>
         <num>26.07.070</num>
         <heading>Standards for Pardon Board</heading>
