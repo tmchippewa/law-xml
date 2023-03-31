@@ -350,7 +350,7 @@
           <num>(2)</num>
           <text>A natural person may appear pro se (represent himself or herself), but all other entities must appear by a licensed attorney.</text>
         </para>
-        <text>Attorney herein means state licensed attorney or advocate.</text>
+        <aftertext>Attorney herein means state licensed attorney or advocate.</aftertext>
         <para>
           <num>(3)</num>
           <text>An appearance or answer by an attorney who is not admitted under <cite path="2">this title</cite> and licensed properly as set forth by the <cite doc="Turtle Mountain Constitution and By-laws">Constitution</cite>. When an attorney is not licensed, the opposing party shall be entitled to dismissal or default upon a party's motion or complaint and is not entitled to notice of default hearing.</text>
@@ -1167,7 +1167,7 @@
     <section>
       <num>2.09.170</num>
       <heading>Jury's Failure to Agree</heading>
-      <text>Whenever the judge shall be satisfied that the jury cannot agree on a verdict after due deliberation, he may discharge them and continue the case and if either party so demands, another jury must be selected as provided in <cite path="2|2.09">this chapter</cite>.</text>
+      <text>Whenever the judge shall be satisfied that the jury cannot agree on a verdict after due deliberation, he may discharge them and continue the case and if either party so demands, another jury must be selected as provided in <cite path="2.09">this chapter</cite>.</text>
       <text>The case shall be continued to such time as the Court thinks reasonable unless the parties or their attorneys agree on a longer or shorter time or unless they agree that the judge may render a decision on the evidence already before him.</text>
       <annotation type="Prior Codifications">§2.09.170 was formerly codified as 2.0917</annotation>
     </section>
@@ -1367,7 +1367,7 @@
     <section>
       <num>2.13.010</num>
       <heading>Tribal Court of Appeals</heading>
-      <text>The Tribal Court of Appeals is created by the adoption of <cite path="2|2.13">this chapter</cite> in the Tribal Code.</text>
+      <text>The Tribal Court of Appeals is created by the adoption of <cite path="2.13">this chapter</cite> in the Tribal Code.</text>
       <annotation type="Prior Codifications">§2.13.010 was formerly codified as 2.1301</annotation>
     </section>
     <section>
@@ -1481,7 +1481,7 @@
         <num>(f)</num>
         <text>Reasoning of the case.</text>
       </para>
-      <text>The Clerk of the Court of Appeals shall have a copy of this memorandum entered on the docket of the Tribal Court.</text>
+      <aftertext>The Clerk of the Court of Appeals shall have a copy of this memorandum entered on the docket of the Tribal Court.</aftertext>
       <annotation type="Prior Codifications">§2.13.110 was formerly codified as 2.1311</annotation>
     </section>
   </container>

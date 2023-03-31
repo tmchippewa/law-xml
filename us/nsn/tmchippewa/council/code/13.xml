@@ -187,7 +187,7 @@
       <text>It shall be the responsibility of the Election Board to:</text>
       <para>
         <num>(a)</num>
-        <text>Receive and review all notices of intent and determine whether the candidate is qualified for office according to qualifications listed in <cite path="13|13.07">Chapter 13.07</cite> and determine that such notice is filed by the posted deadline;</text>
+        <text>Receive and review all notices of intent and determine whether the candidate is qualified for office according to qualifications listed in <cite path="13.07">Chapter 13.07</cite> and determine that such notice is filed by the posted deadline;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -215,11 +215,11 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Make arrangements for the polling places, obtain all materials such as ballots, pencils, ballot boxes and establish such records as are required by <cite path="13|13.05">this chapter</cite>;</text>
+        <text>Make arrangements for the polling places, obtain all materials such as ballots, pencils, ballot boxes and establish such records as are required by <cite path="13.05">this chapter</cite>;</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Distribute absentee ballots as provided in <cite path="13|13.09">Chapter 13.09</cite> of <cite path="13">this title</cite>;</text>
+        <text>Distribute absentee ballots as provided in <cite path="13.09">Chapter 13.09</cite> of <cite path="13">this title</cite>;</text>
       </para>
       <para>
         <num>(h)</num>
@@ -245,7 +245,7 @@
       <text>It shall be the duty of the Election Board during hours the polls are open to:</text>
       <para>
         <num>(a)</num>
-        <text>Determine the eligibility of voters in accordance with <cite path="13|13.03">Chapter 13.03</cite> of <cite path="13">this title</cite>; and</text>
+        <text>Determine the eligibility of voters in accordance with <cite path="13.03">Chapter 13.03</cite> of <cite path="13">this title</cite>; and</text>
       </para>
       <para>
         <num>(b)</num>
@@ -409,7 +409,7 @@
     <section>
       <num>13.05.080</num>
       <heading>Conduct of Election Officials</heading>
-      <text>Members of the Election Board and their appointees shall be responsible for the conduct of elections in Rolette County for the Turtle Mountain Band of Chippewa Indians and shall conduct themselves in a lawful manner befitting the status of their office. An election official must be present at the polls at all times during the election. In addition, election officials shall not express any preference for any candidate during the execution of their statutory duties. Any election official who fails to perform the duties prescribed in <cite path="13|13.05">this chapter</cite> shall be subject to immediate removal by the Tribal Council.</text>
+      <text>Members of the Election Board and their appointees shall be responsible for the conduct of elections in Rolette County for the Turtle Mountain Band of Chippewa Indians and shall conduct themselves in a lawful manner befitting the status of their office. An election official must be present at the polls at all times during the election. In addition, election officials shall not express any preference for any candidate during the execution of their statutory duties. Any election official who fails to perform the duties prescribed in <cite path="13.05">this chapter</cite> shall be subject to immediate removal by the Tribal Council.</text>
       <annotation type="Prior Codifications">§13.05.080 was formerly codified as 13.0508</annotation>
     </section>
     <section>
@@ -800,7 +800,7 @@
       <heading>Voter Disability</heading>
       <para>
         <num>(a)</num>
-        <text>Any voter who declares to the judges of the election that he or she cannot read the English language, or because of blindness or other disability is unable to mark his or her ballot, may upon request, receive the assistance of any person of the voter's choice and one election judge, in marking the voter's ballot. If the voter requests the assistance of a member of the Election Board, however, the voter shall receive the assistance of both election judges in the marking of the voter's ballot. No one assisting any voter in marking a ballot under <cite path="13|13.10">this chapter</cite> may provide any information regarding the marked ballot to any other person.</text>
+        <text>Any voter who declares to the judges of the election that he or she cannot read the English language, or because of blindness or other disability is unable to mark his or her ballot, may upon request, receive the assistance of any person of the voter's choice and one election judge, in marking the voter's ballot. If the voter requests the assistance of a member of the Election Board, however, the voter shall receive the assistance of both election judges in the marking of the voter's ballot. No one assisting any voter in marking a ballot under <cite path="13.10">this chapter</cite> may provide any information regarding the marked ballot to any other person.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -934,22 +934,22 @@
           <text class="center">
             <u>REFERENDUM PETITION</u>
           </text>
+          <text>We, the undersigned members of the Turtle Mountain Band of Chippewa Indians do hereby demand that the Turtle Mountain Chippewa Tribal Council, pursuant to <cite doc="Turtle Mountain Constitution and By-laws" path="VIII|1">Article VIII Section 1, of the Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians</cite> of North Dakota, call a referendum election for the purposes of referring to a vote of the eligible voters of the Turtle Mountain Band of Chippewa Indians resolution or ordinance number [specify Resolution or Ordinance and number] passed or proposed by the Tribal Council on [Date], which was passed or proposed for the purpose of: [indicate purpose of resolution or ordinance].</text>
+          <text>
+            <u>Instructions to signers:</u>
+          </text>
+          <text>Signers of this petition must individually sign their names in the form in which they are registered to vote.</text>
+          <text>
+            <u>Instructions to circulators:</u>
+          </text>
+          <text>Before the petition is filed, each circulator must ensure the petition includes: the district of the voter, the residence address and date of birth of the signer (if the signer does not have a designated street address, a post office box must be included), the date of signing, and must legibly print the name of the signer in the space provided. Abbreviations of common usage may be used. Ditto marks may not be used.</text>
+          <text>Failure to provide all information requested may invalidate the signature.</text>
+          <text>_________________________________________________________________________</text>
+          <text>(Signature)    (Address)    (Date)</text>
+          <text>_________________________________________________________________________</text>
+          <text>Print Name City or Town District Date of Birth</text>
+          <text>Upon passage of such a resolution or notification of the Bureau of Indian Affairs Enrollment Officer under §13.1205 of <cite path="13">this title</cite>, the Tribal Council shall call for a referendum election. The Election Board shall hold the election within thirty (30) days.</text>
         </para>
-        <text>We, the undersigned members of the Turtle Mountain Band of Chippewa Indians do hereby demand that the Turtle Mountain Chippewa Tribal Council, pursuant to <cite doc="Turtle Mountain Constitution and By-laws" path="VIII|1">Article VIII Section 1, of the Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians</cite> of North Dakota, call a referendum election for the purposes of referring to a vote of the eligible voters of the Turtle Mountain Band of Chippewa Indians resolution or ordinance number [specify Resolution or Ordinance and number] passed or proposed by the Tribal Council on [Date], which was passed or proposed for the purpose of: [indicate purpose of resolution or ordinance].</text>
-        <text>
-          <u>Instructions to signers:</u>
-        </text>
-        <text>Signers of this petition must individually sign their names in the form in which they are registered to vote.</text>
-        <text>
-          <u>Instructions to circulators:</u>
-        </text>
-        <text>Before the petition is filed, each circulator must ensure the petition includes: the district of the voter, the residence address and date of birth of the signer (if the signer does not have a designated street address, a post office box must be included), the date of signing, and must legibly print the name of the signer in the space provided. Abbreviations of common usage may be used. Ditto marks may not be used.</text>
-        <text>Failure to provide all information requested may invalidate the signature.</text>
-        <text>_________________________________________________________________________</text>
-        <text>(Signature)    (Address)    (Date)</text>
-        <text>_________________________________________________________________________</text>
-        <text>Print Name City or Town District Date of Birth</text>
-        <text>Upon passage of such a resolution or notification of the Bureau of Indian Affairs Enrollment Officer under §13.1205 of <cite path="13">this title</cite>, the Tribal Council shall call for a referendum election. The Election Board shall hold the election within thirty (30) days.</text>
       </para>
       <para>
         <num>(c)</num>
