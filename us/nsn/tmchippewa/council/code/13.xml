@@ -382,7 +382,7 @@
     </section>
     <section>
       <num>13.05.070</num>
-      <heading>Duties of Election Clerk(S)</heading>
+      <heading>Duties of Election Clerk(s)</heading>
       <text>The Election Clerk(s) shall:</text>
       <para>
         <num>(a)</num>
@@ -1097,10 +1097,10 @@
         <text>[insert text of current constitutional provision at issue] By a petition received by the Tribal Council and validated by the Bureau of Indian Affairs it has been proposed that [Article Section ___] be amended to read as follows:</text>
         <text>[insert proposed amended text]</text>
         <text>_______ Yes A "YES" vote is <u>"IN FAVOR"</u> of amending</text>
+        <text>Article _______Section _______.</text>
+        <text>_______ No A "NO" vote is <u>"AGAINST"</u> amending</text>
+        <text>Article _______Section _______.</text>
       </para>
-      <text>Article _______Section _______.</text>
-      <text>_______ No A "NO" vote is <u>"AGAINST"</u> amending</text>
-      <text>Article _______Section _______.</text>
       <annotation type="Prior Codifications">§13.12.070 was formerly codified as 13.1207</annotation>
     </section>
     <section>

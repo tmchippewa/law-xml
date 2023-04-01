@@ -1395,7 +1395,7 @@
     </section>
     <section>
       <num>26.06.060</num>
-      <heading>Deviation of Guideline Sentence(S)</heading>
+      <heading>Deviation of Guideline Sentence(s)</heading>
       <text>Any deviation from <cite path="§26.01.010">Section 26.01.010</cite> standard sentencing guidelines imposed by a Tribal Court Judge(s) under <cite path="26.06">this chapter</cite> must be accompanied with a written statement explaining the legal reasoning for the deviation from standard sentencing. The Tribal Court Judge(s) shall forward the statement to the Turtle Mountain Law Enforcement, Prosecutor's Office, Public Defender's Office, Probation Office and Victims of Crime Assistance Office when a domestic, sexual, or violent crime has been charged to become a part of the record of the case.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
@@ -1762,8 +1762,7 @@
         </para>
         <para>
           <num>(k)</num>
-          <text>Please describe the circumstances of each offense and conviction for which</text>
-          <text>a pardon is sought (attach a separate sheet if more space is needed):____</text>
+          <text>Please describe the circumstances of each offense and conviction for which a pardon is sought (attach a separate sheet if more space is needed):____</text>
         </para>
         <para>
           <num>(l)</num>
@@ -1777,7 +1776,7 @@
           <num>(n)</num>
           <text>Please briefly describe the reasons for this pardon request. A lengthier explanation with supporting documentation may be attached:___</text>
         </para>
-        <text>EDUCATION AND TRAINING</text>
+        <aftertext>EDUCATION AND TRAINING</aftertext>
         <para>
           <num>(o)</num>
           <text>Highest Grade Completed: <u>__</u></text>
@@ -1825,8 +1824,7 @@
         </para>
         <para>
           <num>(z)</num>
-          <text>If the answer to question 25 is yes, please provide details (attach a separate</text>
-          <text>sheet if more space is needed.</text>
+          <text>If the answer to question 25 is yes, please provide details (attach a separate sheet if more space is needed.)</text>
         </para>
         <para>
           <num>(aa)</num>
@@ -1856,8 +1854,8 @@
           <num>(gg)</num>
           <text>How will a pardon benefit society?___</text>
           <text>__</text>
-          <text>REFERENCES:</text>
         </para>
+        <aftertext>REFERENCES:</aftertext>
         <para>
           <num>(hh)</num>
           <text>Please provide three (3) letters of reference from persons other than you or members of your family, attesting to your good character and reputation.  Please list the names of individuals below:</text>
@@ -1865,16 +1863,16 @@
           <text>1.<u>___</u></text>
           <text>2.<u>____</u></text>
           <text>3.<u>____</u></text>
-          <text>Upon granting of a pardon, it is the recipients responsibility to provide this information to Tribal Court and Law Enforcement for processing of expungement.</text>
-          <text>By virtue of request for pardon, applicant may be subject to the following: Drug testing and ongoing follow-up or future assessments.</text>
-          <text>I hereby authorize release of my criminal records to the Chairman or the Chairman's representative.</text>
-          <text>________________</text>
-          <text>Pardon applicant</text>
-          <text>Notice:  By submitting this application, you are consenting to public release of your name should a pardon be issued by the Chairman.</text>
-          <text>Subscribed and Sworn to before me this day of , 20<u>__</u></text>
-          <text>Notary Public in and for the State of</text>
-          <text>My commission expires:_____</text>
         </para>
+        <aftertext>Upon granting of a pardon, it is the recipients responsibility to provide this information to Tribal Court and Law Enforcement for processing of expungement.</aftertext>
+        <aftertext>By virtue of request for pardon, applicant may be subject to the following: Drug testing and ongoing follow-up or future assessments.</aftertext>
+        <aftertext>I hereby authorize release of my criminal records to the Chairman or the Chairman's representative.</aftertext>
+        <aftertext>________________</aftertext>
+        <aftertext>Pardon applicant</aftertext>
+        <aftertext>Notice:  By submitting this application, you are consenting to public release of your name should a pardon be issued by the Chairman.</aftertext>
+        <aftertext>Subscribed and Sworn to before me this day of , 20<u>__</u></aftertext>
+        <aftertext>Notary Public in and for the State of</aftertext>
+        <aftertext>My commission expires:_____</aftertext>
         <annotation type="Prior Codifications">§26.07.090 was formerly codified as 26.0709</annotation>
       </section>
     </container>
@@ -2307,7 +2305,7 @@
     </section>
     <section>
       <num>26.11.060</num>
-      <heading>Warrant to Seize the Animal(S)</heading>
+      <heading>Warrant to Seize the Animal(s)</heading>
       <para>
         <num>(a)</num>
         <text>On a showing of probable cause to the Tribal Court to believe that the animal has been or is being cruelly treated, the court shall issue the warrant, forthwith, and set a time within [10] ten days of the date of issuance of the warrant for a show cause hearing to determine whether the animal has been cruelly treated.</text>
@@ -2323,7 +2321,7 @@
     </section>
     <section>
       <num>26.11.070</num>
-      <heading>Order of Sale or Return of Animal(S)</heading>
+      <heading>Order of Sale or Return of Animal(s)</heading>
       <para>
         <num>(a)</num>
         <text>Each interested party is entitled to an opportunity to present evidence at the hearing.</text>
@@ -2511,7 +2509,7 @@
     </section>
     <section>
       <num>26.11.160</num>
-      <heading>Spreading Sexually Transmitted Disease(S)</heading>
+      <heading>Spreading Sexually Transmitted Disease(s)</heading>
       <para>
         <num>(a)</num>
         <text>It shall be unlawful and a Class [4] four offense to infect another person with a sexually transmitted disease, if one knows and makes a conscious intent to transmit the disease.</text>
@@ -2923,7 +2921,7 @@
     </section>
     <section>
       <num>26.11.360</num>
-      <heading>Assault on Judge(S), Law Enforcement, Advocates and Court Personnel</heading>
+      <heading>Assault on Judge(s), Law Enforcement, Advocates and Court Personnel</heading>
       <para>
         <num>(a)</num>
         <text>Any person who shall commit an assault, threatens to commit bodily injury, exhibits threatening behavior, knowingly puts a person in fear of bodily injury on a judge, law enforcement officer, probation/parole officer or advocate while the official is performing or attempting to perform his/her</text>
@@ -3372,7 +3370,7 @@
     </section>
     <section>
       <num>26.12.040</num>
-      <heading>Givinq Sexually Transmitted Disease to Another</heading>
+      <heading>Giving Sexually Transmitted Disease to Another</heading>
       <para>
         <num>(a)</num>
         <text>Any person who knows or has reason to believe he/she is infected with a sexually transmitted disease and infects another person with such a disease shall be guilty of a Class [2] two offense.</text>
@@ -3694,7 +3692,7 @@
         <num>(b)</num>
         <text>Use a minor to trick, lure, coerce, promote, recruit, transport, harbor or entice another minor for the purpose of causing the minor to engage in sexual acts or sexual conduct.</text>
       </para>
-      <text>Any person who violates <cite path="§26.12.200">this section</cite> shall be guilty of a Class [5] five offense.</text>
+      <aftertext>Any person who violates <cite path="§26.12.200">this section</cite> shall be guilty of a Class [5] five offense.</aftertext>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 686-01-12"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
@@ -3729,7 +3727,7 @@
           <num>(1)</num>
           <text>the exchange of sexually explicit text messages, including photographs, via cell phone.</text>
         </para>
-        <text>Any person who violates <cite path="§26.12.220">this section</cite> shall be guilty of a Class [4] four offense.</text>
+        <aftertext>Any person who violates <cite path="§26.12.220">this section</cite> shall be guilty of a Class [4] four offense.</aftertext>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 686-01-12"/>
@@ -3755,7 +3753,7 @@
           <num>(3)</num>
           <text>Forcing, threatening , intimidating, entices or coercing a child or juvenile to engage in oral sex.</text>
         </para>
-        <text>Any person who violates <cite path="§26.12.230">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any person who violates <cite path="§26.12.230">this section</cite> shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(b)</num>
@@ -3934,7 +3932,7 @@
           <num>(3)</num>
           <text>Which distribution, offer, sending or provision is accomplished using the mail or by transmitted or causing to be transmitted a wire communication in interstate or foreign commerce, including by computer for purposes of inducing or persuading a minor to participate in any activity that is illegal.</text>
         </para>
-        <text>Any violation under <cite path="§26.12.280">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any violation under <cite path="§26.12.280">this section</cite> shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 686-01-12"/>
@@ -3980,7 +3978,7 @@
           <num>(3)</num>
           <text>Lacks serious literary, artistic, political, or scientific value for minors. [U.S.C. 2252B]</text>
         </para>
-        <text>Any violation under <cite path="§26.12.310">this section</cite> shall be guilty of a Class [3] three offense.</text>
+        <aftertext>Any violation under <cite path="§26.12.310">this section</cite> shall be guilty of a Class [3] three offense.</aftertext>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 686-01-12"/>
@@ -4439,7 +4437,7 @@
         <num>(e)</num>
         <text>Obstructing entrance or exit from a public building or interfering with the normal use of the building by blocking etc.</text>
       </para>
-      <text>Shall be guilty of a Class [2] two offense.</text>
+      <aftertext>Shall be guilty of a Class [2] two offense.</aftertext>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
       </annotations>
@@ -4498,7 +4496,7 @@
     <section>
       <num>26.13.170</num>
       <heading>Restraining Order</heading>
-      <text>Any person who conducts himself or herself in violation of Turtle Mountain Tribal Code Chapter 26 provisions 26.1307 Disorderly Conduct, 26.1311 Threat or Intimidation or <cite path="37">Title 37</cite> Domestic Violence Code shall be subject to a Temporary Restraining Order. Relief may be sought and granted by the Turtle Mountain Tribal Court irrespective of whether or not the person sought to be restrained has been charged and convicted of the previously enumerated offense.  A person who is a victim of any of the previously \identified conduct or the parent or guardian of a minor who is a victim of any of the aforementioned conduct may seek a Restraining Order from the Turtle Mountain Tribal Court in the manner provided in <cite path="§26.13.170">this section</cite>.</text>
+      <text>Any person who conducts himself or herself in violation of Turtle Mountain Tribal Code <cite path="26">Title 26</cite> provisions <cite path="§26.13.120">26.13.120</cite> Disorderly Conduct, <cite path="§26.13.10">26.13.160</cite> Threat or Intimidation or <cite path="37">Title 37</cite> Domestic Violence Code shall be subject to a Temporary Restraining Order. Relief may be sought and granted by the Turtle Mountain Tribal Court irrespective of whether or not the person sought to be restrained has been charged and convicted of the previously enumerated offense.  A person who is a victim of any of the previously identified conduct or the parent or guardian of a minor who is a victim of any of the aforementioned conduct may seek a Restraining Order from the Turtle Mountain Tribal Court in the manner provided in <cite path="§26.13.170">this section</cite>.</text>
       <para>
         <num>(a)</num>
         <text>The petitioner for relief must allege facts sufficient to show the name of the alleged victim, the name of the individual engaging in the threatening intimidating or disorderly conduct, and allegations sufficient to support the claim that the individual engaged in such conduct. An affidavit made under oath stating the specific facts and circumstances supporting the relief sought must accompany the petition. A Temporary Restraining Order may be entered only against the individual named in the petition. The Turtle Mountain Tribal Court may issue the Temporary Restraining Order without giving notice to the respondent. Unless otherwise terminated by the Turtle Mountain Tribal Court, the Temporary Restraining Order shall remain in effect for thirty (30) days or until the Restraining Order is terminated by order of the Turtle Mountain Tribal Court or made permanent upon conclusion of the mandatory hearing.</text>
@@ -4511,7 +4509,7 @@
         <num>(c)</num>
         <text>A restraining order must contain a conspicuous notice to the respondent providing the penalty for violation of the restraining order. The Penalty for violation of a Restraining Order (Temporary or Permanent) is a Class I offense if the Restraining Order is based on violations of <cite path="§26.13.120">Section 26.13.120</cite> or <cite path="37">Title 37</cite> Domestic Violence Code and is a Class 2 Offense if based on a violation of 26.1311 Threat or Intimidation. For second and subsequent violations of the same restraining order, violation based upon <cite path="§26.13.120">Section 26.13.120</cite>, Disorderly Conduct and <cite path="37">Title 37</cite> Domestic Violence, Chapter 3 Criminal and Civil Penalties; other Sanctions is a Class 2 Offense. Second and subsequent violations of a restraining order (Temporary or Permanent) is a Class 3 offense if based upon a violation of 26.1311 Threat or Intimidation.</text>
       </para>
-      <text>The Court is authorized to provide other equitable relief available under the Tribal Code as necessary to accomplish the purpose(s) of the Restraining Order.</text>
+      <aftertext>The Court is authorized to provide other equitable relief available under the Tribal Code as necessary to accomplish the purpose(s) of the Restraining Order.</aftertext>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 284-09-05"/>
       </annotations>
@@ -6330,7 +6328,7 @@
     </section>
     <section>
       <num>26.19.100</num>
-      <heading>Use of Dangerous Weapon(S) by a Juvenile</heading>
+      <heading>Use of Dangerous Weapon(s) by a Juvenile</heading>
       <text>Anyone who is a parent, guardian, or other person having charge or custody of any juvenile under [18] eighteen years of age, and knowingly allows such child to carry or use in public any dangerous weapon as defined in <cite path="§26.01.010">Section 26.01.010</cite>, except when such child is in the company and under the direct control of such parent, guardian, or other adult person authorized by the parent or guardian, is guilty of a Class [3] three offense of use of dangerous weapons by a juvenile.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
@@ -6414,7 +6412,7 @@
     </section>
     <section>
       <num>26.19.150</num>
-      <heading>Confiscation/Forfeiture and Disposal of Deadly Weapon(S)</heading>
+      <heading>Confiscation/Forfeiture and Disposal of Deadly Weapon(s)</heading>
       <text>Upon conviction of any offense involving the use of a deadly weapon, the deadly weapon with reference to which the defendant shall have been convicted, shall be ordered confiscated and disposed of by the presiding judge at the trial in one of the following ways in the discretion of the presiding judge:</text>
       <para>
         <num>(a)</num>

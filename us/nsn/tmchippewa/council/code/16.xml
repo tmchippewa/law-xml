@@ -745,7 +745,7 @@
         <num>(g)</num>
         <text>All single-service articles shall be stored, handled, and dispensed in a sanitary manner, and shall be used only once.</text>
       </para>
-      <text>Food-service establishments which do not have adequate and effective facilities for cleaning and sanitizing utensils shall use single-service articles.</text>
+      <aftertext>Food-service establishments which do not have adequate and effective facilities for cleaning and sanitizing utensils shall use single-service articles.</aftertext>
       <annotation type="Prior Codifications">§16.11.020 was formerly codified as 16.1102</annotation>
     </section>
   </container>

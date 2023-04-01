@@ -3943,7 +3943,7 @@
           <num>(2)</num>
           <text>Is not subject to cancellation, termination, modification, repudiation, excuse, or substitution without the consent of the party to whom the promise runs.</text>
         </para>
-        <text><cite path="§24.12.070">This section</cite> shall not affect the validity under any other law of a covenant in any lease contract making the lessee's promises irrevocable and independent upon the lessee's acceptance of the goods.</text>
+        <aftertext><cite path="§24.12.070">This section</cite> shall not affect the validity under any other law of a covenant in any lease contract making the lessee's promises irrevocable and independent upon the lessee's acceptance of the goods.</aftertext>
       </para>
       <annotation type="Prior Codifications">§24.12.070 was formerly codified as 24.1207</annotation>
     </section>
@@ -14266,8 +14266,8 @@
           <num>(2)</num>
           <text>If known to the recipient, providing the name and mailing address of any assignee of or successor to the recipient's interest in the obligations.</text>
         </para>
-        <text>A debtor is entitled without charge to one response to a request under <cite path="§24.43.100">this section</cite> during any six-month period. The secured party may require payment of a charge not exceeding twenty-five dollars for each additional response</text>
       </para>
+      <aftertext>A debtor is entitled without charge to one response to a request under <cite path="§24.43.100">this section</cite> during any six-month period. The secured party may require payment of a charge not exceeding twenty-five dollars for each additional response</aftertext>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
       </annotations>
@@ -14305,8 +14305,8 @@
           <num>(3)</num>
           <text>The effect of perfection or non-perfection and the priority of a nonpossessory security interest in the collateral.</text>
         </para>
-        <text>The local law of the jurisdiction in which the wellhead or minehead is located governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in as-extracted collateral.</text>
       </para>
+      <aftertext>The local law of the jurisdiction in which the wellhead or minehead is located governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in as-extracted collateral.</aftertext>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
       </annotations>
@@ -14927,8 +14927,8 @@
             <num>(B)</num>
             <text>If the collateral is an uncertificated security, the issuer has registered or registers the debtor as the registered owner; or</text>
           </para>
-          <text>If the collateral is a security entitlement, the debtor is or becomes the entitlement holder</text>
         </para>
+        <aftertext>If the collateral is a security entitlement, the debtor is or becomes the entitlement holder</aftertext>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
