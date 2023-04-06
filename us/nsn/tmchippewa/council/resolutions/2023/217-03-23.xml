@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res. No. 217-03-23">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res. No. 217-03-23" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
   <num>217-03-23</num>
   <heading>Resolution Number TMBC 217-03-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
   <meta>
@@ -51,4 +51,56 @@
     <text>__________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
+  <codify:replace path="|1.06.030">
+    <section>
+      <num>1.06.030</num>
+      <heading>Contents of Complaint; a Complaint Must Contain</heading>
+      <para>
+        <num>(a)</num>
+        <text>the name of the jurisdiction where it is filed;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the names of the person(s), government, or business(es), complained of, if the defendant(s) name is known, and if not, then such name(s) as may be given by the complainant; </text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>a statement signed by the complainant attesting to the facts constituting the offense, in plain and concise language;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>the time and place of the commission of the offense, as near as may be ascertained;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>the general name and statute of the crime or public offense committed;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>the person, government, or business against whom, or against whose property, the offense was committed, if known; and</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>if the offense is against the property of any person, government, or business, a general description of such property.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|1.06.040">
+    <section>
+      <num>1.06.040</num>
+      <heading>Filing of Complaint</heading>
+      <para>
+        <num>(a)</num>
+        <text>The completed complaint must be filed by the Prosecutor with the Clerk of Court who shall mark thereon the date and time of the filing.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A completed complaint filed by a Bureau of Indian Affairs (BIA) or a Turtle Mountain Band of Chippewa Indians (TMBCI)Tribal Law Enforcement Officer with the Prosecutor must be accompanied by an initial report describing the incident and offense(s), unless it is a traffic offense not involving alcohol or drugs.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Prosecutor has a duty to verify that each complaint and report meets the requirements of the Tribal Court, before filing it with the Clerk of Court. </text>
+      </para>
+    </section>
+  </codify:replace>
 </document>
