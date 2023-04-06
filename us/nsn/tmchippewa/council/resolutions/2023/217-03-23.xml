@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Res.No. 217-03-23">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res. No. 217-03-23">
   <num>217-03-23</num>
   <heading>Resolution Number TMBC 217-03-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
   <meta>
     <effective>2023-03-23</effective>
     <citations>
-      <citation type="res" url="./adopted/217-03-23.pdf">Turtle Mountain Band of Chippewa Res.No. 217-03-23</citation>
+      <citation type="res" url="./adopted/217-03-23.pdf">Turtle Mountain Band of Chippewa Indians Res.No. 217-03-23</citation>
     </citations>
     <history>
       <adopted>2023-03-23</adopted>
@@ -30,7 +30,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Tribe, by Resolution No. TMBCI 07-02-23, approved a 30 day public comment period for proposed revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="1">Title 1</cite>, Criminal Procedure Code, and no comments were made; now</text>
+      <text>the Tribe, by Resolution No. TMBC  107-02-23, approved a 30 day public comment period for proposed revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="1">Title 1</cite>, Criminal Procedure Code, and no comments were made; now</text>
     </recital>
     <recital>
       <conjunction>THEREFORE BE IT RESOLVED</conjunction>
@@ -42,8 +42,8 @@
     </recital>
   </recitals>
   <procedural-data>
-    <text>CERTIFICATION</text>
-    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9)</em></strong> members of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>23<sup>rd</sup> day of March, 2023</em></strong> that the foregoing resolution was adopted by affirmative vote of <strong><em>six (6) in favor</em></strong> - Representatives Elmer Davis Jr., Blaine "Slugger" Davis, Craig Lunday, Kenneth Malaterre, Ron Trottier Sr. and Chad Counts; two (2) absent- Representatives Lynn Gourneau and Jon Jon Keplin; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9)</em></strong> members of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>23<sup>rd</sup> day of March, 2023</em></strong> that the foregoing resolution was adopted by affirmative vote of <strong><em>six (6) in favor</em></strong> - Representatives Elmer Davis Jr., Blaine "Slugger" Davis, Craig Lunday, Kenneth Malaterre, Ron Trottier Sr. and Chad Counts; two (2) absent- Representatives Lynn Gourneau and Jon Jon Keplin; none (0) opposed; with the Chairman not voting.</text>
     <text>__________________________</text>
     <text>Jolean A. Morin, Tribal Secretary</text>
     <text>(  ) SIGNED INTO LAW/Dated this ___ day of ___________, 20__</text>
