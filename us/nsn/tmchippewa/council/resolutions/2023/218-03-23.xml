@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res. No. 218-03-23">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res. No. 218-03-23" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
   <num>218-03-23</num>
   <heading>Resolution Number TMBC 218-03-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
   <meta>
@@ -51,4 +51,18 @@
     <text>__________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
+  <codify:replace path="|5.02.130">
+    <section>
+      <num>5.02.130</num>
+      <heading>Transfer to Adult Court</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Court may, at its discretion, allow prosecution of any delinquent juvenile fifteen (15) years or older in accordance with the laws of the Turtle Mountain Jurisdiction governing the commission of crimes within the jurisdiction of the Tribal Court. In such cases, the petition filed under this Code shall be dismissed, and or a criminal complaint shall be filed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An individual at least eighteen years of age who committed either a class 4 or class 5 offense and/or a sexual crime while a child and was not adjudicated for the offense in juvenile court may be prosecuted in adult court as an adult, unless the Tribe intentionally delayed the prosecution to avoid juvenile court jurisdiction.</text>
+      </para>
+    </section>
+  </codify:replace>
 </document>
