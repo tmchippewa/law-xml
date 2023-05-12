@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>26</num>
   <heading>Offenses and Penalties</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.01</num>
     <heading>General Purposes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.01.010</num>
       <heading>The General Purposes</heading>
@@ -55,9 +55,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.02</num>
     <heading>Proof and Presumptions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.02.010</num>
       <heading>An Accused Is Presumed Innocent Until Proven Guilty</heading>
@@ -124,9 +124,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.03</num>
     <heading>General &amp; Sex Crime Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.03.010</num>
       <heading>Definitions</heading>
@@ -961,9 +961,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.04</num>
     <heading>Requirements of Cu1Pabi1Ity</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.04.010</num>
       <heading>Purposes of Engagement</heading>
@@ -1030,9 +1030,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.05</num>
     <heading>Justification, Excuse, Defenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.05.010</num>
       <heading>Ignorance of Law</heading>
@@ -1243,9 +1243,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.06</num>
     <heading>Sentence and Penalties and Classification of Offenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.06.010</num>
       <heading>Classification of Offenses</heading>
@@ -1422,13 +1422,13 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.07</num>
     <heading>Parole, Probation, Pardon Parole</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Part</prefix>
       <num>A</num>
       <heading>Parole</heading>
-      <prefix>Part</prefix>
       <section>
         <num>26.07.010</num>
         <heading>Eligibility of Parole</heading>
@@ -1459,9 +1459,9 @@
       </section>
     </container>
     <container>
+      <prefix>Part</prefix>
       <num>B</num>
       <heading>Probation</heading>
-      <prefix>Part</prefix>
       <section>
         <num>26.07.040</num>
         <heading>Conditions of Probation</heading>
@@ -1513,9 +1513,9 @@
       </section>
     </container>
     <container>
+      <prefix>Part</prefix>
       <num>C</num>
       <heading>Pardon</heading>
-      <prefix>Part</prefix>
       <section>
         <num>26.07.070</num>
         <heading>Standards for Pardon Board</heading>
@@ -1878,9 +1878,9 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.08</num>
     <heading>Prevention of Crime</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.08.010</num>
       <heading>Reserved/Open #</heading>
@@ -1905,9 +1905,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.09</num>
     <heading>Attempt and Accomplice</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.09.010</num>
       <heading>Criminal Attempt</heading>
@@ -1981,9 +1981,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.10</num>
     <heading>Homicide</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.10.010</num>
       <heading>Homicide in the First Degree</heading>
@@ -2138,9 +2138,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.11</num>
     <heading>Offenses Against Turtle Mountain Band of Chippewa Indians or Any Agency, Organization Thereof</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.11.010</num>
       <heading>Criminal Conspiracy</heading>
@@ -3326,9 +3326,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.12</num>
     <heading>Sexual Offenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.12.010</num>
       <heading>General Provision</heading>
@@ -4229,9 +4229,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.13</num>
     <heading>Public Violence</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.13.010</num>
       <heading>Mutual Combat</heading>
@@ -4823,9 +4823,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.14</num>
     <heading>Profitable Crimes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.14.010</num>
       <heading>Bribery</heading>
@@ -5245,9 +5245,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.15</num>
     <heading>Destruction of Public and Private Property</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.15.010</num>
       <heading>Cutting Green Timber Without a Permit</heading>
@@ -5294,9 +5294,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.16</num>
     <heading>Trespassing</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.16.010</num>
       <heading>Forcible Entry or Detainer of Lands, Buildings or Other Possessions</heading>
@@ -5387,9 +5387,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.17</num>
     <heading>Drug and Alcohol Related Crimes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.17.010</num>
       <heading>Unlawful Ingestion of Marijuana</heading>
@@ -5925,9 +5925,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.18</num>
     <heading>Forfeiture Code for Criminal Forfeitures.</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.18.010</num>
       <heading>Seizures and Forfeitures Related to Drugs</heading>
@@ -6129,9 +6129,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.19</num>
     <heading>Weapon Offenses.</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.19.010</num>
       <heading>General Penalty</heading>
@@ -6642,9 +6642,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.20</num>
     <heading>Fires, Regulation and Penalties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.20.010</num>
       <heading>Setting Fires; Unlawful Use of Fire</heading>
@@ -7296,9 +7296,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.21</num>
     <heading>Crimes Against Children</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.21.010</num>
       <heading>Physical Abuse of a Child</heading>

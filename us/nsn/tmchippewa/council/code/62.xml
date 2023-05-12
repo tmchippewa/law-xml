@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>62</num>
   <heading>Turtle Mountain Band Code of Ethics</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>62.01</num>
     <heading>Code of Ethics</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>62.01.010</num>
       <heading>General Provisions</heading>
@@ -21,13 +21,11 @@
     </section>
     <section>
       <num>62.01.030</num>
-      
       <text>It shall be recognized that officials and employees are in positions of trust on behalf of the Tribe and must endeavor to exercise the highest qualities of conduct, integrity and confidence on behalf of the Tribe and its citizenry. Also, it is the individual responsibility of each employee and official to conduct themselves in a polite and courteous manner with respect and consideration for others.</text>
       <annotation type="Prior Codifications">§62.01.030 was formerly codified as 62.0103</annotation>
     </section>
     <section>
       <num>62.01.040</num>
-      
       <text>The standards established herein are not to be considered in lieu of ethical standards imposed by Federal Law, Tribal Law or Personnel Policies and Procedures of the Tribe.</text>
       <annotation type="Prior Codifications">§62.01.040 was formerly codified as 62.0104</annotation>
     </section>
@@ -40,7 +38,6 @@
     </section>
     <section>
       <num>62.01.060</num>
-      
       <text>Every official and employee of the Turtle Mountain Band of Chippewa should endeavor to</text>
       <para>
         <num>(a)</num>

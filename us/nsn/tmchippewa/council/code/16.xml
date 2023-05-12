@@ -1,59 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>16</num>
   <heading>Sanitation</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.01</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.01.010</num>
-      
       <text><strong>"Health Board official"</strong> shall mean the Turtle Mountain Health Board or its authorized representative.</text>
       <annotation type="Prior Codifications">§16.01.010 was formerly codified as 16.0101</annotation>
     </section>
     <section>
       <num>16.01.020</num>
-      
       <text><strong>"Individual sewage disposal system"</strong> shall mean a sewage disposal system, other than a public or community system, which receives either human excreta or liquid waste or both from one (1) premises. Included within the scope of this definition are septic tanks, soil absorption systems, privies and chemical type toilets and such other types as may be prescribed in regulations by the Turtle Mountain Tribal Health Board, and this Code.</text>
       <annotation type="Prior Codifications">§16.01.020 was formerly codified as 16.0102</annotation>
     </section>
     <section>
       <num>16.01.030</num>
-      
       <text><strong>"Refuse disposal system"</strong> shall mean a sanitary landfill refuse disposal system which receives all forms of refuse from one (1) premises, or from the public or community.</text>
       <annotation type="Prior Codifications">§16.01.030 was formerly codified as 16.0103</annotation>
     </section>
     <section>
       <num>16.01.040</num>
-      
       <text><strong>"Refuse"</strong> as used in <cite path="16">this title</cite> is defined to be all manner of kitchen and household garbage and rubbish, all offal including both animal and vegetable matter, metal, plastic, paper and glass food containers from which food has been removed, waste paper, and all other waste matter from homes, stores or places of business of any nature and including rubbish, lumber, concrete, leaves, branches of trees, appliances, machinery, car bodies, ashes which may constitute a menace to public health or create an accident hazard or unsightly conditions.</text>
       <annotation type="Prior Codifications">§16.01.040 was formerly codified as 16.0104</annotation>
     </section>
     <section>
       <num>16.01.050</num>
-      
       <text><strong>"Refuse containers"</strong> shall be made of metal, be water tight, have close-fitting covers, and adequate handles to facilitate collection. Such refuse containers shall be not less than fifteen (15) gallons nor more than thirty (30) gallons in capacity.</text>
       <annotation type="Prior Codifications">§16.01.050 was formerly codified as 16.0105</annotation>
     </section>
     <section>
       <num>16.01.060</num>
-      
       <text><strong>"Permit</strong>" shall mean a written permit issued by the Health Board official permitting construction of an individual sewage disposal system, or a permit issued for the collection, transportation or disposal of refuse within the Turtle Mountain Jurisdiction.</text>
       <annotation type="Prior Codifications">§16.01.060 was formerly codified as 16.0106</annotation>
     </section>
     <section>
       <num>16.01.070</num>
-      
       <text><strong>"Person"</strong> shall mean any Indian as defined by <cite path="§1.03.010|(f)">Section 1.03.010(f)</cite> of the Turtle Mountain Tribal Code.</text>
       <annotation type="Prior Codifications">§16.01.070 was formerly codified as 16.0107</annotation>
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.02</num>
     <heading>Requirements for Sewage Disposal Systems</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.02.010</num>
       <heading>Health Board to Establish Minimum Standards</heading>
@@ -92,9 +85,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.03</num>
     <heading>Permits for Individual Sewage Disposal Systems</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.03.010</num>
       <heading>Construct, Alter or Extending Sewage Systems</heading>
@@ -151,9 +144,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.04</num>
     <heading>Requirements for Waste Disposal Systems</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.04.010</num>
       <heading>Health Board to Promulgate Regulations for Refuse Systems</heading>
@@ -204,9 +197,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.05</num>
     <heading>Inspections</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.05.010</num>
       <heading>Who to Make Inspections</heading>
@@ -221,9 +214,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.06</num>
     <heading>Penalties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.06.010</num>
       <heading>Penalties for Violation of Title 16 of This Code</heading>
@@ -232,9 +225,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.07</num>
     <heading>Food Service Sanitation</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.07.010</num>
       <heading>Purpose</heading>
@@ -243,9 +236,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.08</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.08.010</num>
       <heading>Definitions</heading>
@@ -378,9 +371,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.09</num>
     <heading>Food</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.09.010</num>
       <heading>Food Supplies</heading>
@@ -686,9 +679,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.10</num>
     <heading>Personnel</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.10.010</num>
       <heading>Health and Disease Control</heading>
@@ -703,9 +696,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.11</num>
     <heading>Food Equipment and Utensils</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.11.010</num>
       <heading>Sanitary Design, Construction and Installation of Equipment and Utensils</heading>
@@ -750,9 +743,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.12</num>
     <heading>Sanitary Facilities and Controls</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.12.010</num>
       <heading>Water Supply</heading>
@@ -799,9 +792,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.13</num>
     <heading>Other Facilities and Operations</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.13.010</num>
       <heading>Floors, Walls and Ceilings</heading>
@@ -835,9 +828,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.14</num>
     <heading>Temporary Food Service Establishments</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.14.010</num>
       <heading>Compliance</heading>
@@ -846,9 +839,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.15</num>
     <heading>Enforcement Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.15.010</num>
       <heading>Permit</heading>
@@ -1003,9 +996,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.16</num>
     <heading>Penalties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.16.010</num>
       <heading>Penalties for Violations</heading>
@@ -1020,9 +1013,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.17</num>
     <heading>Turtle Mountain Health Board</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.17.010</num>
       <heading>Name</heading>
@@ -1094,9 +1087,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.18</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.18.010</num>
       <heading>Definitions</heading>
@@ -1128,9 +1121,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.19</num>
     <heading>Composition of the Board</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.19.010</num>
       <heading>Composition of the Board</heading>
@@ -1145,9 +1138,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.20</num>
     <heading>Membership</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.20.010</num>
       <heading>Membership</heading>
@@ -1218,9 +1211,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.21</num>
     <heading>Meetings</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.21.010</num>
       <heading>Regular Meetings</heading>
@@ -1265,9 +1258,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.22</num>
     <heading>Officers</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.22.010</num>
       <heading>Election of Officers</heading>
@@ -1318,9 +1311,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.23</num>
     <heading>Special Committees</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.23.010</num>
       <heading>Special Committees</heading>
@@ -1329,9 +1322,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.24</num>
     <heading>Fiscal Year</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.24.010</num>
       <heading>Fiscal Year</heading>
@@ -1340,9 +1333,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.25</num>
     <heading>Per Diem and Travel</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.25.010</num>
       <heading>Per Diem and Travel</heading>
@@ -1351,9 +1344,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.26</num>
     <heading>Finance</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.26.010</num>
       <heading>Qperation from Funds Raised or Donated</heading>
@@ -1374,9 +1367,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>16.27</num>
     <heading>Advisory Committee</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>16.27.010</num>
       <heading>Advisory Committee</heading>

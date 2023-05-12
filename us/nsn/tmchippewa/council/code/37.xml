@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>37</num>
   <heading>Domestic Violence</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.01</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.01.010</num>
       <heading>Policy and Purpose</heading>
@@ -214,9 +214,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.02</num>
     <heading>Domestic Violence Crimes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.02.010</num>
       <heading>Crimes Involving "Domestic Violence."</heading>
@@ -478,9 +478,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.03</num>
     <heading>Criminal and Civil Penalties; Other Sanctions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.03.010</num>
       <heading>Criminal Penalties</heading>
@@ -807,9 +807,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.04</num>
     <heading>Duties of Tribal Officials</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.04.010</num>
       <heading>Duties of Police Officers</heading>
@@ -1080,9 +1080,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.05</num>
     <heading>Civil Protection Orders</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.05.010</num>
       <heading>Jurisdiction for Civil Protection Orders</heading>
@@ -1423,9 +1423,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.06</num>
     <heading>Domestic Violence Leave Act</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.06.010</num>
       <heading>Policy and Purpose</heading>
