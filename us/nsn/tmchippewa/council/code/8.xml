@@ -11,31 +11,41 @@
       <num>8.01.010</num>
       <heading>Measure; General Rule</heading>
       <text>For any injury to person or property, the measure of damages, except where otherwise expressly provided by this Code, is the amount which will compensate for all detriment proximately caused thereby, whether it could have been anticipated or not.</text>
-      <annotation type="Prior Codifications">§8.01.010 was formerly codified as 8.0101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.010 was formerly codified as 8.0101</annotation>
+      </annotations>
     </section>
     <section>
       <num>8.01.020</num>
       <heading>Exemplary (Punitive) Damages</heading>
       <text>In any action for injury to person or property, where the defendant has been guilty of oppression, fraud, malice, actual or presumed, or in any case of wrongful injury to animals committed intentionally or by willful and wanton misconduct, the jury, in addition to the actual damage, may give damages for the sake of example and by way of punishing the defendant.</text>
-      <annotation type="Prior Codifications">§8.01.020 was formerly codified as 8.0102</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.020 was formerly codified as 8.0102</annotation>
+      </annotations>
     </section>
     <section>
       <num>8.01.030</num>
       <heading>Assault</heading>
       <text>The damages recoverable for assault are those for the plaintiff's mental or physical injury, or both. The establishment of the cause of action, without proof of harm, entitles the plaintiff to recover at least nominal damages.</text>
-      <annotation type="Prior Codifications">§8.01.030 was formerly codified as 8.0103</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.030 was formerly codified as 8.0103</annotation>
+      </annotations>
     </section>
     <section>
       <num>8.01.040</num>
       <heading>Battery</heading>
       <text>Proof of contact with the plaintiff's person entitles him to recover at least nominal damages. The establishment of this cause of action entitles him also to compensation for the mental disturbance inflicted upon him as well as for any physical harm that may arise.</text>
-      <annotation type="Prior Codifications">§8.01.040 was formerly codified as 8.0104</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.040 was formerly codified as 8.0104</annotation>
+      </annotations>
     </section>
     <section>
       <num>8.01.050</num>
       <heading>False Imprisonment</heading>
       <text>A false imprisonment establishes a cause of action for at least nominal damages. The plaintiff may also recover any other damages that he can show were proximately caused by the false imprisonment.</text>
-      <annotation type="Prior Codifications">§8.01.050 was formerly codified as 8.0105</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.050 was formerly codified as 8.0105</annotation>
+      </annotations>
     </section>
     <section>
       <num>8.01.060</num>
@@ -60,7 +70,9 @@
         <num>(b)</num>
         <text>The damages for past and prospective invasions of land include all detriment to the land past, present or future caused by such trespass.</text>
       </para>
-      <annotation type="Prior Codifications">§8.01.060 was formerly codified as 8.0106</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.060 was formerly codified as 8.0106</annotation>
+      </annotations>
     </section>
     <section>
       <num>8.01.070</num>
@@ -74,7 +86,9 @@
         <num>(b)</num>
         <text>The loss of use which is the value of use during the period of detention or prevention, or the value of the use of or the amount paid for a substitute.</text>
       </para>
-      <annotation type="Prior Codifications">§8.01.070 was formerly codified as 8.0107</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.070 was formerly codified as 8.0107</annotation>
+      </annotations>
     </section>
     <section>
       <num>8.01.080</num>
@@ -107,13 +121,17 @@
           <text>If the conversion was committed under a reasonable mistake of fact and the value of the personal property to the plaintiff is substantially unimpaired, by a continued offer to return it to the plaintiff or to his authorized representative.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§8.01.080 was formerly codified as 8.0108</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.080 was formerly codified as 8.0108</annotation>
+      </annotations>
     </section>
     <section>
       <num>8.01.090</num>
       <heading>Seduction</heading>
       <text>Where a person is entitled to recovery for seduction, the plaintiff may recover for all medical attendance, nursing and other expenses incident to the subsequent illness and confinement of a person seduced, and in all such actions the plaintiff may recover and not only actual but also punitive damages.</text>
-      <annotation type="Prior Codifications">§8.01.090 was formerly codified as 8.0109</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§8.01.090 was formerly codified as 8.0109</annotation>
+      </annotations>
     </section>
   </container>
 </container>

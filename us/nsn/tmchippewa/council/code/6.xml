@@ -11,7 +11,9 @@
       <num>6.01.010</num>
       <heading>Rights and Obligations of All Persons</heading>
       <text>Every person who invades the interest of another, as provided in this Code, shall be liable to the injured person in accordance with the provisions of this code.</text>
-      <annotation type="Prior Codifications">§6.01.010 was formerly codified as 6.0101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.010 was formerly codified as 6.0101</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.01.020</num>
@@ -29,31 +31,41 @@
         <num>(c)</num>
         <text>The seduction of a wife, daughter, orphan, sister or ward.</text>
       </para>
-      <annotation type="Prior Codifications">§6.01.020 was formerly codified as 6.0102</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.020 was formerly codified as 6.0102</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.01.030</num>
       <heading>Use of Force to Protect Personal Rights</heading>
       <text>Any necessary force may be used to protect from wrongful injury the person or property of one's self, or of a wife, husband, child, parent, or other relative, or member of one's family, or of a ward, servant, master, or guest.</text>
-      <annotation type="Prior Codifications">§6.01.030 was formerly codified as 6.0103</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.030 was formerly codified as 6.0103</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.01.040</num>
       <heading>Responsibility for Willful and Negligent Acts</heading>
       <text>Every person is responsible for injury to the person, property, or rights of another caused by his willful acts, or caused by his want of ordinary care or skill.</text>
-      <annotation type="Prior Codifications">§6.01.040 was formerly codified as 6.0104</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.040 was formerly codified as 6.0104</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.01.050</num>
       <heading>Obligation to Restore Things Improperly Obtained</heading>
       <text>One who obtains a thing without the consent of its owner, or by a consent afterwards rescinded, or by an unlawful seizure which the owner could not at the time prudently refuse, must restore it to the person from whom it was thus obtained, unless he has acquired a title thereto superior to that of such other person.</text>
-      <annotation type="Prior Codifications">§6.01.050 was formerly codified as 6.0105</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.050 was formerly codified as 6.0105</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.01.060</num>
       <heading>Restoration Without Demand; When</heading>
       <text>The restoration required by <cite path="§6.01.050">Section 6.01.050</cite> must be made without demand except where a thing is obtained by mutual mistake, in which case the party obtaining the thing is not bound to return it until he has notice of the mistake.</text>
-      <annotation type="Prior Codifications">§6.01.060 was formerly codified as 6.0106</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.060 was formerly codified as 6.0106</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -64,7 +76,9 @@
       <num>6.02.010</num>
       <heading>Deceit</heading>
       <text>One who willfully deceives another, with intent to induce him to alter his position to his injury or risk, is liable for any damage which he thereby suffers.</text>
-      <annotation type="Prior Codifications">§6.02.010 was formerly codified as 6.0201</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.02.010 was formerly codified as 6.0201</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.02.020</num>
@@ -86,13 +100,17 @@
         <num>(d)</num>
         <text>A promise made without any intention of performing.</text>
       </para>
-      <annotation type="Prior Codifications">§6.02.020 was formerly codified as 6.0202</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.02.020 was formerly codified as 6.0202</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.02.030</num>
       <heading>Deceit upon Tribe; Presumption</heading>
       <text>One who practices deceit, with intent to defraud the public or a particular class of persons, is deemed to have intended to defraud every individual in that class who is actually misled by the deceit.</text>
-      <annotation type="Prior Codifications">§6.02.030 was formerly codified as 6.0203</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.02.030 was formerly codified as 6.0203</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -103,7 +121,9 @@
       <num>6.03.010</num>
       <heading>Obligation to Refrain from</heading>
       <text>Every person is obligated to refrain from infringing upon the rights others not to be defamed.</text>
-      <annotation type="Prior Codifications">§6.03.010 was formerly codified as 6.0301</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.03.010 was formerly codified as 6.0301</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.03.020</num>
@@ -141,7 +161,9 @@
           <text>Slander is a false and unprivileged oral publication, other than libel, which requires the plaintiff to plead and prove special damage caused by the slander.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§6.03.020 was formerly codified as 6.0302</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.03.020 was formerly codified as 6.0302</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.03.030</num>
@@ -163,25 +185,33 @@
         <num>(d)</num>
         <text>By a fair and true report, without malice, of a judicial, legislative, or other public official proceeding or of anything said in the course thereof. In the cases provided for in (3) and (4) above, malice is not inferred from the communication or publication.</text>
       </para>
-      <annotation type="Prior Codifications">§6.03.030 was formerly codified as 6.0303</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.03.030 was formerly codified as 6.0303</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.03.040</num>
       <heading>Notice and Demand Before Certain Actions for Libel</heading>
       <text>Before any action for libel can be brought against a newspaper or the publisher, editor, or manager thereof, other than libel of or concerning a female, the party aggrieved must, at least three (3) days before the commencement of such action, serve a notice on the person or persons against whom said action is to be brought, specifying particularly the statement or statements claimed to be false and defamatory. If, at the trial, it appears that such statement or statements were published in good faith and with the belief founded upon reasonable grounds that the same were true, a full and fair retraction of the erroneous matter correcting any and all misstatements of fact therein contained was published in the next issue of the paper, or in the case of a daily newspaper within three (3) days after the mistake was brought to the attention of the publisher, editor, or manager, in as conspicuous type as the original statement and the same position in the paper, the plaintiff will be entitled to recover no punitive damages. But if the libel is against a candidate for office, the retraction must also be made editorially in the case of a daily paper at least three (3) days and in the cast of a weekly, biweekly or monthly paper at least ten (10) days before the election.</text>
-      <annotation type="Prior Codifications">§6.03.040 was formerly codified as 6.0304</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.03.040 was formerly codified as 6.0304</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.03.050</num>
       <heading>Retraction Rebuts Presumption of Malice</heading>
       <text>The publication of a full and fair retraction of the alleged defamatory statement as provided in <cite path="§6.03.040">Section 6.03.040</cite> of the Code shall, on the trial of an action for such libel, be held and considered a rebuttal of any and all presumption of malice attached to and growing out of such alleged libel.</text>
-      <annotation type="Prior Codifications">§6.03.050 was formerly codified as 6.0305</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.03.050 was formerly codified as 6.0305</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.03.060</num>
       <heading>Malice Defined</heading>
       <text>Malice, as used in <cite path="6.03">this chapter</cite>, shall mean the absence of legal excuse.</text>
-      <annotation type="Prior Codifications">§6.03.060 was formerly codified as 6.0306</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.03.060 was formerly codified as 6.0306</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -192,31 +222,41 @@
       <num>6.04.010</num>
       <heading>Definition</heading>
       <text>Seduction is the carnal knowledge of a man of an unmarried woman or child of previously chaste character, accomplished by means of some false promise, trickery, flattery, or deception. It is not sufficient by itself that the plaintiff show that the defendant had sexual intercourse with her. Where a woman submits to intercourse with a man on the strength of a promise of marriage, it is seduction.</text>
-      <annotation type="Prior Codifications">§6.04.010 was formerly codified as 6.0401</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.04.010 was formerly codified as 6.0401</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.04.020</num>
       <heading>Unmarried Woman; Right of Action for Own Seduction; Actual and Punitive Damages</heading>
       <text>In all cases of seduction, an unmarried woman may maintain an action against her seducer for all actual damages sustained and for punitive damages.</text>
-      <annotation type="Prior Codifications">§6.04.020 was formerly codified as 6.0402</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.04.020 was formerly codified as 6.0402</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.04.030</num>
       <heading>Parties Plaintiff</heading>
       <text>In all cases of seduction, except where the female seduced is over twenty-one (21) years of age, the father or mother, or any person acting in place of the father or mother, may maintain an action against the seducer. The commencement of a suit and recovery by judgment or by a settlement by one of such persons with the defendant shall be a bar to a suit brought by another. The burden of proof of such settlement shall be on the defendant.</text>
-      <annotation type="Prior Codifications">§6.04.030 was formerly codified as 6.0403</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.04.030 was formerly codified as 6.0403</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.04.040</num>
       <heading>Marriage of Parties to a Seduction; Wife's Action Against Abandoning Husband; Support of Children</heading>
       <text>In all cases of marriage between the parties to the seduction, where it shall appear that the seducer has abandoned his wife or family, or entered into such marriage relation for the purpose of avoiding a prosecution under the laws of the Tribe where the seduction took place, the wife may maintain an action against her husband for all damages sustained by her as well as exemplary damages. In all actions brought under the provisions of <cite path="§6.04.040">this section</cite>, the plaintiff shall have the right to recover for the support, education, and maintenance of her child.</text>
-      <annotation type="Prior Codifications">§6.04.040 was formerly codified as 6.0404</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.04.040 was formerly codified as 6.0404</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.04.050</num>
       <heading>Wife Competent Witness Against Her Husband in Action Against Him for Her Seduction</heading>
       <text>In all actions brought under the provisions of <cite path="6.04">this chapter</cite>, where it shall appear that the defendant married the person seduced, the wife shall be a competent witness against her husband.</text>
-      <annotation type="Prior Codifications">§6.04.050 was formerly codified as 6.0405</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.04.050 was formerly codified as 6.0405</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -227,32 +267,42 @@
       <num>6.05.010</num>
       <heading>Death by Wrongful Act</heading>
       <text>Whenever the death shall be caused by a wrongful act, neglect or default, and the act, neglect or default is such as would have entitled the party injured to maintain an action and recover damages in respect thereto, if death had not ensued, then in every such case the corporation which or the person who would have been liable, if death has not ensued, or the executor or administrator of the estate of such person as such administrator or executor, shall be liable to an action for damages, notwithstanding the death of the person injured and although the death shall have been caused under such circumstances as amount in law to a felony; and when the action is against such administrator or executor, the damages recovered shall be a valid claim against the estate of such deceased person. Actions for wrongful death or personal injury shall survive the death of the wrongdoer whether or not the death of the wrongdoer occurred before or after the death or injury of the injured person.</text>
-      <annotation type="Prior Codifications">§6.05.010 was formerly codified as 6.0501</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.05.010 was formerly codified as 6.0501</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.05.020</num>
       <heading>Parties; Measure of Damage; Limitation of Action; Settlement; Apportionment Among Beneficiaries</heading>
       <text>Every action for wrongful death shall be for the exclusive benefit of the wife or husband and children, or if there be neither of them, then of the parents and next of kin of the person whose death shall be so caused; and it shall be brought in the name of the executor or regular or special administrator of the deceased person; and in every such action the jury may give such damages as they may think proportionate to the pecuniary injury resulting from such death to the persons respectively for whose benefit such action shall be brought. Every such action shall be commenced within three (3) years after the death of such deceased person. Such personal representative may at any time before or after the commencement of a suit settle with the defendant the amount to be paid to him as damages for the wrongful death of the decedent. If settlement is made before the commencement of a suit, such settlement must have the approval of the Court of the representative's appointment. If settlement is made at any time after commencement of the action, such settlement must have the consent and approval of the Court wherein the action is pending.</text>
       <text>If all the statutory beneficiaries are of full age and competent, and consent in writing to the proposed settlement, the same may be made at any time, before or after suit, without consent of the Court. The amount received by such personal representative, whether by settlement or otherwise, shall be apportioned among the beneficiaries unless adjusted between themselves, by the Court making the appointment in such manner as shall be fair and equitable, having reference to the age and condition of such beneficiaries and the laws of descent and distribution of personal estates left by persons dying intestate.</text>
-      <annotation type="Prior Codifications">§6.05.020 was formerly codified as 6.0502</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.05.020 was formerly codified as 6.0502</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.05.030</num>
       <heading>Actions Survive Brought by or Against Legal Representatives</heading>
       <text>All cases of action shall survive and be brought, notwithstanding the death of the person entitled or liable to the same. Any such actions may be brought by or against the executor or administrator or successors in interest of the deceased.</text>
-      <annotation type="Prior Codifications">§6.05.030 was formerly codified as 6.0503</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.05.030 was formerly codified as 6.0503</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.05.040</num>
       <heading>Malicious Prosecution</heading>
       <text>A cause of action for malicious prosecution exists when a criminal or civil proceeding has been instituted in the Turtle Mountain Tribal Court or is continued by the defendant against the plaintiff and has terminated in favor of the accused. The proceedings must have been instituted without probable cause and with malice.</text>
-      <annotation type="Prior Codifications">§6.05.040 was formerly codified as 6.0504</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.05.040 was formerly codified as 6.0504</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.05.050</num>
       <heading>Abuse of Process</heading>
       <text>A cause of action for abuse of process exists when legal process, whether civil or criminal, is used against another to accomplish a purpose for which it is not designed. The essential elements of action for abuse of process are existence of an ulterior purpose and use of process to accomplish a result not within the scope of proceedings in which issued, whether such result might otherwise be lawfully obtained or not.</text>
-      <annotation type="Prior Codifications">§6.05.050 was formerly codified as 6.0505</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.05.050 was formerly codified as 6.0505</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -263,7 +313,9 @@
       <num>6.06.010</num>
       <heading>Battery</heading>
       <text>A battery is any willful and unlawful use of force or violence upon the person of another. Person includes any part of the body or anything so closely attached thereto that it is customarily regarded as a part thereof.</text>
-      <annotation type="Prior Codifications">§6.06.010 was formerly codified as 6.0601</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.010 was formerly codified as 6.0601</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.020</num>
@@ -289,13 +341,17 @@
         <num>(e)</num>
         <text>When committed by any person in preventing an idiot, lunatic, insane person, or other person of unsound mind, including persons temporarily or partially deprived of reason, from committing an act dangerous to himself or to another, or enforcing such restraint as is necessary for the protection of his person or for his restoration to health, during such period only as shall be necessary to obtain legal authority for the restraint or custody of his person.</text>
       </para>
-      <annotation type="Prior Codifications">§6.06.020 was formerly codified as 6.0602</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.020 was formerly codified as 6.0602</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.030</num>
       <heading>Infliction of Mental Distress</heading>
       <text>A cause of action shall exist for the infliction of mental distress. Infliction of mental distress is an act which goes beyond the limits of accepted conduct in the community. The actor must intend that the person injured will suffer mental distress of a very serious kind. The mental distress must in fact exist and result from the act.</text>
-      <annotation type="Prior Codifications">§6.06.030 was formerly codified as 6.0603</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.030 was formerly codified as 6.0603</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.040</num>
@@ -317,13 +373,17 @@
           <text>The other is conscious of the confinement or is harmed by it.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§6.06.040 was formerly codified as 6.0604</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.040 was formerly codified as 6.0604</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.050</num>
       <heading>Willfully Concealing Unpurchased Merchandise; Exoneration from False Imprisonment</heading>
       <text>Any Indian willfully concealing unpurchased goods or merchandise of any store or other mercantile establishment either on the premises or outside the premises of such store, shall be presumed to have so concealed such article with the intention of converting the same to his own use without paying the purchase price, and the finding of such unpurchased goods or merchandise concealed upon the person or among the belongings of such Indian shall be evidence of willful concealment. Persons so concealing such goods may be detained in a reasonable manner, and for a reasonable length of time by a merchant or a merchant's employee until arrival of the police or other duly authorized law enforcement authorities who shall have been promptly notified of the fact of such detention. Such detention by a merchant or merchant's employee shall not render such merchant or merchant's employee criminally or civilly liable for false arrest or false imprisonment, provided that said exemption shall not apply if the merchant or merchant's employee shall fail to sign a complaint and testify at a legal proceeding, if requested to do so by the prosecuting attorney.</text>
-      <annotation type="Prior Codifications">§6.06.050 was formerly codified as 6.0605</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.050 was formerly codified as 6.0605</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.060</num>
@@ -349,13 +409,17 @@
           <text>bodily harm is caused to the possessor, or harm is caused to some person or thing in which the possessor has a legally protected interest.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§6.06.060 was formerly codified as 6.0606</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.060 was formerly codified as 6.0606</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.070</num>
       <heading>Definition of Personal Property</heading>
       <text>Personal property includes any kind of property not amounting to an interest in real estate. Leases shall be considered as personal property for the purposes of <cite path="§6.06.050">Section 6.06.050</cite>.</text>
-      <annotation type="Prior Codifications">§6.06.070 was formerly codified as 6.0607</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.070 was formerly codified as 6.0607</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.080</num>
@@ -380,7 +444,9 @@
         <num>(b)</num>
         <text>Extent of liability. A trespass on land subjects the trespasser to liability for physical harm to the possessor of the land at the time of the trespass, or to the land, or to his personal property, or to persons who are lawfully on the premises or to their personal property, caused by any act done, activity carried on or resulting from the trespasser.</text>
       </para>
-      <annotation type="Prior Codifications">§6.06.080 was formerly codified as 6.0608</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.080 was formerly codified as 6.0608</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.090</num>
@@ -417,7 +483,9 @@
           <text>the inconvenience and expense caused to the owner.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§6.06.090 was formerly codified as 6.0609</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.090 was formerly codified as 6.0609</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.06.100</num>
@@ -451,7 +519,9 @@
         <num>(g)</num>
         <text>Refusing to surrender personal property.</text>
       </para>
-      <annotation type="Prior Codifications">§6.06.100 was formerly codified as 6.0610</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.06.100 was formerly codified as 6.0610</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -478,19 +548,25 @@
         <num>(d)</num>
         <text>In any way renders other persons insecure in life or in the use of property.</text>
       </para>
-      <annotation type="Prior Codifications">§6.07.010 was formerly codified as 6.0701</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.010 was formerly codified as 6.0701</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.07.020</num>
       <heading>Nuisance Classified; Public; Private; Defined</heading>
       <text>A public nuisance is one which at the same time affects an entire community or neighborhood, or any considerable number of persons, although the extent of the annoyance or damage inflicted upon the individuals may be unequal.  Every other nuisance is private.</text>
-      <annotation type="Prior Codifications">§6.07.020 was formerly codified as 6.0702</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.020 was formerly codified as 6.0702</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.07.030</num>
       <heading>Time; Effect on Public Nuisance</heading>
       <text>No lapse of time can legalize a public nuisance, amounting to an actual obstruction of public right.</text>
-      <annotation type="Prior Codifications">§6.07.030 was formerly codified as 6.0703</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.030 was formerly codified as 6.0703</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.07.040</num>
@@ -504,7 +580,9 @@
         <num>(b)</num>
         <text>Abatement. The remedy by civil action against public nuisance may be maintained by any public body or officer authorized thereto by law or official duty, or by any private person if it is especially injurious to his self. Such remedy also may be used by any person whose property is injuriously affected, or whose personal enjoyment is lessened by any nuisance public or private. In all such actions the nuisance public or private. In all such actions the nuisance may be enjoined, or ordered abated, and damages recovered in addition.</text>
       </para>
-      <annotation type="Prior Codifications">§6.07.040 was formerly codified as 6.0704</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.040 was formerly codified as 6.0704</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.07.050</num>
@@ -534,31 +612,41 @@
         <num>(f)</num>
         <text>An Indian party wrongfully in possession after a judgment in partition or after a sale under an order or decree of the Turtle Mountain Tribal Court.</text>
       </para>
-      <annotation type="Prior Codifications">§6.07.050 was formerly codified as 6.0705</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.050 was formerly codified as 6.0705</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.07.060</num>
       <heading>Notice to Quit; When Required; When and How Served</heading>
       <text>In all cases arising under subsections (d), (e), and (f) of <cite path="§6.07.050">Section 6.07.050</cite>, a ten (10) day written notice to quit must be given to the Indian Lessee, Indian subtenant or Indian party in possession before proceedings can be instituted. Such notice may be served and returned as a summons is served and returned.</text>
-      <annotation type="Prior Codifications">§6.07.060 was formerly codified as 6.0706</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.060 was formerly codified as 6.0706</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.07.070</num>
       <heading>Forcible Detainer or Eviction</heading>
       <text>Any Indian person who fails to comply with the judgment or order of the Turtle Mountain Tribal Court shall be charged with a violation of <cite path="§26.06.020">Section 26.06.020</cite> of this Code and, in addition, shall be forcibly ejected from the land, building or other possessions listed in the judgment or order of the Court, by Police Officers of the Branch of Law and Order or by persons designated by the Court.</text>
-      <annotation type="Prior Codifications">§6.07.070 was formerly codified as 6.0707</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.070 was formerly codified as 6.0707</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.07.080</num>
       <heading>When Lawful to Set Lands on Fire</heading>
       <text>An Indian person may set any grass or stubble lands on fire at the time he commences to break or plow such lands, if, at the time the fire is set, there is a strip at least fifty (50) feet wide of well-plowed or burned land completely encompassing the land where the fire is set. The burning of leased Trust land(s) must be by written permission of the Superintendent, Turtle Mountain Agency, or his designated representative.</text>
-      <annotation type="Prior Codifications">§6.07.080 was formerly codified as 6.0708</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.080 was formerly codified as 6.0708</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.07.090</num>
       <heading>Accidental Damage from Lawfully Set Fire; Liability</heading>
       <text>If a fire which is lawfully set to burn grass or stubble land accidentally, and without any negligency on the part of the Indian person setting the fire gets beyond his control, he shall be liable only in a civil action to the person damaged for the amount of the damage.</text>
-      <annotation type="Prior Codifications">§6.07.090 was formerly codified as 6.0709</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§6.07.090 was formerly codified as 6.0709</annotation>
+      </annotations>
     </section>
   </container>
 </container>

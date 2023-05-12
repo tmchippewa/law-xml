@@ -11,7 +11,9 @@
       <num>60.01.010</num>
       <heading>Short Title</heading>
       <text><cite path="60">This title</cite> shall be known and may be cited as the "Public Records Act of 2018."</text>
-      <annotation type="Prior Codifications">§60.01.010 was formerly codified as 60.0101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.01.010 was formerly codified as 60.0101</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.01.020</num>
@@ -24,7 +26,9 @@
         <num>(b)</num>
         <text>Members and their representatives have a right to know the basis of the formulation of public policy. Therefore, it is the public policy of this Tribe that members shall be advised of the performance of public officials and of the decisions that are reached in public activity.</text>
       </para>
-      <annotation type="Prior Codifications">§60.01.020 was formerly codified as 60.0102</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.01.020 was formerly codified as 60.0102</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.01.030</num>
@@ -37,7 +41,9 @@
         <num>(b)</num>
         <text>Nothing in <cite path="60">this title</cite> prohibits public bodies and their employees and agents from obtaining, accessing, using, copying and sharing records and information governed by <cite path="60">this title</cite> if the action is necessary for the performance of official job-related duties.</text>
       </para>
-      <annotation type="Prior Codifications">§60.01.030 was formerly codified as 60.0103</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.01.030 was formerly codified as 60.0103</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -81,8 +87,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1519-11-18"/>
+        <annotation type="Prior Codifications">§60.02.010 was formerly codified as 60.0201</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§60.02.010 was formerly codified as 60.0201</annotation>
     </section>
   </container>
   <container>
@@ -100,7 +106,9 @@
         <num>(b)</num>
         <text>A request to inspect or copy a public record must be in writing. The writing may be handwritten and informal but must express the request with enough clarity to enable the public body to accurately identify the record sought. The request must also state the date, name, address and telephone number of the requesting member, and must be signed by the requesting member.</text>
       </para>
-      <annotation type="Prior Codifications">§60.03.010 was formerly codified as 60.0301</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.010 was formerly codified as 60.0301</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.03.020</num>
@@ -121,7 +129,9 @@
         <num>(d)</num>
         <text>Fees may not be charged for examination and review to determine if the documents are subject to disclosure. Nothing in <cite path="§60.03.020">this section</cite> prevents a public body from charging a reasonable hourly rate for making records available to the public or from requiring a reasonable deposit of these costs before searching for or making copies of the records.</text>
       </para>
-      <annotation type="Prior Codifications">§60.03.020 was formerly codified as 60.0302</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.020 was formerly codified as 60.0302</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.03.030</num>
@@ -142,7 +152,9 @@
         <num>(d)</num>
         <text>Fees may not be charged for examination and review to determine if the documents are subject to disclosure. Nothing in <cite path="§60.03.020">Section 60.03.020</cite> prevents a public body from charging a reasonable hourly rate for making records available to the public or from requiring a reasonable deposit of these costs before searching for or making copies of the records.</text>
       </para>
-      <annotation type="Prior Codifications">§60.03.030 was formerly codified as 60.0302</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.030 was formerly codified as 60.0302</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.03.040</num>
@@ -163,13 +175,17 @@
         <num>(d)</num>
         <text>Fees may not be charged for examination and review to determine if the documents are subject to disclosure. Nothing in <cite path="§60.03.020">Section 60.03.020</cite> prevents a public body from charging a reasonable hourly rate for making records available to the public or from requiring a reasonable deposit of these costs before searching for or making copies of the records.</text>
       </para>
-      <annotation type="Prior Codifications">§60.03.040 was formerly codified as 60.0302</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.040 was formerly codified as 60.0302</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.03.050</num>
       <heading>Presumption upon Failure to Give Notice</heading>
       <text>If the public body does not mail or personally deliver written notification of its determination regarding the availability of the requested public record to the person requesting the record, within the 15 days allowed in <cite path="60">this title</cite>, the request must be considered disapproved and the requestor may appeal the denial using the procedure provided in <cite path="60">this title</cite>.</text>
-      <annotation type="Prior Codifications">§60.03.050 was formerly codified as 60.0303</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.050 was formerly codified as 60.0303</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.03.060</num>
@@ -183,7 +199,9 @@
         <num>(b)</num>
         <text>Documents identifying persons confined in any jail, detention center, or</text>
       </para>
-      <annotation type="Prior Codifications">§60.03.060 was formerly codified as 60.0304</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.060 was formerly codified as 60.0304</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.03.070</num>
@@ -271,8 +289,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1519-11-18"/>
+        <annotation type="Prior Codifications">§60.03.070 was formerly codified as 60.0305</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§60.03.070 was formerly codified as 60.0305</annotation>
     </section>
   </container>
   <container>
@@ -335,7 +353,9 @@
           <text>Non-testimonial identification orders.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§60.04.010 was formerly codified as 60.0401</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.010 was formerly codified as 60.0401</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.04.020</num>
@@ -388,19 +408,25 @@
           <text>The name, sex, age, and address of a victim or complaining witness; provided, however, that a public law enforcement agency or public safety agency shall temporarily withhold the name or address of a victim or complaining witness if release of the information is reasonably likely to pose a threat to the mental health, physical health, or personal safety of the complaining witness or victim or materially</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§60.04.020 was formerly codified as 60.0402</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.020 was formerly codified as 60.0402</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.04.030</num>
       <heading>Use of Information for Commercial Solicitation Prohibited</heading>
       <text>A public record and any information in a public record may not be used for commercial solicitation except as approved by Tribal Council by resolution. Any person or entity who uses public records or information therein for commercial solicitation without Tribal Council's approval, and any person who assists such person knowing of their intent to use the record or information for commercial, may be fined in an amount not to exceed $5,000.00 per violation; provided, however, this provision must not be interpreted to restrict access by members to information contained in public records.</text>
-      <annotation type="Prior Codifications">§60.04.030 was formerly codified as 60.0403</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.030 was formerly codified as 60.0403</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.04.040</num>
       <heading>Jurisdiction</heading>
       <text>Any member who requests, obtains or uses a public record or information therein, which records and information are governed by <cite path="60">this title</cite>, is subject to the personal and subject matter jurisdiction of the Turtle Mountain Band of Chippewa Indian's Court for violations of <cite path="60">this title</cite>.</text>
-      <annotation type="Prior Codifications">§60.04.040 was formerly codified as 60.0404</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.040 was formerly codified as 60.0404</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.04.050</num>
@@ -414,31 +440,41 @@
         <text>If a member seeking such relief prevails, the member may be awarded reasonable attorney fees and other costs of litigation. If the member loses in part and prevails in part, the court may, in its discretion, award the member reasonable attorney fees or an appropriate portion thereof.</text>
         <text>No other damages may be awarded.</text>
       </para>
-      <annotation type="Prior Codifications">§60.04.050 was formerly codified as 60.0405</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.050 was formerly codified as 60.0405</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.04.060</num>
       <heading>Provisions as Cumulative</heading>
       <text>The provisions of <cite path="60">this title</cite> are cumulative to existing law.</text>
-      <annotation type="Prior Codifications">§60.04.060 was formerly codified as 60.0406</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.060 was formerly codified as 60.0406</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.04.070</num>
       <heading>Severability</heading>
       <text>The provisions of <cite path="60">this title</cite> are severable and if any part of provision hereof shall be held void the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this act.</text>
-      <annotation type="Prior Codifications">§60.04.070 was formerly codified as 60.0407</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.070 was formerly codified as 60.0407</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.04.080</num>
       <heading>Budgeting of Funds</heading>
       <text>The Tribe shall budget funds to effectuate the purpose of <cite path="60">this title</cite>.</text>
-      <annotation type="Prior Codifications">§60.04.080 was formerly codified as 60.0408</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.080 was formerly codified as 60.0408</annotation>
+      </annotations>
     </section>
     <section>
       <num>60.04.090</num>
       <heading>Rules and Regulations</heading>
       <text>The Tribe shall enact rules, regulations, and forms to effectuate the purpose of <cite path="60">this title</cite>.</text>
-      <annotation type="Prior Codifications">§60.04.090 was formerly codified as 60.0409</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.090 was formerly codified as 60.0409</annotation>
+      </annotations>
     </section>
   </container>
 </container>

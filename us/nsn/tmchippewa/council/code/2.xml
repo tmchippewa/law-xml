@@ -11,7 +11,9 @@
       <num>2.01.010</num>
       <heading>Tribal Court</heading>
       <text>The Turtle Mountain Tribal Court is created and exists by virtue of <cite doc="Turtle Mountain Constitution and By-laws" path="IX|5|(a)">Article IX, Section 5, under (a), of the Turtle Mountain Tribal Constitution</cite> and other Tribal organizational documents.</text>
-      <annotation type="Prior Codifications">§2.01.010 was formerly codified as 2.0101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.01.010 was formerly codified as 2.0101</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.01.020</num>
@@ -72,7 +74,9 @@
         <num>(d)</num>
         <text>The Court shall not have jurisdiction over any suit brought against the Tribe without the consent of the Tribe. Nothing in this Code shall be construed as consent by the Tribe to be sued.</text>
       </para>
-      <annotation type="Prior Codifications">§2.01.020 was formerly codified as 2.0102</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.01.020 was formerly codified as 2.0102</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -83,25 +87,33 @@
       <num>2.02.010</num>
       <heading>Form of Complaint</heading>
       <text>One form of complaint shall be used in all cases, regardless of the relief sought or the relief or remedy granted.</text>
-      <annotation type="Prior Codifications">§2.02.010 was formerly codified as 2.0201</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.02.010 was formerly codified as 2.0201</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.02.020</num>
       <heading>Enforcing Its Decisions</heading>
       <text>In enforcing its decisions, the Court may either command a party to perform that which the decision requires him to do or it may command an officer of the Court or a police officer to take such action as is necessary to enforce the decision.  The method of enforcing the decision shall be at the option of the Court.</text>
-      <annotation type="Prior Codifications">§2.02.020 was formerly codified as 2.0202</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.02.020 was formerly codified as 2.0202</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.02.030</num>
       <heading>Action Defined</heading>
       <text>An action is a proceeding in Court in which a party sues another party to enforce, determine or protect a right, or seeks compensation for or prevention of a wrong.</text>
-      <annotation type="Prior Codifications">§2.02.030 was formerly codified as 2.0203</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.02.030 was formerly codified as 2.0203</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.02.040</num>
       <heading>No Merger of Civil and Criminal Liabilities</heading>
       <text>Where the violation of a right gives rise to both a civil remedy and a criminal prosecution a separate action may be brought for either.</text>
-      <annotation type="Prior Codifications">§2.02.040 was formerly codified as 2.0204</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.02.040 was formerly codified as 2.0204</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -112,25 +124,33 @@
       <num>2.03.010</num>
       <heading>General Limitations</heading>
       <text>An action can only be commenced within the time stated in <cite path="2">this title</cite> unless a different time is specified by law. The time within which the action may be commenced starts at the time the act complained of was discovered, unless by law otherwise provided.</text>
-      <annotation type="Prior Codifications">§2.03.010 was formerly codified as 2.0301</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.03.010 was formerly codified as 2.0301</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.03.020</num>
       <heading>Statute of Limitations</heading>
       <text>All civil actions shall be commenced within six (6) years from the time the cause of action accrued in the case of contracts and within three (3) years in the case of torts, unless a different time is prescribed by law. An action shall be deemed to have been commenced for the purposes of <cite path="§2.03.020">this section</cite> when the defendant or defendants have been served with summons or when a written complaint has been filed. The statute of limitations does not run against a minor, incompetent, or person serving in the Armed Forces of the United States, nor does the period run against persons absent from the jurisdiction for the purpose of avoiding process.</text>
-      <annotation type="Prior Codifications">§2.03.020 was formerly codified as 2.0302</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.03.020 was formerly codified as 2.0302</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.03.030</num>
       <heading>Waiver of Limitation</heading>
       <text>A defense of the running of the statute of limitations can be waived by the party able to assert such a defense. Such a defense must be pleaded and proved to be effective.</text>
-      <annotation type="Prior Codifications">§2.03.030 was formerly codified as 2.0303</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.03.030 was formerly codified as 2.0303</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.03.040</num>
       <heading>Terms Identifying Parties</heading>
       <text>The person starting an action shall be known as the plaintiff. The person against whom the action is brought shall be known as the defendant. In a situation where the person bringing or defending an action is a guardian ad litem, he shall also be known as the plaintiff or defendant as the case may be, but shall further be identified as guardian or guardian ad litem of the true party in the title of the action.</text>
-      <annotation type="Prior Codifications">§2.03.040 was formerly codified as 2.0304</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.03.040 was formerly codified as 2.0304</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -141,7 +161,9 @@
       <num>2.04.010</num>
       <heading>Civil Case</heading>
       <text>A civil case is started by filing a written complaint or service of a summons on the defendant or defendants. Such summons must state where the complaint is, or is to be, filed. Upon the demand of the defendant at the place named in the summons, the plaintiff shall file the complaint within twenty (20) days.</text>
-      <annotation type="Prior Codifications">§2.04.010 was formerly codified as 2.0401</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.04.010 was formerly codified as 2.0401</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.04.020</num>
@@ -180,8 +202,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+        <annotation type="Prior Codifications">§2.04.020 was formerly codified as 2.0402</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§2.04.020 was formerly codified as 2.0402</annotation>
     </section>
     <section>
       <num>2.04.030</num>
@@ -198,7 +220,9 @@
         <num>(c)</num>
         <text>When a guardian is necessary to the action, it shall be the duty of the Court to appoint a guardian within a reasonable time after the filing of the complaint, but in no instance shall trial commence without the appointment of a guardian.</text>
       </para>
-      <annotation type="Prior Codifications">§2.04.030 was formerly codified as 2.0403</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.04.030 was formerly codified as 2.0403</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.04.040</num>
@@ -221,7 +245,9 @@
         <text>be directed to a police officer or disinterested third party with a command that he serve it.</text>
         <text>The summons shall further state the name of the plaintiff and that of the defendant, if known. If the defendant's name be unknown, it must give a reasonable description of him. It shall state generally the nature of the plaintiff's claim against the defendant, with the amount claimed, if any.  When the summons is issued after the complaint, it shall further state the date of appearance and that, in case of his failure to answer or appear as commanded, he will lose by default.</text>
       </para>
-      <annotation type="Prior Codifications">§2.04.040 was formerly codified as 2.0404</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.04.040 was formerly codified as 2.0404</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.04.050</num>
@@ -242,7 +268,9 @@
         <num>(d)</num>
         <text>In all cases, the defendant's signed acknowledgment of service on the summons or his voluntary appearance in Court is equivalent to service as herein before required.</text>
       </para>
-      <annotation type="Prior Codifications">§2.04.050 was formerly codified as 2.0405</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.04.050 was formerly codified as 2.0405</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.04.060</num>
@@ -268,13 +296,17 @@
         <num>(e)</num>
         <text>entering into a contract for services to be rendered or for materials to be furnished in the Turtle Mountain Jurisdiction by such person, shall be, in a civil action arising out of any of the above enumerated acts, subject to service of process outside the reservation in the same manner provided for service within the reservation with the same force and effect as though service had been made within the Turtle Mountain Jurisdiction.</text>
       </para>
-      <annotation type="Prior Codifications">§2.04.060 was formerly codified as 2.0406</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.04.060 was formerly codified as 2.0406</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.04.070</num>
       <heading>Return of Summons</heading>
       <text>The "return" of the summons is the police officer's or third party's signed statement on the summons that he served a true copy thereof by personal service as directed or that he was unable to serve it. The date of service, if any and date of return and method of service must be stated on the return by the officer or third party; and when returned, the summons shall be dated and filed with the complaint by the clerk. Should the summons be served by certified mail, return receipt requested, the receipt shall constitute proof of service and shall be filed with the complaint by the clerk.</text>
-      <annotation type="Prior Codifications">§2.04.070 was formerly codified as 2.0407</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.04.070 was formerly codified as 2.0407</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.04.080</num>
@@ -310,8 +342,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+        <annotation type="Prior Codifications">§2.04.080 was formerly codified as 2.0408</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§2.04.080 was formerly codified as 2.0408</annotation>
     </section>
   </container>
   <container>
@@ -322,19 +354,25 @@
       <num>2.05.010</num>
       <heading>General Appearance</heading>
       <text>A general appearance is the method by which the defendant in an action submits himself to the jurisdiction of the Court.</text>
-      <annotation type="Prior Codifications">§2.05.010 was formerly codified as 2.0501</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.05.010 was formerly codified as 2.0501</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.05.020</num>
       <heading>Special Appearance</heading>
       <text>A special appearance is the method or proceeding by which the defendant seeks to test the sufficiency of the service or the jurisdiction of the Court. A special appearance does not confer jurisdiction upon the Court except for the purpose of determining sufficiency of the service or jurisdiction, nor does it waive defects of service.</text>
-      <annotation type="Prior Codifications">§2.05.020 was formerly codified as 2.0502</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.05.020 was formerly codified as 2.0502</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.05.030</num>
       <heading>Method of Appearance</heading>
       <text>An appearance, general or special, may be made in person or by an agent, and includes either the physical presence in Court of the defendant or his attorney of the filing of a written answer, motion or other pleading in response to the complaint.</text>
-      <annotation type="Prior Codifications">§2.05.030 was formerly codified as 2.0503</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.05.030 was formerly codified as 2.0503</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.05.040</num>
@@ -488,8 +526,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+        <annotation type="Prior Codifications">§2.05.040 was formerly codified as 2.0504</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§2.05.040 was formerly codified as 2.0504</annotation>
     </section>
     <section>
       <num>2.05.050</num>
@@ -549,8 +587,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+        <annotation type="Prior Codifications">§2.05.060 was formerly codified as 2.0506</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§2.05.060 was formerly codified as 2.0506</annotation>
     </section>
     <section>
       <num>2.05.070</num>
@@ -581,8 +619,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+        <annotation type="Prior Codifications">§2.05.070 was formerly codified as 2.0507</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§2.05.070 was formerly codified as 2.0507</annotation>
     </section>
     <section>
       <num>2.05.080</num>
@@ -817,8 +855,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+        <annotation type="Prior Codifications">§2.05.080 was formerly codified as 2.0510</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§2.05.080 was formerly codified as 2.0510</annotation>
     </section>
   </container>
   <container>
@@ -829,7 +867,9 @@
       <num>2.06.010</num>
       <heading>Location of Action</heading>
       <text>All actions shall be brought within the jurisdiction where the act or omission complained of arose, or where the subject matter or any part thereof is located, or where the Indian defendant resides.</text>
-      <annotation type="Prior Codifications">§2.06.010 was formerly codified as 2.0601</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.06.010 was formerly codified as 2.0601</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -840,20 +880,26 @@
       <num>2.07.010</num>
       <heading>Definition</heading>
       <text>A pleading is the way in which the parties alternately present their claims or contentions to the Court so as to point out or focus on the issue or point in dispute.</text>
-      <annotation type="Prior Codifications">§2.07.010 was formerly codified as 2.0701</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.07.010 was formerly codified as 2.0701</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.07.020</num>
       <heading>Complaint</heading>
       <text>A written complaint must be filed with the clerk by the plaintiff or his attorney. This complaint must set out in plain and direct language the facts on which the claim is based. The evidence at the trial must be confined to the allegations made in the complaint.</text>
-      <annotation type="Prior Codifications">§2.07.020 was formerly codified as 2.0702</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.07.020 was formerly codified as 2.0702</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.07.030</num>
       <heading>Motions</heading>
       <text>In all actions in the Court, motions shall be allowed, except as to motions</text>
       <text>made at the trial, all such motions shall be filed at least six (6) days before the date on which the trial is held.</text>
-      <annotation type="Prior Codifications">§2.07.030 was formerly codified as 2.0703</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.07.030 was formerly codified as 2.0703</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.07.040</num>
@@ -871,7 +917,9 @@
         <num>(c)</num>
         <text>If the defendant admits the truth of the allegations in the complaint but has a defense thereto, he shall set out his defense in his written answer and a failure so to set out his defense prevents his raising such defense at the trial, unless, at the Court's discretion, the ends of justice require that he be permitted to raise the defense. A failure to deny is an admission of the truth of the allegation.</text>
       </para>
-      <annotation type="Prior Codifications">§2.07.040 was formerly codified as 2.0704</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.07.040 was formerly codified as 2.0704</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.07.050</num>
@@ -884,7 +932,9 @@
         <num>(b)</num>
         <text>Permissive counterclaim. The defendant's written answer may state as a counterclaim any claim against the opposing party not arising out of the same act or omission that is the basis of the opposing party's claim.</text>
       </para>
-      <annotation type="Prior Codifications">§2.07.050 was formerly codified as 2.0705</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.07.050 was formerly codified as 2.0705</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.07.060</num>
@@ -897,7 +947,9 @@
         <num>(b)</num>
         <text>When the amendment is requested at or during the trial and the Court is satisfied that a postponement is necessary and just for the other party, a postponement may be granted. Such postponement, however, must not exceed seven (7) days, and the party seeking such postponement may, if justice so requires be ordered to pay the additional costs.</text>
       </para>
-      <annotation type="Prior Codifications">§2.07.060 was formerly codified as 2.0706</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.07.060 was formerly codified as 2.0706</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -916,19 +968,25 @@
         <text>Upon motion of any party showing good cause, the Tribal Court shall have the power to subpoena the records or any other party, which are not privileged.</text>
         <text>The Tribal Court shall have the power to order any party to permit any other party to inspect any real property in his possession that is material to the action. The subpoena or order shall state the name of the Court, the title of the action and the name of the person to whom it is directed. The subpoena or order shall state the reason for which it was given and the date and time of the appearance or inspection. It shall state the name of the person or party for whom the testimony of the witness is required.</text>
       </para>
-      <annotation type="Prior Codifications">§2.08.010 was formerly codified as 2.0801</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.08.010 was formerly codified as 2.0801</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.08.020</num>
       <heading>Subpoenas and Orders Served</heading>
       <text>The subpoena or order may be served by any officer or person qualified to make service of summons. The subpoena shall be served in the same manner as a summons is served. The subpoena must be served reasonably in advance of the date set for the appearance.</text>
-      <annotation type="Prior Codifications">§2.08.020 was formerly codified as 2.0802</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.08.020 was formerly codified as 2.0802</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.08.030</num>
       <heading>Discovery</heading>
       <text>Discovery may be had by the use of depositions and interrogatories.</text>
-      <annotation type="Prior Codifications">§2.08.030 was formerly codified as 2.0803</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.08.030 was formerly codified as 2.0803</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.08.040</num>
@@ -942,31 +1000,41 @@
         <num>(b)</num>
         <text>A written deposition shall consist of written questions and answers. It shall be signed by the person giving the deposition in the presence of any person qualified to take oaths in the jurisdiction in which the witness or party is located. Such persons shall attest to the deposition. Answers to deposition questions to which objections are made shall be deferred until the objection is ruled upon by the Court.</text>
       </para>
-      <annotation type="Prior Codifications">§2.08.040 was formerly codified as 2.0804</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.08.040 was formerly codified as 2.0804</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.08.050</num>
       <heading>Interrogatories</heading>
       <text>Interrogatories may be served upon any party by any other party. The interrogatories shall be answered under oath. Answers to interrogatories to which objection is made shall be deferred until the objection is ruled upon by the Court.</text>
-      <annotation type="Prior Codifications">§2.08.050 was formerly codified as 2.0805</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.08.050 was formerly codified as 2.0805</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.08.060</num>
       <heading>Admissibility</heading>
       <text>Depositions and interrogatories are admissible according to the laws of evidence set out in this Code.</text>
-      <annotation type="Prior Codifications">§2.08.060 was formerly codified as 2.0806</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.08.060 was formerly codified as 2.0806</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.08.070</num>
       <heading>Admissions in a Civil Action; Either Party May Request: Admissions of Fact, Admissions of Genuineness of Documents; Failure to Admit or Explain Deemed Admittance</heading>
       <text>At any time after the civil action or proceeding is commenced, a party may serve upon any other party a written request for the admission by the latter of the genuineness of any relevant documents described in and exhibited with the request or of the truth of any relevant matter of fact set forth therein. Copies of the documents shall be delivered with the request. Each of the matters of which an admission is requested shall be deemed admitted unless within a period designated by the Tribal Court.  The party to whom the request is directed serves upon the party requesting the admission a sworn statement either denying specifically the matters of which an admission is requested or setting forth truthfully either admitting or denying those matters. Any admission made by a party pursuant to such request is for the purpose of the pending action only and neither constitutes an admission by him for any other purpose nor may it be used against him in any other proceeding.</text>
-      <annotation type="Prior Codifications">§2.08.070 was formerly codified as 2.0807</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.08.070 was formerly codified as 2.0807</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.08.080</num>
       <heading>Refusal to Admit Requested Facts or Documents; Expense of Proof Charged to Party Refusing</heading>
       <text>If a party serves a sworn denial to a request for admission of fact or genuineness of documents and the requesting party thereafter proves such fact or the genuineness of such document, the requesting party may apply to the Court for an order requiring the denying party to pay the reasonable expenses incurred in making such proof, including reasonable agents or attorney's fees. The Court shall grant such order unless it finds that there were good reasons for the denial or that the admissions sought were of no substantial importance.</text>
-      <annotation type="Prior Codifications">§2.08.080 was formerly codified as 2.0808</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.08.080 was formerly codified as 2.0808</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -988,55 +1056,73 @@
         <num>(c)</num>
         <text>The failure of a party to demand a jury, as required by Subsection (b) of <cite path="§2.09.010">this section</cite>, constitutes a waiver by him of a trial by jury.</text>
       </para>
-      <annotation type="Prior Codifications">§2.09.010 was formerly codified as 2.0901</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.010 was formerly codified as 2.0901</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.020</num>
       <heading>Number of Jurors</heading>
       <text>A jury shall consist of six (6) persons, chosen in the manner hereinafter provided.</text>
-      <annotation type="Prior Codifications">§2.09.020 was formerly codified as 2.0902</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.020 was formerly codified as 2.0902</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.030</num>
       <heading>Qualification of Jurors</heading>
       <text>All enrolled Indians, who are residents of Rolette County, North Dakota, of the Turtle Mountain Band of Chippewa Indian Tribe, having the qualification of electors and being of sound mind, and who are able to read, write and understand the English language, and not judges or clerks of any Court or licensed attorneys engaged in practice, or police officers or jailers or ministers or members of the National Guard, and not subject to any bodily infirmity amounting to disability, and who have not been convicted of any felony, and who are not subject to disability by the commission of any offense which does or shall disqualify them and who have not been dishonorably discharged from the Armed Services, are and shall be competent persons to serve on juries within the Turtle Mountain Jurisdiction.</text>
-      <annotation type="Prior Codifications">§2.09.030 was formerly codified as 2.0903</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.030 was formerly codified as 2.0903</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.040</num>
       <heading>Jury Selectors</heading>
       <text>The Chairman of the Tribe, the Agency Superintendent and the Clerk of Court, or their designated representatives, shall constitute the board of jury selectors for the Turtle Mountain Jurisdiction. It shall be the duty of the board of jury selectors to select eligible and competent persons for jury service. If any jury selector be unable to serve by reason of absence, interest in the case pending, relationship to a party in a pending case or for other good cause, then the Tribal Court Judge shall appoint a substitute jury selector.</text>
-      <annotation type="Prior Codifications">§2.09.040 was formerly codified as 2.0904</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.040 was formerly codified as 2.0904</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.050</num>
       <heading>Jury List</heading>
       <text>The jury list shall contain the names of the eligible jurors within Rolette County, North Dakota, selected by the board of jury selectors. The jury list shall be compiled annually. Upon completion of the jury list, the board of jury selectors shall sign such list and file it with the Clerk of Court.</text>
-      <annotation type="Prior Codifications">§2.09.050 was formerly codified as 2.0905</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.050 was formerly codified as 2.0905</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.060</num>
       <heading>Annual Drawing of Prospective Jurors</heading>
       <text>The Clerk of the Tribal Court shall prepare separate name tickets for each person named in the list furnished by the jury selectors. The jury selectors shall meet at the office of the Clerk of the Tribal Court not later than January 10th of each year. The tickets shall be placed in a drawing box or jury wheel, shall be thoroughly mixed, and the Chairman of the Tribal Council and Clerk, or their designated representatives, shall in rotation, draw at least fifty (50) names. These names shall be recorded on the Clerk's permanent record of the jury list. The names not drawn shall be placed in a reserve envelope. This list shall constitute the jury list, which shall be signed by the officers drawing the names. If such list proves to be inadequate, additional drawings may be made from the reserve envelope, by order of the Tribal Judge.</text>
-      <annotation type="Prior Codifications">§2.09.060 was formerly codified as 2.0906</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.060 was formerly codified as 2.0906</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.070</num>
       <heading>Jury Panel</heading>
       <text>Within two (2) days after the receipt of the order of the Tribal Court Judge directing a jury to be summoned, the Clerk shall notify the parties or their attorneys that a drawing of a jury panel for the trial will take place at the Clerk's office. The tickets with the names corresponding to those on the list as provided in <cite path="§2.09.060">Section 2.09.060</cite> shall be placed in the jury wheel or drawing box, be thoroughly mixed, and shall be drawn one (1) at a time by the jury selectors in rotation, until twenty-four (24) names have been drawn. From this list of names, the defendant or his attorney shall strike one (1) name and then the plaintiff or his attorney shall strike one (1) name and so on alternately until twelve (12) names remain. If either party neglects or refuses to aid in the striking of the jury, the clerk shall strike on his behalf.</text>
-      <annotation type="Prior Codifications">§2.09.070 was formerly codified as 2.0907</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.070 was formerly codified as 2.0907</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.080</num>
       <heading>Summons</heading>
       <text>The clerk shall issue a summons, at least eight (8) days before trial, to the jurors not struck. The summons shall be served in the same manner as other summons in <cite path="§2.04.050">Section 2.04.050</cite> of this Code. If the summons be returned not served, then the clerk shall issue a new summons for any person on the roll of eligible jurors except those stricken by the parties. Such summons must be served at least five (5) days before the time set for trial.</text>
-      <annotation type="Prior Codifications">§2.09.080 was formerly codified as 2.0908</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.080 was formerly codified as 2.0908</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.090</num>
       <heading>Extra Jurors</heading>
       <text>Where an insufficient number of jurors respond when summoned, or where by challenge the number of jurors is reduced below the number required for that case, the judge shall command the police to summon and return forthwith with a sufficient number of eligible jurors to complete the panel.</text>
-      <annotation type="Prior Codifications">§2.09.090 was formerly codified as 2.0909</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.090 was formerly codified as 2.0909</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.100</num>
@@ -1123,25 +1209,33 @@
         <num>(g)</num>
         <text>After each challenge, sustained for cause or made peremptorily, another juror shall be called, may be challenged for cause and shall be subject to peremptory challenge.</text>
       </para>
-      <annotation type="Prior Codifications">§2.09.100 was formerly codified as 2.0910</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.100 was formerly codified as 2.0910</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.110</num>
       <heading>Peremptory Challenge; Number; Joint Defendants</heading>
       <text>Each party is entitled to two (2) peremptory challenges. If two (2) or more defendants are sued jointly, the plaintiff and defendants shall be entitled to two (2) peremptory challenges and these challenges on the part of the defendants must be exercised jointly.</text>
-      <annotation type="Prior Codifications">§2.09.110 was formerly codified as 2.0911</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.110 was formerly codified as 2.0911</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.120</num>
       <heading>Jury Oath</heading>
       <text>When the jury has been selected, the judge shall administer to the jurors the following oath: "You and each of you do solemnly swear or affirm that you will well and truly try the issues relative to the cause now on trial accord- ing to the law and the evidence under the pains and penalties of perjury."</text>
-      <annotation type="Prior Codifications">§2.09.120 was formerly codified as 2.0912</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.120 was formerly codified as 2.0912</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.130</num>
       <heading>Continuance</heading>
       <text>If a case be continued, the jury shall then be notified of the new date for trial and no further notice to them of such date is required. The penalty for failure to appear at the time to which the trial is continued is contempt of court.</text>
-      <annotation type="Prior Codifications">§2.09.130 was formerly codified as 2.0913</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.130 was formerly codified as 2.0913</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.140</num>
@@ -1149,33 +1243,43 @@
       <text>After the jury shall have been sworn, they shall sit together and hear the case. Upon the close of the evidence, the judge shall give oral or written instructions to the jury to the law applicable to the case.</text>
       <text>Upon receipt of the instructions the jury shall be kept together in a convenient place and be in the charge of some officer designated by the judge. They will so remain until a verdict has been reached or shall be discharged by the judge. In order to reach a verdict, at least five (5) of the jurors must agree upon the verdict.</text>
       <text>In all cases, the Tribal Judge shall have the power to direct a verdict before the matter is submitted to the jury, or to order a new trial if he deems the verdict inconsistent with the evidence.</text>
-      <annotation type="Prior Codifications">§2.09.140 was formerly codified as 2.0914</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.140 was formerly codified as 2.0914</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.150</num>
       <heading>Informed on Any Point of Law</heading>
       <text>After the jury has retired for deliberation, if there be any disagreement as to any part of the testimony or if it desires to be informed on any point of law arising in the case, it must require the officer to conduct it into court and, upon its being brought in, the information required may be given at the discretion of the Tribal Court.</text>
-      <annotation type="Prior Codifications">§2.09.150 was formerly codified as 2.0915</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.150 was formerly codified as 2.0915</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.160</num>
       <heading>Delivery of Verdict</heading>
       <text>When the jury has agreed upon a verdict, they shall deliver it to the judge, publicly, and he shall enter it upon his docket.</text>
       <text>If either party desires and shall so request, a poll of the jurors may be taken at the time the verdict is returned and if the verdict be not as reported, the jury shall return for further deliberation.</text>
-      <annotation type="Prior Codifications">§2.09.160 was formerly codified as 2.0916</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.160 was formerly codified as 2.0916</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.170</num>
       <heading>Jury's Failure to Agree</heading>
       <text>Whenever the judge shall be satisfied that the jury cannot agree on a verdict after due deliberation, he may discharge them and continue the case and if either party so demands, another jury must be selected as provided in <cite path="2.09">this chapter</cite>.</text>
       <text>The case shall be continued to such time as the Court thinks reasonable unless the parties or their attorneys agree on a longer or shorter time or unless they agree that the judge may render a decision on the evidence already before him.</text>
-      <annotation type="Prior Codifications">§2.09.170 was formerly codified as 2.0917</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.170 was formerly codified as 2.0917</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.09.180</num>
       <heading>Jury Fees</heading>
       <text>Upon the verdicts being delivered to the judge, each juror shall be paid from the Tribal Court Fund the sum of five dollars ($5) per day and seven cents (7¢) per mile while traveling to and from their place of residence to the place of trial, which shall be taxed against the losing party. If the jury is unable to reach a decision or is dismissed for any other cause, then the parties shall share the costs of the jury equally.</text>
-      <annotation type="Prior Codifications">§2.09.180 was formerly codified as 2.0918</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.09.180 was formerly codified as 2.0918</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1210,19 +1314,25 @@
         <num>(f)</num>
         <text>Failure to appear for jury duty when properly notified.</text>
       </para>
-      <annotation type="Prior Codifications">§2.10.010 was formerly codified as 2.1001</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.10.010 was formerly codified as 2.1001</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.10.020</num>
       <heading>Contempt Committed in Presence of</heading>
       <text>When contempt is committed in the immediate view and presence of a judge, it may be punished summarily. The judge must make an order reciting the facts as they occurred, and that the person proceeded against is guilty of contempt and that he be punished as therein prescribed.</text>
-      <annotation type="Prior Codifications">§2.10.020 was formerly codified as 2.1002</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.10.020 was formerly codified as 2.1002</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.10.030</num>
       <heading>Contempt Committed Not in Presence of Judge</heading>
       <text>When the contempt is not committed in the immediate view and presence of the judge, a warrant of arrest may be issued by such judge and the person so guilty may be arrested and brought before the judge immediately. The judge must give the arrested person an opportunity to make his defense or excuse. The judge may then discharge him or may convict him of the offense.</text>
-      <annotation type="Prior Codifications">§2.10.030 was formerly codified as 2.1003</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.10.030 was formerly codified as 2.1003</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.10.040</num>
@@ -1232,13 +1342,17 @@
         <num>(a)</num>
         <text>days plus court costs.</text>
       </para>
-      <annotation type="Prior Codifications">§2.10.040 was formerly codified as 2.1004</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.10.040 was formerly codified as 2.1004</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.10.050</num>
       <heading>Enter Conviction on Docket</heading>
       <text>The judge must enter on his docket the conviction specifying the offense and judgment thereon.</text>
-      <annotation type="Prior Codifications">§2.10.050 was formerly codified as 2.1005</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.10.050 was formerly codified as 2.1005</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1305,20 +1419,26 @@
         <num>(n)</num>
         <text>The satisfaction of the judgment and time of satisfying the same.</text>
       </para>
-      <annotation type="Prior Codifications">§2.11.010 was formerly codified as 2.1101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.11.010 was formerly codified as 2.1101</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.11.020</num>
       <heading>Arrangement of Docket</heading>
       <text>A judge or the Clerk of Court shall keep an alphabetical cross-index file to his docket in which must be entered alphabetically the names of the parties to each judgment or decision, with reference to the page of entry. The names of the plaintiffs and the defendants must be entered in the alphabetical order of the first letter of the family name. He shall number the cases progressively upon his docket and shall correspondingly number the papers in each case, and he shall keep the entire papers of each action together, and in packages of a convenient size, and in the order in which the cases are numbered on his docket.</text>
       <text>It is the duty of every judge, upon expiration of his term of office, to deposit with his successor his docket, as well as those of his predecessors, together with all files and papers, there to be kept as public records and property. If no successor is appointed he shall turn the records over to the Clerk of the Tribal Court on the reservation to be kept for the successor when he is appointed. A receipt shall be given by the Clerk receiving the docket and records.</text>
-      <annotation type="Prior Codifications">§2.11.020 was formerly codified as 2.1102</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.11.020 was formerly codified as 2.1102</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.11.030</num>
       <heading>Responsibility for Maintaining Docket and Other Court Records</heading>
       <text>It shall be the responsibi1ity of the Chief Tribal Court judge to insure that accurate and legible dockets and other court records are maintained by the Clerk of Court. Failure to fulfill these responsibilities shall be grounds for the removal of said Chief Judge and the Clerk of Court.</text>
-      <annotation type="Prior Codifications">§2.11.030 was formerly codified as 2.1103</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.11.030 was formerly codified as 2.1103</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1330,7 +1450,9 @@
       <heading>Plea of Incompetency</heading>
       <text>When incompetency, as defined in <cite path="§2.15.010|(d)">Section 2.15.010(d)</cite> is an issue, such competency or incompetency shall be determined by a Competency Board. Actions shall be commenced as in other civil suits.</text>
       <text>Upon the filing of a complaint, the Chief Tribal Judge shall order a hearing by the Board.</text>
-      <annotation type="Prior Codifications">§2.12.010 was formerly codified as 2.1201</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.12.010 was formerly codified as 2.1201</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.12.020</num>
@@ -1339,25 +1461,33 @@
       <text>The function of this Board shall be to determine the competency or incompetency of any Indian. In no case shall the Board act without all three members present. The Chief Tribal Judge shall be the Chairman of such Board and the prosecuting attorney shall be the clerk. In the case of the temporary absence or inability of either of such members to act, the chairman or the prosecuting attorney shall call to his aid a reputable practicing physician or licensed attorney who may act in the same capacity. The record in such cases must show the fact of the absence.</text>
       <text>Before entering upon the duties of his office, each of the persons constituting such Board shall take and subscribe an oath or affirmation to support the Constitution of the United States and of the reservation, and to discharge faithfully his official duties according to law, which oath shall be filed in the office of the Clerk of Courts of the Turtle Mountain Tribal Court.</text>
       <text>The Board shall hold the hearing in the Tribal Court room unless for good reason it shall select some other place. If it deems necessary or advisable, it may hold sessions at such times as it may fix or upon notice of the Chairman of the Board. The meeting shall not be open to the public.</text>
-      <annotation type="Prior Codifications">§2.12.020 was formerly codified as 2.1202</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.12.020 was formerly codified as 2.1202</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.12.030</num>
       <heading>Jurisdiction and Powers</heading>
       <text>This Board shall have Jurisdiction over all actions to determine competency or incompetency of Indians on the reservation for the purpose of guardianship. This Board shall have the power to issue subpoenas and compel obedience thereto and do any act of a Court necessary and proper for the purpose of discharging the duties required of it.</text>
-      <annotation type="Prior Codifications">§2.12.030 was formerly codified as 2.1203</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.12.030 was formerly codified as 2.1203</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.12.040</num>
       <heading>Powers and Duties of the Chairman</heading>
       <text>The Chairman of the Board shall sign and issue all notices, subpoenas, or other process required to be given or issued by the Board. The notices, reports and communications required to be given, may be sent by certified mail unless another method is necessary to insure the appearance of any party and the fact and date of such sending or reception must be noted on the record of the Board. The Chairman shall file all papers, notices, reports and other communications connected with any action of the Board in the office of the Clerk of Court of the Turtle Mountain Tribal Court. The Clerk of Court shall file the record of the proceedings of the Board. This record shall show the papers filed and shall contain a complete record of the findings, order and transactions of the Board.</text>
-      <annotation type="Prior Codifications">§2.12.040 was formerly codified as 2.1204</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.12.040 was formerly codified as 2.1204</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.12.050</num>
       <heading>Notice of Hearing</heading>
       <text>Notice of any hearing shall be posted on the Tribal bulletin board at least one (1) day prior to the hearing.</text>
-      <annotation type="Prior Codifications">§2.12.050 was formerly codified as 2.1205</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.12.050 was formerly codified as 2.1205</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1368,31 +1498,41 @@
       <num>2.13.010</num>
       <heading>Tribal Court of Appeals</heading>
       <text>The Tribal Court of Appeals is created by the adoption of <cite path="2.13">this chapter</cite> in the Tribal Code.</text>
-      <annotation type="Prior Codifications">§2.13.010 was formerly codified as 2.1301</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.010 was formerly codified as 2.1301</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.020</num>
       <heading>Composition; Appointment</heading>
       <text>The Turtle Mountain Tribal Court of Appeals shall consist of three (3)  judges, at least one (1) of whom shall be a licensed attorney under the laws of North Dakota and he shall be the presiding judge. They shall all be assigned to hear cases by the Chief Judge of the Turtle Mountain Tribal Court as occasion warrants. The Clerk of the Tribal Court shall also serve as the Clerk of the Tribal Court of Appeals.</text>
-      <annotation type="Prior Codifications">§2.13.020 was formerly codified as 2.1302</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.020 was formerly codified as 2.1302</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.030</num>
       <heading>Jurisdiction</heading>
       <text>The jurisdiction of the Court of Appeals shall be coextensive with that of the Tribal Court. All parties and property that are under the jurisdiction of the Tribal Court shall be within the jurisdiction of the Court of Appeals until the statutory time limit for appeal has expired. The Court of Appeals shall have power to issue any writs or orders necessary and proper to the complete exercise of its jurisdiction and to increase or decrease the award of damages when it is found that the verdict was inadequate or excessive.</text>
-      <annotation type="Prior Codifications">§2.13.030 was formerly codified as 2.1303</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.030 was formerly codified as 2.1303</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.040</num>
       <heading>Right to Appeal</heading>
       <text>Any party to a civil action or a defendant in a criminal action who is dissatisfied with any final judgment, writ or order of the Tribal Court shall have the right to appeal therefrom to the Tribal Court of Appeals.</text>
-      <annotation type="Prior Codifications">§2.13.040 was formerly codified as 2.1304</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.040 was formerly codified as 2.1304</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.050</num>
       <heading>New Trial</heading>
       <text>The Tribal Court of Appeals must try the case anew based upon the papers filed in the Tribal Court unless it appears as a matter of law from such papers that the case should be reversed and judgment entered by the appellant. A new trial shall be granted only upon the same substantive issue or issues that were tried in Tribal Court.</text>
-      <annotation type="Prior Codifications">§2.13.050 was formerly codified as 2.1305</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.050 was formerly codified as 2.1305</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.060</num>
@@ -1427,31 +1567,41 @@
         <text>Error of law occurring at the trial as in ruling on the admission of evidence or in charging the jury.</text>
         <text>The Clerk of Court shall enter such request on the docket and forward the request, together with a copy of the docket, to the Chief Judge. The Chief Judge shall then assign the case to the presiding judge and forward the request, together with a copy of the docket, to the presiding judge. If the presiding judge thinks the reasons stated show just cause for review of the decision of the Tribal Court, he shall permit the appeal and the Chief Judge shall assign the other judges. The presiding judge of the Appellate Court shall set the case for trial at the next term of court. If there are less than thirty (30) days between the granting of permission to appeal and the next term of court, such trial shall be set for the succeeding term of court. Within five (5) days after the date of the trial has been set, the Clerk of the Court of Appeals shall, by registered letter, give notice to all parties to the litigation in the Tribal Court of the pending appeal, the date of trial and any orders of the judge pertaining to such appeal.</text>
       </para>
-      <annotation type="Prior Codifications">§2.13.060 was formerly codified as 2.1306</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.060 was formerly codified as 2.1306</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.070</num>
       <heading>Denial of Appeal</heading>
       <text>In the event permission for appeal is denied he presiding judge of the Court of Appeals shall state his reasons for refusal, and in the same writing order the judge of the Tribal Court to release all bonds and to carry out the judgment of the Tribal Court. The Clerk of the Court of Appeals shall have such order entered on the docket of the Tribal Court and shall, within five (5) days of receipt of such order, send by registered mail, a copy of the order to the petitioner.</text>
-      <annotation type="Prior Codifications">§2.13.070 was formerly codified as 2.1307</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.070 was formerly codified as 2.1307</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.080</num>
       <heading>Parties Not Appearing at Trial</heading>
       <text>When one of the parties does not appear on the day set for trial, a default judgment shall be entered against him. Any party not appearing at the trial shall have ten (10) days from the date set for trial to show cause why a default judgment should not be entered against him.</text>
-      <annotation type="Prior Codifications">§2.13.080 was formerly codified as 2.1308</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.080 was formerly codified as 2.1308</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.090</num>
       <heading>Pre-Trial Hearing</heading>
       <text>There may be, at the Appellate Court's discretion, a pre-trial hearing wherein the Appellate Court can meet with the petitioner and/or his counsel, and the respondent and/or his counsel for the purpose of resolving issues prior to trial. The Clerk of the Court of Appeals shall give notice to all parties who are to be present at the hearing. Such notices shall be given at least ten (10) days before the date of such hearing and shall include the time, date and place of the hearing and the reason for such hearing.</text>
-      <annotation type="Prior Codifications">§2.13.090 was formerly codified as 2.1309</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.090 was formerly codified as 2.1309</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.100</num>
       <heading>Term of Court</heading>
       <text>The term of the Court of Appeals may be held four (4) times a year, once each quarter, dates to be set by the Chief Tribal Judge. Such term of court shall be held at the Tribal Court house, and the trial procedures shall be the same as those which are prescribed in this Code for Tribal Court, except that no jury trial may be held in Appellate Court. Decision shall be by a majority of the Appellate Judges and shall constitute a final determination of the case.</text>
-      <annotation type="Prior Codifications">§2.13.100 was formerly codified as 2.1310</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.100 was formerly codified as 2.1310</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.13.110</num>
@@ -1482,7 +1632,9 @@
         <text>Reasoning of the case.</text>
       </para>
       <aftertext>The Clerk of the Court of Appeals shall have a copy of this memorandum entered on the docket of the Tribal Court.</aftertext>
-      <annotation type="Prior Codifications">§2.13.110 was formerly codified as 2.1311</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.13.110 was formerly codified as 2.1311</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1513,13 +1665,17 @@
         <num>(e)</num>
         <text>that he is not a member of the Tribal Council, an employee of the Tribe or of the United States.</text>
       </para>
-      <annotation type="Prior Codifications">§2.14.010 was formerly codified as 2.1401</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.14.010 was formerly codified as 2.1401</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.14.020</num>
       <heading>Filing Fee</heading>
       <text>A filing fee of five dollars ($5) shall accompany each application for admission to the bar.</text>
-      <annotation type="Prior Codifications">§2.14.020 was formerly codified as 2.1402</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.14.020 was formerly codified as 2.1402</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.14.030</num>
@@ -1527,13 +1683,17 @@
       <text>As a condition to admission, each attorney shall take the following oath:</text>
       <text>"I do solemnly swear (or affirm) that I will support and defend the Constitution of the United States of America against all enemies, foreign and domestic; that I will faithfully discharge all duties incumbent on me as an attorney to the best of my abilities and understanding. So help me God."</text>
       <text>Each attorney, also shall agree, in writing, to represent indigent defendants in criminal cases upon assignment by the Court.</text>
-      <annotation type="Prior Codifications">§2.14.030 was formerly codified as 2.1403</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.14.030 was formerly codified as 2.1403</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.14.040</num>
       <heading>Attorneys' Roll</heading>
       <text>A roll of attorneys admitted to practice before the Court shall be maintained by the Clerk of Court.</text>
-      <annotation type="Prior Codifications">§2.14.040 was formerly codified as 2.1404</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.14.040 was formerly codified as 2.1404</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.14.050</num>
@@ -1559,19 +1719,25 @@
         <num>(e)</num>
         <text>Failure to act as counsel for a defendant upon assignment of the Court.</text>
       </para>
-      <annotation type="Prior Codifications">§2.14.050 was formerly codified as 2.1405</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.14.050 was formerly codified as 2.1405</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.14.060</num>
       <heading>Prosecuting Attorneys and Defense Attorneys</heading>
       <text>Any, indigent defendant who pleads "not guilty" to an offense, or combination of offenses, punishable by imprisonment for six (6) months or more and is unable to secure an attorney for his defense, shall be entitled to be represented by an attorney appointed by the Court from the Attorneys' roll. Where a defendant is represented by an attorney, the Court, in its discretion, may appoint a prosecuting attorney from the Attorneys' roll or outside the Attorneys' roll. The prosecuting attorney so appointed shall be compensated for his services at a rate equal to the fee or compensation paid to prosecutors by the county in which the Court sits.</text>
-      <annotation type="Prior Codifications">§2.14.060 was formerly codified as 2.1406</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.14.060 was formerly codified as 2.1406</annotation>
+      </annotations>
     </section>
     <section>
       <num>2.14.070</num>
       <heading>Council Members Shall Not Practice as Attorneys</heading>
       <text>No member of the Tribal Council shall practice before the Tribal Court or the Tribal Court of Appeals during his term of office.</text>
-      <annotation type="Prior Codifications">§2.14.070 was formerly codified as 2.1407</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.14.070 was formerly codified as 2.1407</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1633,7 +1799,9 @@
         <num>(m)</num>
         <text>Any designated documents, papers, books, accounts, letters, photographs, objects or tangible things which constitute, point to or contain evidence on any matter involved in the action.</text>
       </para>
-      <annotation type="Prior Codifications">§2.15.010 was formerly codified as 2.1501</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§2.15.010 was formerly codified as 2.1501</annotation>
+      </annotations>
     </section>
   </container>
 </container>

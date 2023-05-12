@@ -11,7 +11,9 @@
       <num>13.01.010</num>
       <heading>Purpose</heading>
       <text>The purpose of <cite path="13">this title</cite> is to establish the laws for the election of the Tribal and Judicial officials and representatives in a fair and impartial manner consistent with the democratic principle of allowing the people to vote for the person who will represent their rights and interests and those of the Tribe in government and in the judicial system and in compliance with the <cite doc="Turtle Mountain Constitution and By-laws">Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians</cite>.</text>
-      <annotation type="Prior Codifications">§13.01.010 was formerly codified as 13.0101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.01.010 was formerly codified as 13.0101</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -75,8 +77,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 952-09-12"/>
+        <annotation type="Prior Codifications">§13.02.010 was formerly codified as 13.0201</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§13.02.010 was formerly codified as 13.0201</annotation>
     </section>
   </container>
   <container>
@@ -95,7 +97,9 @@
         <num>(b)</num>
         <text>All eligible resident voters shall register in the district of their residence as provided by tribal ordinance. All eligible nonresident voters shall register with the district of their former residence or affiliation.</text>
       </para>
-      <annotation type="Prior Codifications">§13.03.010 was formerly codified as 13.0301</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.03.010 was formerly codified as 13.0301</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -115,14 +119,16 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 916-09-14"/>
+        <annotation type="Prior Codifications">§13.04.010 was formerly codified as 13.0401</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§13.04.010 was formerly codified as 13.0401</annotation>
     </section>
     <section>
       <num>13.04.020</num>
       <heading>Election Committee</heading>
       <text>An Election Committee, appointed by the Election Board, shall be comprised of at least one (1) election clerk and two (2) election judges from and for each district. The Election Committee members have no authority to vote on contested election issues which are within the province of the Election Board.</text>
-      <annotation type="Prior Codifications">§13.04.020 was formerly codified as 13.0402</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.04.020 was formerly codified as 13.0402</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.04.030</num>
@@ -147,7 +153,9 @@
           <text>Is an employer or employee of a candidate in the present election or an employee of the Tribe. For purposes of <cite path="§13.04.030">this section</cite>, "employee of the tribe" is defined as a person whose paycheck comes directly from a tribal account.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§13.04.030 was formerly codified as 13.0403</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.04.030 was formerly codified as 13.0403</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.04.040</num>
@@ -160,7 +168,9 @@
         <num>(b)</num>
         <text>Any vacancy occurring under <cite path="§13.04.040">this section</cite> or otherwise shall be filled in accordance with §13.0401 or §13.0402 of <cite path="13">this title</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§13.04.040 was formerly codified as 13.0404</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.04.040 was formerly codified as 13.0404</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.04.050</num>
@@ -174,7 +184,9 @@
         <num>(b)</num>
         <text>Such oath may be taken before any officer authorized by law to administer oaths, and in case no such officer is present at the opening of the polls, the inspector or election judges shall administer the oath to each other and to the election clerks. The person administering the oath shall cause an entry thereof to be made and subscribed by him and affixed to the poll book.</text>
       </para>
-      <annotation type="Prior Codifications">§13.04.050 was formerly codified as 13.0405</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.04.050 was formerly codified as 13.0405</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -237,7 +249,9 @@
         <num>(k)</num>
         <text>Distribute rules governing campaigning and election day conduct to all candidates at the time the candidate files his or her notice of intent.</text>
       </para>
-      <annotation type="Prior Codifications">§13.05.010 was formerly codified as 13.0501</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.010 was formerly codified as 13.0501</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.05.020</num>
@@ -255,7 +269,9 @@
         <num>(c)</num>
         <text>Serve as Election Inspector at an election polling site assigned by the Election Board Chairperson.</text>
       </para>
-      <annotation type="Prior Codifications">§13.05.020 was formerly codified as 13.0502</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.020 was formerly codified as 13.0502</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.05.030</num>
@@ -284,7 +300,9 @@
         <num>(d)</num>
         <text>At any time during its appointed term to verify any recall petitions accepted by the Tribal Council Chairperson or his/her duly authorized representative in accordance with §13.1205.</text>
       </para>
-      <annotation type="Prior Codifications">§13.05.030 was formerly codified as 13.0503</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.030 was formerly codified as 13.0503</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.05.040</num>
@@ -314,7 +332,9 @@
         <num>(f)</num>
         <text>Accept recall petitions on behalf of the Election Board from the Tribal Council or Tribal Chairperson or appoint a representative from the Election Board to accept such petitions.</text>
       </para>
-      <annotation type="Prior Codifications">§13.05.040 was formerly codified as 13.0504</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.040 was formerly codified as 13.0504</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.05.050</num>
@@ -348,7 +368,9 @@
         <num>(g)</num>
         <text>Transport the locked ballot boxes received from the Election Judge(s) containing all ballots and election records of each polling site to the Chairperson of the Election Board.</text>
       </para>
-      <annotation type="Prior Codifications">§13.05.050 was formerly codified as 13.0505</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.050 was formerly codified as 13.0505</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.05.060</num>
@@ -378,7 +400,9 @@
         <num>(f)</num>
         <text>Place and lock in the ballot box, all properly cast ballots, all spoiled or mutilated ballots, all unused ballots and all election records of the polling site, and deliver the locked ballot box to the Election Inspector after the tally of the ballots has been completed.</text>
       </para>
-      <annotation type="Prior Codifications">§13.05.060 was formerly codified as 13.0506</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.060 was formerly codified as 13.0506</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.05.070</num>
@@ -404,19 +428,25 @@
         <num>(e)</num>
         <text>Assist the Election Judges and Election Board in the tally of the ballots, if necessary.</text>
       </para>
-      <annotation type="Prior Codifications">§13.05.070 was formerly codified as 13.0507</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.070 was formerly codified as 13.0507</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.05.080</num>
       <heading>Conduct of Election Officials</heading>
       <text>Members of the Election Board and their appointees shall be responsible for the conduct of elections in Rolette County for the Turtle Mountain Band of Chippewa Indians and shall conduct themselves in a lawful manner befitting the status of their office. An election official must be present at the polls at all times during the election. In addition, election officials shall not express any preference for any candidate during the execution of their statutory duties. Any election official who fails to perform the duties prescribed in <cite path="13.05">this chapter</cite> shall be subject to immediate removal by the Tribal Council.</text>
-      <annotation type="Prior Codifications">§13.05.080 was formerly codified as 13.0508</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.080 was formerly codified as 13.0508</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.05.090</num>
       <heading>Determination and Appeal</heading>
       <text>The determinations of the Election Board or Election Committee under §13.0502(1), §13.0503(1)(A), §13.0505(1), §13.0901(1) and §13.1004 are final and not subject to appeal. The determinations of the Election Board under §13.0501(1) and §13.1003 may be immediately appealed to the Turtle Mountain Tribal Court. Verification of election results may be appealed pursuant to §13.1301.</text>
-      <annotation type="Prior Codifications">§13.05.090 was formerly codified as 13.0509</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.05.090 was formerly codified as 13.0509</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -446,7 +476,9 @@
       <text>Received by Election Board: Date: _ Time: _</text>
       <text>Initials of Election Board designee:</text>
       <text>Initials of Candidate: _</text>
-      <annotation type="Prior Codifications">§13.06.010 was formerly codified as 13.0601</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.06.010 was formerly codified as 13.0601</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -481,13 +513,17 @@
         <num>(f)</num>
         <text>Shall furnish written proof for all requirements.  In addition, candidates for District Representatives must reside in the district they seek to represent.</text>
       </para>
-      <annotation type="Prior Codifications">§13.07.010 was formerly codified as 13.0701</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.07.010 was formerly codified as 13.0701</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.07.020</num>
       <heading>Establishment of Qualifications for Judicial Office</heading>
       <text>Pursuant to Article XIV Section 4, qualifications for Chief Judge, Associate Judge, and Chief Clerk of Court shall be developed by the Judicial Board and approved by the Tribal Council.</text>
-      <annotation type="Prior Codifications">§13.07.020 was formerly codified as 13.0702</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.07.020 was formerly codified as 13.0702</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.07.030</num>
@@ -525,7 +561,9 @@
         <num>(h)</num>
         <text>Furnish written proof for all requirements.</text>
       </para>
-      <annotation type="Prior Codifications">§13.07.030 was formerly codified as 13.0703</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.07.030 was formerly codified as 13.0703</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.07.040</num>
@@ -563,7 +601,9 @@
         <num>(h)</num>
         <text>Furnish written proof for all requirements.</text>
       </para>
-      <annotation type="Prior Codifications">§13.07.040 was formerly codified as 13.0704</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.07.040 was formerly codified as 13.0704</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.07.050</num>
@@ -601,7 +641,9 @@
         <num>(h)</num>
         <text>Furnish written proof for all requirements.</text>
       </para>
-      <annotation type="Prior Codifications">§13.07.050 was formerly codified as 13.0705</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.07.050 was formerly codified as 13.0705</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -612,19 +654,25 @@
       <num>13.08.010</num>
       <heading>Names on Ballot</heading>
       <text>The names of the incumbents shall be placed on the ballot first, with the incumbent who received the highest number of votes in the previous election to be first. All other candidates' names shall be placed on the ballot in the order in which their Notice of Intent is filed.</text>
-      <annotation type="Prior Codifications">§13.08.010 was formerly codified as 13.0801</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.08.010 was formerly codified as 13.0801</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.08.020</num>
       <heading>Secret Ballots</heading>
       <text>Ballots shall be marked in secret and shall be cast by dropping into locked ballot boxes.</text>
-      <annotation type="Prior Codifications">§13.08.020 was formerly codified as 13.0802</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.08.020 was formerly codified as 13.0802</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.08.030</num>
       <heading>Votes in District; Votes at Large</heading>
       <text>Votes for Tribal Chairperson, District Representatives, Chief Tribal Judge, Associate Tribal Judge, and Chief Clerk of Court shall be cast at large in all districts. Votes for candidates for the Judicial Board shall be cast only by voters of the candidate's district.</text>
-      <annotation type="Prior Codifications">§13.08.030 was formerly codified as 13.0803</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.08.030 was formerly codified as 13.0803</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -658,19 +706,25 @@
         <num>(d)</num>
         <text>The voter shall make and subscribe the affidavit before any officer authorized by law to administer oaths, and thereupon in the presence of such officer and of no other person, mark the ballot in such manner that the officer does not observe the marking thereon. After marking the ballot, in the presence of the officer, the voter shall place the ballot in the envelope marked "Absentee Ballot" then seal the envelope. The "Absentee Ballot" envelope shall then be placed in the larger, pre- addressed envelope together with the affidavit and mailed or delivered to the Tribal Administrative Secretary who shall stamp the date received and deliver all unopened absentee ballots to the Chairperson of the Election Board not later than the close of the polls on election day.</text>
       </para>
-      <annotation type="Prior Codifications">§13.09.010 was formerly codified as 13.0901</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.09.010 was formerly codified as 13.0901</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.09.020</num>
       <heading>Falsification of Absentee Voter Affidavit</heading>
       <text>Any person who knowingly falsifies an absentee voter affidavit shall be guilty of a Class 1 misdemeanor offense.</text>
-      <annotation type="Prior Codifications">§13.09.020 was formerly codified as 13.0902</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.09.020 was formerly codified as 13.0902</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.09.030</num>
       <heading>Records</heading>
       <text>The Election Board shall maintain a record of all absentee ballots distributed, to whom they were distributed, the date of mailing, the date of the return of the ballot and the name and address from whom received, and shall count and register all such votes after all other ballots have been counted and include them in the results of the election.</text>
-      <annotation type="Prior Codifications">§13.09.030 was formerly codified as 13.0903</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.09.030 was formerly codified as 13.0903</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -688,7 +742,9 @@
         <num>(b)</num>
         <text>General elections will be held on the first Tuesday in November in even numbered years. If the election is to fall on a holiday, the general election shall coincide with national, state and county election dates.</text>
       </para>
-      <annotation type="Prior Codifications">§13.10.010 was formerly codified as 13.1001</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.010 was formerly codified as 13.1001</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.020</num>
@@ -721,19 +777,25 @@
         <num>(b)</num>
         <text>Not less than fourteen (14) days prior to the Primary Election, and five (5) days prior to the General Election, the notice of election shall be published. Notice of all other elections shall be published as required in <cite path="13">this title</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§13.10.020 was formerly codified as 13.1002</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.020 was formerly codified as 13.1002</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.030</num>
       <heading>Void Elections</heading>
       <text>The number of valid and invalid ballots cast should correspond with the number of voters recorded. Discrepancies in the number of votes cast and number recorded should be documented and evaluated by the Election Board. If a discrepancy between the two cast serious doubt on the validity of the election result in any district, the election results for that district shall be considered void and a new election called by the Election Board for that district only.</text>
-      <annotation type="Prior Codifications">§13.10.030 was formerly codified as 13.1003</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.030 was formerly codified as 13.1003</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.040</num>
       <heading>Watchers</heading>
       <text>Each of the candidates shall be entitled to have one (1) watcher at each polling site during voting and tallying shall mean by hand or electronic equipment of the ballots, but such watchers shall in no way interfere with the conduct of the election. If an election judge determines that a watcher is unduly interfering with the conduct of the election, he may eject the watcher from the polling site.</text>
-      <annotation type="Prior Codifications">§13.10.040 was formerly codified as 13.1004</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.040 was formerly codified as 13.1004</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.050</num>
@@ -762,13 +824,17 @@
         <text>The signed affidavit shall be enclosed in the envelope with the ballot.</text>
         <text>If the voter refuses to sign the affidavit, the person is prohibited from casting a vote.</text>
       </para>
-      <annotation type="Prior Codifications">§13.10.050 was formerly codified as 13.1005</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.050 was formerly codified as 13.1005</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.060</num>
       <heading>Falsification of Voter Qualification Affidavit</heading>
       <text>Any person who knowingly falsifies a voter qualification affidavit shall be guilty of a Class 1 misdemeanor offense.</text>
-      <annotation type="Prior Codifications">§13.10.060 was formerly codified as 13.1006</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.060 was formerly codified as 13.1006</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.070</num>
@@ -781,19 +847,25 @@
         <num>(b)</num>
         <text>All publicly viewed campaign materials and signs must be removed within five (5) days following the General election. Candidates will be charged a $100 deposit by the Tribe at the time they sign their Notice of Intent to Run for Office. Fifty dollars ($50) is a Tribal administrative fee and fifty dollars ($50) may be reimbursed. Should a candidate fail to remove such campaign materials, five (5) days after the General Election, they will lose their deposit. TMBC916-09-14</text>
       </para>
-      <annotation type="Prior Codifications">§13.10.070 was formerly codified as 13.1007</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.070 was formerly codified as 13.1007</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.080</num>
       <heading>Loitering</heading>
       <text>Loitering on the premises of a polling site is not permitted during voting hours.</text>
-      <annotation type="Prior Codifications">§13.10.080 was formerly codified as 13.1008</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.080 was formerly codified as 13.1008</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.090</num>
       <heading>Polling Sites/Polling Place Accessibility</heading>
       <text>Polling sites, as determined by the Election Board in coordination with County and State election officials, shall be used in all tribal elections and they shall be open from eight (8:00) a.m. to nine (9:00) p.m. Central Time, on the date established for the election. Alternate polling sites may be used provided the election notice identifies such polling site. All polling sites must be handicapped accessible.</text>
-      <annotation type="Prior Codifications">§13.10.090 was formerly codified as 13.1009</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.090 was formerly codified as 13.1009</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.10.100</num>
@@ -806,7 +878,9 @@
         <num>(b)</num>
         <text>No voter, other than one who is unable to read the English language or one who because of disability is unable to mark a ballot, may divulge to anyone within the polling site the name of any candidate for whom the voter intends to vote, nor ask, nor receive the assistance of any person within the polling site to mark the voters ballot except as provided herein.</text>
       </para>
-      <annotation type="Prior Codifications">§13.10.100 was formerly codified as 13.1010</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.10.100 was formerly codified as 13.1010</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -817,7 +891,9 @@
       <num>13.11.010</num>
       <heading>Determination of Election</heading>
       <text>The candidate or issue receiving the majority, which shall mean the greatest number of votes cast, shall prevail. In the event more than one (1) representative in a district is required to be elected, the positions shall be filled by the candidates receiving the most votes in descending order.</text>
-      <annotation type="Prior Codifications">§13.11.010 was formerly codified as 13.1101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.11.010 was formerly codified as 13.1101</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.11.020</num>
@@ -830,13 +906,17 @@
         <num>(b)</num>
         <text>If a candidate wishes a recount of the votes cast in the election, but he or she differs from the highest vote getter by a number of votes greater than ten (10), he or she may request a recount provided that such request be accompanied by a payment of $500 in the form of cash, certified check or money order to cover the expense of the recount.</text>
       </para>
-      <annotation type="Prior Codifications">§13.11.020 was formerly codified as 13.1102</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.11.020 was formerly codified as 13.1102</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.11.030</num>
       <heading>Primary Election</heading>
       <text>In descending order of votes, the top three (3) candidates receiving the majority, which shall mean the greatest number of votes cast, in the primary shall be included in the general election, and the top two (2) candidates for Chairman receiving the majority of votes in the primary elections shall be included in the general election corresponding to the number of vacancies in the district and the candidate for Chairman's vacancy receiving the majority of the votes shall be considered elected<strong>, </strong>in accordance with Amendment <s>XXII</s> XXIX of the <cite doc="Turtle Mountain Constitution and By-laws">Constitution of the Turtle Mountain Band of Chippewa Indians</cite>; (Amendment approved August 11, 2015)</text>
-      <annotation type="Prior Codifications">§13.11.030 was formerly codified as 13.1103</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.11.030 was formerly codified as 13.1103</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.11.040</num>
@@ -853,19 +933,25 @@
         <num>(c)</num>
         <text>Notwithstanding other time provisions specified by the Turtle Mountain Administrative Procedures Act, (TAPA), <cite path="22">Title 22</cite> of this Code, a Notice of appeal of the election results must be filed with the Tribal Secretary within five (5) days of certification of the election results by the Tribal Secretary/Treasurer. Upon receipt of a Notice of Appeal, The Tribal Secretary/Treasurer shall immediately notify a TAPA hearing officer and transmit a copy of the Notice of Appeal to the hearing officer, who shall treat the Notice of Appeal as a TAPA petition in conformance with §22.1106 of the Tribal Code and schedule a hearing in accordance with <cite path="22">Title 22</cite><strong>.</strong></text>
       </para>
-      <annotation type="Prior Codifications">§13.11.040 was formerly codified as 13.1104</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.11.040 was formerly codified as 13.1104</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.11.050</num>
       <heading>Oath of Office</heading>
       <text>The oath of office shall be administered by a judge of the Tribal Court, or such other person as may be designated by the Tribal Council.</text>
-      <annotation type="Prior Codifications">§13.11.050 was formerly codified as 13.1105</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.11.050 was formerly codified as 13.1105</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.11.060</num>
       <heading>Seating of Office</heading>
       <text>In accordance with <cite doc="Turtle Mountain Constitution and By-laws" path="VII|5">Article VII Section 5 of the Constitution</cite>, the newly elected Tribal and Judicial officers and district representatives shall be installed in office at the first regular monthly meeting of the Tribal Council, held pursuant to <cite doc="Turtle Mountain Constitution and By-laws" path="VII|1">Article VII, section 1 of the Turtle Mountain Band of Chippewa Indians Constitution</cite>, after certification of the election results has been issued by the Tribal Secretary/Treasurer provided that such meeting must be held no later than thirty (30) days following the date of the General Election. If the outgoing officers and/or district representatives fail or refuse to conduct such meeting, their duly elected replacements hereunder may convene such meeting and commence their respective duties.</text>
-      <annotation type="Prior Codifications">§13.11.060 was formerly codified as 13.1106</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.11.060 was formerly codified as 13.1106</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -876,25 +962,33 @@
       <num>13.12.010</num>
       <heading>Purpose</heading>
       <text>The right of the enrolled members of the Turtle Mountain Band of Chippewa Indians to elect representatives to protect and promote the best interests of all Tribal members is an important right. Along with the right to elect, is the right to refer to the voters any enacted or proposed resolution or ordinance; propose constitutional amendments; and to recall any representative who has demonstrated the inability or unwillingness to carry out their elected responsibility. The following process is adopted to protect these rights. The following process is not designed to be used as a manner of harassing, vexing or annoying an elected official nor an elected government. It shall be the right of any Qualified Voter to petition the Turtle Mountain Tribal Court any time they may believe that this process is being utilized for any reason not consistent with <cite path="§13.12.010">this section</cite>, for a determination of that issue. If the Turtle Mountain Tribal Court determines, after notice and hearing, that the process is being used for a purpose inconsistent with <cite path="§13.12.010">this section</cite>, it may enjoin the petitioners from further proceeding with such action.</text>
-      <annotation type="Prior Codifications">§13.12.010 was formerly codified as 13.1201</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.12.010 was formerly codified as 13.1201</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.12.020</num>
       <heading>Remedy for Misuse of Recall Process</heading>
       <text>It shall be the right of any Qualified voter to petition the Turtle Mountain Tribal Court, any time they believe that this process is being utilized for any reason not consistent with <cite path="§13.12.020">this section</cite>, for a determination of that issue.  If the Turtle Mountain Tribal Court determined, after notice and hearing, that the process is being used for a purpose inconsistent with <cite path="§13.12.020">this section</cite>, it may enjoin the petitioners from further proceeding with such action.</text>
-      <annotation type="Prior Codifications">§13.12.020 was formerly codified as 13.1202</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.12.020 was formerly codified as 13.1202</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.12.030</num>
       <heading>Recall of District Official</heading>
       <text>Recall of a representative elected by district vote shall be instituted by a petition signed by a number of qualified voters equal to twenty percent (20<strong>%</strong>) of the total votes cast in the last general election.</text>
-      <annotation type="Prior Codifications">§13.12.030 was formerly codified as 13.1203</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.12.030 was formerly codified as 13.1203</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.12.040</num>
       <heading>Recall of At-Large Official</heading>
       <text>Recall of an official who is elected by the voters at large, shall be instituted by a petition signed by a number of qualified voters equal to twenty percent (20<strong>%</strong>) of the total votes cast in the last general election.</text>
-      <annotation type="Prior Codifications">§13.12.040 was formerly codified as 13.1204</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.12.040 was formerly codified as 13.1204</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.12.050</num>
@@ -975,8 +1069,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 916-09-14"/>
+        <annotation type="Prior Codifications">§13.12.050 was formerly codified as 13.1205</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§13.12.050 was formerly codified as 13.1205</annotation>
     </section>
     <section>
       <num>13.12.060</num>
@@ -1036,8 +1130,8 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 916-09-14"/>
+        <annotation type="Prior Codifications">§13.12.060 was formerly codified as 13.1206</annotation>
       </annotations>
-      <annotation type="Prior Codifications">§13.12.060 was formerly codified as 13.1206</annotation>
     </section>
     <section>
       <num>13.12.070</num>
@@ -1101,13 +1195,17 @@
         <text>_______ No A "NO" vote is <u>"AGAINST"</u> amending</text>
         <text>Article _______Section _______.</text>
       </para>
-      <annotation type="Prior Codifications">§13.12.070 was formerly codified as 13.1207</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.12.070 was formerly codified as 13.1207</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.12.080</num>
       <heading>Vacancy in Office</heading>
       <text>The Tribal Council by an affirmative vote of the majority shall appoint a replacement to fill any vacancy of a district representative or other elected officer, caused by removal, recall, death, or resignation, provided the term of the replacement shall not extend beyond the next regular election regardless of the length of the unexpired term.</text>
-      <annotation type="Prior Codifications">§13.12.080 was formerly codified as 13.1208</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.12.080 was formerly codified as 13.1208</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1118,7 +1216,9 @@
       <num>13.13.010</num>
       <heading>Purpose</heading>
       <text>The right of the enrolled members of the Turtle Mountain Band of Chippewa Indians to elect representatives to protect and promote the best interests of all Tribal members is an important right. Along with the right to elect, is the right to remove any representative who has demonstrated the inability or unwillingness to carry out their elected responsibility. The following process is adopted to protect these rights. The process is not designed to be used as a manner of harassing, vexing or annoying an elected official nor an elected government. In order to ensure an orderly hearing and to ensure that the individual subject to the removal proceeding receives their due process rights, pursuant to <cite doc="Turtle Mountain Constitution and By-laws" path="VIII|2">Article VIII, Section 2, of the Tribal Constitution</cite> and in accordance with <cite path="§13.13.010">this section</cite> of the Tribal Code, the following procedures that will be employed at the Tribal Council meeting assembled for removal purposes.</text>
-      <annotation type="Prior Codifications">§13.13.010 was formerly codified as 13.1301</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.13.010 was formerly codified as 13.1301</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.13.020</num>
@@ -1148,7 +1248,9 @@
         <num>(f)</num>
         <text>Any officer or representative who shall be guilty of omission of duty or who shall willfully and corruptly be guilty of oppression, misconduct or misfeasance in the discharge of the duties of his office.</text>
       </para>
-      <annotation type="Prior Codifications">§13.13.020 was formerly codified as 13.1302</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.13.020 was formerly codified as 13.1302</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.13.030</num>
@@ -1241,13 +1343,17 @@
         <num>(g)</num>
         <text>Upon the passage of a resolution removing the individual subject to removal, that individual is immediately removed from office and has no further powers as a member of the Tribal Council or as an officer of the Tribe; if the person being removed is the Tribal Chairman, upon adoption of the removal resolution the Tribal Chairman loses all powers as Tribal Chairman, including the power of veto.</text>
       </para>
-      <annotation type="Prior Codifications">§13.13.030 was formerly codified as 13.1303</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.13.030 was formerly codified as 13.1303</annotation>
+      </annotations>
     </section>
     <section>
       <num>13.13.040</num>
       <heading>Vacancy in Office</heading>
       <text>Shall be in the manner prescribed in §13.1208 of <cite path="13">this title</cite>.</text>
-      <annotation type="Prior Codifications">§13.13.040 was formerly codified as 13.1304</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§13.13.040 was formerly codified as 13.1304</annotation>
+      </annotations>
     </section>
   </container>
 </container>

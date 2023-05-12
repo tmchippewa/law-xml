@@ -11,7 +11,9 @@
       <num>27.01.010</num>
       <heading>Purpose</heading>
       <text>The purpose of <cite path="27">this title</cite> is to assist Tribal members in obtaining mortgage financing for the purchase of one-family, owner-occupied principal residences on certain Leasehold Estates, by prescribing procedures relating to recordation, foreclosure and evictions in connection with Leasehold Mortgages given to secure loans made by Mortgages pursuant to the Native American Housing Pilot Initiative (the "Initiative") offered by the Federal National Mortgage Association ("Fannie Mae") and Leasehold Mortgages given to secure loans made by the Department of Veterans Affairs under the Native American Veteran Direct Loan Program authorized under Title 38 U.S. Code § 3761, et seq. ("VA Program") and any other leasehold mortgages or liens authorized and valid pursuant to federal law.</text>
-      <annotation type="Prior Codifications">§27.01.010 was formerly codified as 27.0101</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.01.010 was formerly codified as 27.0101</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -129,7 +131,9 @@
         <num>(r)</num>
         <text>"Secretary" shall mean the Secretary of the United States Department of Veterans Affairs or designee.</text>
       </para>
-      <annotation type="Prior Codifications">§27.02.010 was formerly codified as 27.0201</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.02.010 was formerly codified as 27.0201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -140,7 +144,9 @@
       <num>27.03.010</num>
       <heading>Priority</heading>
       <text>A leasehold Mortgage recorded in accordance with the recording procedures set forth in <cite path="27">this title</cite> shall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim (except a lien or claim arising from a Tribal tax assessed against a leasehold Estate subject to the leasehold Mortgage).</text>
-      <annotation type="Prior Codifications">§27.03.010 was formerly codified as 27.0301</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.03.010 was formerly codified as 27.0301</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -151,7 +157,9 @@
       <num>27.04.010</num>
       <heading>Recording</heading>
       <text>The Tribe recognizes that the appropriate office for recording Leases and Leasehold Mortgages is the Bureau of Indian Affairs Area Land Titles and Records Office, and the Tribe agrees that all Leases and Leasehold Mortgages subject to <cite path="27">this title</cite> will be recorded in the county recorder's office in the state in which the Leasehold Estates are located.</text>
-      <annotation type="Prior Codifications">§27.04.010 was formerly codified as 27.0401</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.04.010 was formerly codified as 27.0401</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -210,19 +218,25 @@
         <num>(b)</num>
         <text>By obtaining a summons, issued as in other cases, requiring the Mortgagor(s) and each other person or entity claiming through the Mortgagor, as defendants to appear for a trial upon the complaint on a date and time specified in the summons, and filing a copy of such summons with the Tribal Court.</text>
       </para>
-      <annotation type="Prior Codifications">§27.05.010 was formerly codified as 27.0501</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.05.010 was formerly codified as 27.0501</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.05.020</num>
       <heading>Service of Process and Procedures</heading>
       <text>The laws of the Tribe governing service of process and all other matters relating to the conduct of Tribal Court proceedings shall apply to any leasehold Mortgage Foreclosure Proceeding pursuant to <cite path="27">this title</cite>.</text>
-      <annotation type="Prior Codifications">§27.05.020 was formerly codified as 27.0502</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.05.020 was formerly codified as 27.0502</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.05.030</num>
       <heading>Cure of Default by Subordinate Lienholder</heading>
       <text>Prior to the entry of a judgment of foreclosure of a leasehold Mortgage pursuant to <cite path="27">this title</cite>, any Mortgagor or any Subordinate Lienholder may cure the default(s) under the leasehold Mortgage. Any Subordinate Lienholder who has cured a default shall thereafter have included in its lien the amount of all payments made by such Subordinate Lienholder to cure such default(s), plus interest on such amounts at the rate stated in the promissory note evidencing the subordinate lien.</text>
-      <annotation type="Prior Codifications">§27.05.030 was formerly codified as 27.0503</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.05.030 was formerly codified as 27.0503</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.05.040</num>
@@ -236,13 +250,17 @@
         <num>(b)</num>
         <text>Assigning such leasehold Estate to the Mortgagee or the Mortgagee's assignee.</text>
       </para>
-      <annotation type="Prior Codifications">§27.05.040 was formerly codified as 27.0504</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.05.040 was formerly codified as 27.0504</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.05.050</num>
       <heading>Injunction to Restrain Injury to Property</heading>
       <text>The court may, by injunction, on good cause shown, restrain the tenant of the leasehold estate or the mortgagor of the leasehold mortgage, or any of their successors or assigns from doing any act to the injury of the leasehold estate during the existence of the leasehold mortgage lien, foreclosure proceedings, or unlawful detainer actions.</text>
-      <annotation type="Prior Codifications">§27.05.050 was formerly codified as 27.0505</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.05.050 was formerly codified as 27.0505</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -253,7 +271,9 @@
       <num>27.06.010</num>
       <heading>Jurisdiction</heading>
       <text>The provisions of <cite path="27.06">this chapter</cite> shall apply to all persons and property subject to the governing authority of the Tribe as established by the <cite doc="Turtle Mountain Constitution and By-laws">constitution and bylaws of the Tribe</cite>.</text>
-      <annotation type="Prior Codifications">§27.06.010 was formerly codified as 27.0601</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.010 was formerly codified as 27.0601</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.06.020</num>
@@ -295,7 +315,9 @@
           <text>When such person continues to commit or to permit Waste upon or maintain a Nuisance upon the occupied property after having been given notice to either cease such Waste or maintenance of Nuisance or to surrender the property.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§27.06.020 was formerly codified as 27.0602</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.020 was formerly codified as 27.0602</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.06.030</num>
@@ -310,7 +332,9 @@
         <text>Posting said notice in a conspicuous place near the entrance to said leasehold Estate, and by sending an additional copy to the Tenant or occupier by certified mail, return receipt requested, properly addressed, postage prepaid.</text>
         <text>Proof of service by either of the above methods may be made by affidavit of any adult person stating that he or she has complied fully with the requirements of either of these two methods of service.</text>
       </para>
-      <annotation type="Prior Codifications">§27.06.030 was formerly codified as 27.0603</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.030 was formerly codified as 27.0603</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.06.040</num>
@@ -360,13 +384,17 @@
         <num>(b)</num>
         <text>A copy of the summons, issued in accordance with established Tribal Court rules and procedures. In the absence of such rules and procedures for the issuance of a summons, the summons shall require defendants to appear for trial upon the complaint on a date and time specified in the summons. The trial date specified in the summons shall be no less than six (6) or more than thirty (30) days from the date of service of the summons and complaint. The summons must notify the defendants that judgment will be taken against them in accordance with the terms of the complaint unless they file with the court an answer and appear for trial at the time, date and place specified in the summons.</text>
       </para>
-      <annotation type="Prior Codifications">§27.06.040 was formerly codified as 27.0604</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.040 was formerly codified as 27.0604</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.06.050</num>
       <heading>Service of Summons and Complaint</heading>
       <text>A copy of the summons and complaint shall be served upon the defendants in the manner provided by the Tribal Court rules for service of process in civil matters. In the absence of such Tribal Court rules, the summons and complaint shall be served by one of the two methods provided in Article II Section 3 above.</text>
-      <annotation type="Prior Codifications">§27.06.050 was formerly codified as 27.0605</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.050 was formerly codified as 27.0605</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.06.060</num>
@@ -397,25 +425,33 @@
         <num>(c)</num>
         <text>The Tribal Court shall have the authority to award costs and reasonable attorney's fees in bringing suit to the prevailing party.</text>
       </para>
-      <annotation type="Prior Codifications">§27.06.060 was formerly codified as 27.0606</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.060 was formerly codified as 27.0606</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.06.070</num>
       <heading>Enforcement</heading>
       <text>Upon issuance of a Writ of Restitution by the Tribal Court, Tribal law enforcement officers shall enforce the Writ of Restitution by evicting the defendants and their property from the Leasehold Estate which is unlawfully occupied. In all cases involving the Mortgagee (or its successors or assigns), the Writ of Restitution shall be enforced no later than sixty (60) days after the date of service of the summons and complaint, subject to <cite path="§27.06.080">Section 27.06.080</cite> below.</text>
-      <annotation type="Prior Codifications">§27.06.070 was formerly codified as 27.0607</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.070 was formerly codified as 27.0607</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.06.080</num>
       <heading>Continuances in Cases Involving the Mortgagee</heading>
       <text>Except by agreement of all parties, there shall be no continuances in cases involving the Mortgagee (or its successors or assigns) which will interfere with the requirement that the Writ of Restitution be enforced not later than sixty (60) days from the date of service of the summons and complaint.</text>
-      <annotation type="Prior Codifications">§27.06.080 was formerly codified as 27.0608</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.080 was formerly codified as 27.0608</annotation>
+      </annotations>
     </section>
     <section>
       <num>27.06.090</num>
       <heading>Alternative Remedies</heading>
       <text>In those cases in which the persons or property are subject to the jurisdiction of the courts of the State of North Dakota or the United States, the remedies and procedures provided by <cite path="27">this title</cite> are in the alternative to the remedies and procedures provided by the laws of the State of North Dakota or the United States.</text>
-      <annotation type="Prior Codifications">§27.06.090 was formerly codified as 27.0609</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.06.090 was formerly codified as 27.0609</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -426,7 +462,9 @@
       <num>27.07.010</num>
       <heading>Limited Waiver of Immunity</heading>
       <text>Only with regard to loans made by Mortgagees pursuant to the "Initiative" offered by "Fannie Mae", the Tribe hereby authorizes a limited waiver of immunity from suit that the Tribe may enjoy with respect to any and all controversies or claims arising out of or related to the obligations of the Tribe under the Tri-Party Agreement and the Leases described herein, and in connection with such waiver, the Tribe hereby consents and attorns to the personal jurisdiction of any court of competent jurisdiction with respect to any action to enforce any obligations owed by it to any other party or to enforce any of the other party's rights and/or remedies under such Tri-Party Agreement or Leases. The authority provided herein is not intended to nor shall it be construed to waive the immunity of the Tribe for any other purpose or with respect to any claim or other matter not specifically mentioned herein, and is not intended to, nor shall it extend to the benefit of, any person other than the parties to such agreements or their successors or assigns and Fannie Mae.</text>
-      <annotation type="Prior Codifications">§27.07.010 was formerly codified as 27.0701</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§27.07.010 was formerly codified as 27.0701</annotation>
+      </annotations>
     </section>
   </container>
 </container>
