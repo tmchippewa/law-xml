@@ -12,7 +12,7 @@
       <static-assets>https://github.com/tmchippewa/law-static-assets</static-assets>
       <html/>
     </canonical-urls>
-    <history-start>0000-01-01</history-start>
+    <history-start>2023-03-22</history-start>
   </meta>
   <xi:include href="./us/nsn/tmchippewa/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/tmchippewa/council/code/index.xml"/>
