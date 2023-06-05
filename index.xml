@@ -10,6 +10,7 @@
       <xml-bulk>https://github.com/tmchippewa/law-xml</xml-bulk>
       <html-bulk>https://github.com/tmchippewa/law-html</html-bulk>
       <static-assets>https://github.com/tmchippewa/law-static-assets</static-assets>
+      <law-git>https://github.com/tmchippewa/law.git</law-git>
       <html/>
     </canonical-urls>
     <history-start>2023-03-22</history-start>
