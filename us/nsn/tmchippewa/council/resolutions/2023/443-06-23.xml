@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res. No. 390-05-23">
-  <num>390-05-23</num>
-  <heading>Resolution Number TMBC390-05-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23">
+  <num>443-06-23</num>
+  <heading>Resolution Number TMBC443-06-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
   <meta>
-    <effective>2023-06-04</effective>
+    <effective>2023-08-01</effective>
     <citations>
-      <citation type="res" url="./adopted/390-05-23.pdf">Turtle Mountain Band of Chippewa Res. No. 390-05-23</citation>
+      <citation type="res" url="./adopted/443-06-23.pdf">Turtle Mountain Band of Chippewa Res. No. 443-06-23</citation>
     </citations>
     <history>
-      <adopted>2023-05-23</adopted>
+      <adopted>2023-06-15</adopted>
     </history>
   </meta>
   <recitals>
@@ -88,12 +88,12 @@
     <num>3</num>
     <text>Enactment and Effective Date</text>
     <include>
-      <text>The Tribal Council hereby enacts the Turtle Mountain Band of Chippewa Indians Tribal Code, which shall become effective on May 23, 2023.</text>
+      <text>The Tribal Council hereby enacts the Turtle Mountain Band of Chippewa Indians Tribal Code, which shall become effective on August 1, 2023.</text>
     </include>
   </section>
   <procedural-data>
     <text class="center">Certification</text>
-    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>six (6)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>23<sup>rd</sup> day of May, 2023</em></strong>  that the foregoing resolution was adopted by an affirmative vote of <strong><em>five (5) in favor</em></strong> – Representatives Lynn Gourneau, Ron Trottier Sr., Kenneth Malaterre, Jon Jon Keplin and Chad Counts; three (3) absent- Representatives Blaine "Slugger" Davis, Craig Lunday and Elmer Davis Jr.; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>six (6)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>15<sup>th</sup> day of June, 2023</em></strong>  that the foregoing resolution was adopted by an affirmative vote of <strong><em>five (5) in favor</em></strong> – Representatives Craig Lunday, Blaine "Slugger" Davis, Jon Jon Keplin, Elmer Davis Jr., and Chad Counts; three (3) absent- Representatives  Kenneth Malaterre, Ron Trottier Sr., and Lynn Gourneau; none (0) opposed; with the Tribal Chairman not voting.</text>
     <text>_____________________________</text>
     <text>Jolean A. Morin, Tribal Secretary</text>
     <text>(   ) SIGNED INTO LAW/Dated this____day of _____________, 2023</text>
