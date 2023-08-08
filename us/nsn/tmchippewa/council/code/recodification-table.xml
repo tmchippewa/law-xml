@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Recodification Table" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <attachment>
+    <heading>2023 Edition Recodification Table</heading>
+    <text>This table shows the location of former Turtle Mountain Band of Chippewa Indians Tribal Code sections within the 2023 Edition of the code.</text>
+    <text>The 2023 recodification:</text>
+    <text>
+      <ul>
+        <li>renumbered sections, adding a "padded zero" to allow for easy insertion</li>
+        <li>standardized subsection numbering, and</li>
+        <li>added cross-references.</li>
+      </ul>
+    </text>
+    <text>To find where a new section is located, type the old section number into the box below.</text>
+    <text>
+      <table class="filterable-table">
+        <thead>
+          <tr>
+            <th>Old Section</th>
+            <th>New Section</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </text>
+  </attachment>
+</container>
