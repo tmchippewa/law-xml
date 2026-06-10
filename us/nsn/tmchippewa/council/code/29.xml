@@ -1250,15 +1250,14 @@
         <heading>Authority</heading>
         <para>
           <num>(a)</num>
-          <text> Article IX, Section (a)(3) of the Constitution delegates to the Tribal Council the authority to regulate and license where permitted by law all business conducted upon the reservation.</text>
+          <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|3">Article IX, Section (a)(3) of the Constitution</cite> delegates to the Tribal Council the authority to regulate and license where permitted by law all business conducted upon the reservation.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Article IX, Section (a)(5) of the Constitution delegates to the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
+          <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|5">Article IX, Section (a)(5) of the Constitution</cite> delegates to the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.010 was formerly codified as 29.1101</annotation>
         </annotations>
       </section>
@@ -1279,7 +1278,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.020 was formerly codified as 29.1102</annotation>
         </annotations>
       </section>
@@ -1289,7 +1287,6 @@
         <text>The provisions of this Act shall apply to all limited liability companies (LLC) organized hereunder or which elect to accept the provisions of this Act. Preexisting LLC's shall be deemed to be in valid existence and allowed a ninety (90) day grace period from the date of the adoption of this Act to amend or conform their articles of organization in order to comply with the provisions herein.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.030 was formerly codified as 29.1103</annotation>
         </annotations>
       </section>
@@ -1304,13 +1301,8 @@
           <num>(b)</num>
           <text>Unless displaced by particular provision of this Act, the principles of law and equity supplement this Act.</text>
         </para>
-        <para>
-          <num>(c)</num>
-          <text>In the event the Article of Incorporation do not comport with <cite path="29.11">this Chapter</cite> the Tribal Secretary/Treasurer shall issue a Notice of Denial of Corporate Charter in compliance with <cite path="29">this Title</cite>.</text>
-        </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.040 was formerly codified as 29.1104</annotation>
         </annotations>
       </section>
@@ -1392,7 +1384,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.050 was formerly codified as 29.1105</annotation>
         </annotations>
       </section>
@@ -1409,7 +1400,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.060 was formerly codified as 29.1106</annotation>
         </annotations>
       </section>
@@ -1443,7 +1433,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.070 was formerly codified as 29.1107</annotation>
         </annotations>
       </section>
@@ -1473,7 +1462,6 @@
         <annotations>
           <annotation type="Prior Codifications">§29.11.080 was formerly codified as 29.1108</annotation>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
         </annotations>
       </section>
       <section>
@@ -1518,31 +1506,30 @@
         </para>
         <para>
           <num>(j)</num>
-          <text>Pay pensions and establish pension plans, pension trusts, profit-sharing plans, and benefit or incentive plans for any or all of its current or former members, managers, employees, and agents.</text>
-        </para>
-        <para>
-          <num>(k)</num>
           <text>Make donations to and otherwise devote its resources for the public welfare or for charitable, scientific, educational, humanitarian, philanthropic, or religious purposes.</text>
         </para>
         <para>
-          <num>(l)</num>
+          <num>(k)</num>
           <text>Indemnify a member, manager, employee, officer or agent, or any other person.</text>
         </para>
         <para>
-          <num>(m)</num>
+          <num>(l)</num>
           <text>Transact any lawful business that the members or the managers find to be in aid of governmental policy.</text>
         </para>
         <para>
-          <num>(n)</num>
+          <num>(m)</num>
           <text>Make payments or donations, or do any other act not prohibited by law, that furthers the business of the LLC.</text>
         </para>
         <para>
-          <num>(o)</num>
+          <num>(n)</num>
           <text>Provide benefits or payments to members, managers, employees, and agents of the LLC, and to their estates, families, dependents or beneficiaries in recognition of the past services of the members, managers, employees, and agents of the LLC.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Pay pensions and establish pension plans, pension trusts, profit-sharing plans, and benefit or incentive plans for any or all of its current or former members, managers, employees, and agents.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.090 was formerly codified as 29.1109</annotation>
         </annotations>
       </section>
@@ -1603,7 +1590,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.100 was formerly codified as 29.1110</annotation>
         </annotations>
       </section>
@@ -1613,7 +1599,6 @@
         <text>Any person who is adversely affected by the failure or refusal of any person to execute and file any articles or other document to be filed under this Title may petition the TMBCI's Tribal Court to direct the execution and filing of the articles or other document.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.110 was formerly codified as 29.1111</annotation>
         </annotations>
       </section>
@@ -1623,7 +1608,6 @@
         <text>An LLC may conduct its business, carry on its operations and have and exercise the powers granted by this Act, in any state, territory, district or possession of the United States, or in any foreign jurisdiction.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.11.120 was formerly codified as 29.1112</annotation>
         </annotations>
       </section>
@@ -1698,7 +1682,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.12.010 was formerly codified as 29.1201</annotation>
         </annotations>
       </section>
@@ -1743,7 +1726,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.12.020 was formerly codified as 29.1202</annotation>
         </annotations>
       </section>
@@ -1768,7 +1750,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.12.030 was formerly codified as 29.1203</annotation>
         </annotations>
       </section>
@@ -1793,7 +1774,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.12.040 was formerly codified as 29.1204</annotation>
         </annotations>
       </section>
@@ -1803,7 +1783,6 @@
         <text>The debts, obligations, and liabilities of an LLC, whether arising in contract, tort, or otherwise, shall be solely the debts, obligations, and liabilities of the LLC. Except as otherwise specifically provided in this Act, a member or manager of an LLC is not personally liable for any debt, obligation, or liability of an LLC, as defined in the Articles of Operation.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.12.050 was formerly codified as 29.1205</annotation>
         </annotations>
       </section>
@@ -1821,7 +1800,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.12.060 was formerly codified as 29.1206</annotation>
         </annotations>
       </section>
@@ -1839,7 +1817,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.12.070 was formerly codified as 29.1207</annotation>
         </annotations>
       </section>
@@ -1873,7 +1850,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.010 was formerly codified as 29.1301</annotation>
         </annotations>
       </section>
@@ -1922,7 +1898,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.020 was formerly codified as 29.1302</annotation>
         </annotations>
       </section>
@@ -1956,7 +1931,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.030 was formerly codified as 29.1303</annotation>
         </annotations>
       </section>
@@ -2017,7 +1991,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.040 was formerly codified as 29.1304</annotation>
         </annotations>
       </section>
@@ -2054,7 +2027,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.050 was formerly codified as 29.1305</annotation>
         </annotations>
       </section>
@@ -2071,7 +2043,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.060 was formerly codified as 29.1306</annotation>
         </annotations>
       </section>
@@ -2136,7 +2107,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.070 was formerly codified as 29.1307</annotation>
         </annotations>
       </section>
@@ -2153,7 +2123,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.080 was formerly codified as 29.1308</annotation>
         </annotations>
       </section>
@@ -2174,7 +2143,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.090 was formerly codified as 29.1309</annotation>
         </annotations>
       </section>
@@ -2184,7 +2152,6 @@
         <text>The profits and losses of an LLC shall be allocated among the members in the manner provided in articles of operation. If the members do not enter into articles of operation or the articles of operation does not so provide, profits and losses shall be allocated on the basis of value of the contributions made by each member.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.13.100 was formerly codified as 29.1310</annotation>
         </annotations>
       </section>
@@ -2199,7 +2166,6 @@
         <text>Except as provided in this Title, a member is entitled to receive distributions from an LLC before the member’s dissociation from the LLC and before its dissolution and winding up to the extent and at the times or upon the events specified in articles of organization, or to the extent and at the times determined by the members or managers.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.14.010 was formerly codified as 29.1401</annotation>
         </annotations>
       </section>
@@ -2209,24 +2175,15 @@
         <text>Distributions of cash or other assets of an LLC shall be allocated among the members as provided in articles of operation, or if the articles of operation does not provide, on the basis of the value of the contributions made by each member.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.14.020 was formerly codified as 29.1402</annotation>
         </annotations>
       </section>
       <section>
         <num>29.14.030</num>
         <heading>Distribution Upon Partial Redemption</heading>
-        <para>
-          <num>(a)</num>
-          <text>Except as provided in this Title, upon the distribution in partial liquidation of a member's interest, the redeeming member is entitled to receive the amount to which the member is entitled under articles of operation and, if not otherwise provided in articles of operation, the fair value of the redeemed interest based on the member's right to share in distributions from the LLC.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>When the Tribe is the sole member, distributions shall be made to the Tribal Secretary as directed in the operating agreement, but no less frequently than (monthly, quarterly, semi-annually, annually) to be deposited in the TMBCI general fund.</text>
-        </para>
+        <text>Except as provided in this Title, upon the distribution in partial liquidation of a member's interest, the redeeming member is entitled to receive the amount to which the member is entitled under articles of operation and, if not otherwise provided in articles of operation, the fair value of the redeemed interest based on the member's right to share in distributions from the LLC.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.14.030 was formerly codified as 29.1403</annotation>
         </annotations>
       </section>
@@ -2236,7 +2193,6 @@
         <text>Except as otherwise provided in this Chapter, upon an event of dissociation under the "Dissociation" Section of this Title that does not cause dissolution of the LLC, a dissociating member is entitled to receive any distribution to which member is entitled under articles of operation and, if not otherwise provided in articles of operation the fair value of the member's interest in the LLC based on the member's rights to share in distributions from the LLC.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.14.040 was formerly codified as 29.1404</annotation>
         </annotations>
       </section>
@@ -2254,7 +2210,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.14.050 was formerly codified as 29.1405</annotation>
         </annotations>
       </section>
@@ -2264,7 +2219,6 @@
         <text>At the time that a member becomes entitled to receive a distribution from an LLC, the member has the status of and is entitled to all remedies available to a creditor of the LLC with respect to the distribution.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.14.060 was formerly codified as 29.1406</annotation>
         </annotations>
       </section>
@@ -2301,7 +2255,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.14.070 was formerly codified as 29.1407</annotation>
         </annotations>
       </section>
@@ -2318,7 +2271,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.14.080 was formerly codified as 29.1408</annotation>
         </annotations>
       </section>
@@ -2344,7 +2296,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.15.010 was formerly codified as 29.1501</annotation>
         </annotations>
       </section>
@@ -2354,7 +2305,6 @@
         <text>The property of an LLC may be transferred by an instrument of transfer executed by any member in the name of the LLC, unless management is vested in managers, in which case the document of transfer shall be executed by a manager, subject to any limitation that may be imposed by the articles of operation.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.15.020 was formerly codified as 29.1502</annotation>
         </annotations>
       </section>
@@ -2364,7 +2314,6 @@
         <text>An LLC interest is personal property.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.15.030 was formerly codified as 29.1503</annotation>
         </annotations>
       </section>
@@ -2405,7 +2354,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.15.040 was formerly codified as 29.1504</annotation>
         </annotations>
       </section>
@@ -2415,7 +2363,6 @@
         <text>On application to a court of competent jurisdiction, including a court other than the TMBCI's Trial Court having valid jurisdiction over the member by any judgment creditor of a member, the court may charge the LLC interest of any member other than the TMBCI with payment of the unsatisfied amount of the judgment. To the extent so charged, the judgment creditor has only the rights of an assignee of the member's LLC interest. This Section does not deprive any member of the benefit of any exemption laws applicable to the LLC interest. In no event shall a court of competent jurisdiction issuing a charging order against the TMBCI's interest or issue an order attachable to the TMBCI's interest in abrogation of its sovereign immunity.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.15.050 was formerly codified as 29.1505</annotation>
         </annotations>
       </section>
@@ -2436,7 +2383,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.15.060 was formerly codified as 29.1506</annotation>
         </annotations>
       </section>
@@ -2446,7 +2392,6 @@
         <text>If a member who is an individual dies or a court of competent jurisdiction adjudges the member to be incompetent to manage his or her person or property, the member's personal representative, administrator, guardian, conservator, trustee, or other legal representative shall have all the rights of an assignee of the member's interest. If a member is a corporation, trust, partnership, limited liability company, or other entity and is dissolved or terminated, the powers of that member may be exercised by its legal representative or successor.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.15.070 was formerly codified as 29.1507</annotation>
         </annotations>
       </section>
@@ -2477,7 +2422,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.16.010 was formerly codified as 29.1601</annotation>
         </annotations>
       </section>
@@ -2507,7 +2451,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.16.020 was formerly codified as 29.1602</annotation>
         </annotations>
       </section>
@@ -2589,7 +2532,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.16.030 was formerly codified as 29.1603</annotation>
         </annotations>
       </section>
@@ -2611,7 +2553,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.16.040 was formerly codified as 29.1604</annotation>
         </annotations>
       </section>
@@ -2637,7 +2578,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.16.050 was formerly codified as 29.1605</annotation>
         </annotations>
       </section>
@@ -2662,7 +2602,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.16.060 was formerly codified as 29.1606</annotation>
         </annotations>
       </section>
@@ -2680,7 +2619,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.16.070 was formerly codified as 29.1607</annotation>
         </annotations>
       </section>
@@ -2706,7 +2644,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.17.010 was formerly codified as 29.1701</annotation>
         </annotations>
       </section>
@@ -2735,7 +2672,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.17.020 was formerly codified as 29.1702</annotation>
         </annotations>
       </section>
@@ -2745,7 +2681,6 @@
         <text>Each LLC that is a party to a proposed merger shall enter into a written plan of merger to be approved by the members or managers of the LLC by affirmative vote.  In the event an LLC in which the TMBCI is a member is a party to a proposed merger, such proposed merger shall also be approved by Tribal Council by resolution.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.17.030 was formerly codified as 29.1703</annotation>
         </annotations>
       </section>
@@ -2794,7 +2729,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.17.040 was formerly codified as 29.1704</annotation>
         </annotations>
       </section>
@@ -2840,7 +2774,6 @@
         </para>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.17.050 was formerly codified as 29.1705</annotation>
         </annotations>
       </section>
@@ -2850,7 +2783,6 @@
         <text>Unless otherwise provided in articles of operation, upon receipt of the notice required by "Approval of a Merger" Section of this Title, paragraph e, a member who did not vote in favor of the merger may, within twenty (20) days after the date of the notice, voluntarily disassociate from the LLC under the "Dissociation" Section of this Title, paragraph c and receive fair value for the member's LLC interest under the "Distribution Upon Dissociation" Section of this Title.</text>
         <annotations>
           <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 329-07-15"/>
-          <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26"/>
           <annotation type="Prior Codifications">§29.17.060 was formerly codified as 29.1706</annotation>
         </annotations>
       </section>

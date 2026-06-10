@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res.No. 851-01-26">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Turtle Mountain Band of Chippewa Indians Res. No. 851-01-26">
   <num>851-01-26</num>
-  <heading>Resolution Number Tmbc851-01-26 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
+  <heading>Resolution Number TMBC851-01-26 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
   <meta>
     <effective>2026-01-14</effective>
     <citations>
@@ -18,11 +18,11 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>Article IX (a) Section 1 of the <cite doc="Turtle Mountain Constitution and By-laws" proof="needed">Turtle Mountain Constitution and Bylaws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State and local governments and with private persons; and</text>
+      <text>Article IX (a) Section 1 of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State and local governments and with private persons; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text><cite doc="Turtle Mountain Constitution and By-laws" path="VII|1" proof="needed">Article VII Section 1 of the Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise.  Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="VII|1">Article VII Section 1 of the Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise.  Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
